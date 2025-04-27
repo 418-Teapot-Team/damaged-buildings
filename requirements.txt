@@ -1,0 +1,9 @@
+langgraph
+langchain-groq
+pydantic
+langchain-core
+langchain-openai
+langchain-community
+flask
+python-dotenv
+flask-cors
