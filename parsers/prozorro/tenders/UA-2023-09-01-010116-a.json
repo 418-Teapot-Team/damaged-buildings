@@ -1,0 +1,74 @@
+{
+    "title": "Послуга з поточного ремонту службових приміщень адміністративної будівлі за адресою: бульвар Тараса Шевченка, 16, м. Київ, після ракетного обстрілу",
+    "tender_id": "UA-2023-09-01-010116-a",
+    "tender_hash": "74d3112feda24d07a261770fa40a9d79",
+    "status": "Завершена",
+    "expected_cost": {
+        "amount": 1870000.0,
+        "currency": "UAH"
+    },
+    "customer": {},
+    "subject": {},
+    "awards": [
+        {
+            "participant_name": "Надання послуг",
+            "decision": "Замовник проводить оплату вартості Послуги на підставі Акта приймання виконаних будівельних робіт (форма КБ-2в) та Довідки про вартість виконання будівельних робіт (форма КБ-3) протягом 15 (п’ятнадцяти) робочих днів з дати підписання Акта приймання виконаних будівельних робіт (форма КБ-2в) (далі – Акт) та Довідки про вартість виконання будівельних робіт (форма КБ-3) (далі - Довідка) за умови надходження фактичного бюджетного фінансування видатків на рахунок Замовника у поточному році. У випадку відсутності на розрахунковому рахунку Замовника бюджетного фінансування видатків, призначених на оплату Послуги, Замовник проводить оплату наданої Послуги протягом 10 (десяти) робочих днів з дня надходження відповідного бюджетного фінансування на рахунок Замовника.",
+            "publication_date": "15"
+        }
+    ],
+    "dates": {},
+    "documents": [
+        {
+            "date": "04 вересня 202312:33",
+            "title": "Електронний підпис",
+            "url": "https://public-docs.prozorro.gov.ua/get/968e0542f2924984b25666474349d1a5?Signature=46diWOlhsuqNyx63eKpv2rEAcmRr9r3Kcpa0JZ1crxx8RW5NUrPqf4Dkiifhd0wcQHLyE7uP6tbgPTpEXdYCBg%3D%3D&KeyID=52462340"
+        },
+        {
+            "date": "01 вересня 202318:32",
+            "title": "ОГОЛОШЕННЯ про проведення торгів.docx",
+            "url": "https://public-docs.prozorro.gov.ua/get/9a09857df3ce41c784b460b168a21e51?Signature=70f0ahXiiiEOgf6BbFd7bkNmU9tnPnaKv4zJul3AgG1A%2FI%2FazCyCro8E8%2BpWiCabDLh490O0tGDn3YoneFEiBw%3D%3D&KeyID=52462340"
+        },
+        {
+            "date": "01 вересня 202318:31",
+            "title": "ОГОЛОШЕННЯ про проведення торгів.docx",
+            "url": "https://public-docs.prozorro.gov.ua/get/11429c67a6b64f53817de95df31b369b?Signature=2HgcOo8nY9xmYPdDbynzwzmLlUoVIl110p57jG2GZ8VNUQ4X6Z0fDCSTLq0wPgj44SWfIebb2GqEHPn4stNaBA%3D%3D&KeyID=52462340"
+        },
+        {
+            "date": "01 вересня 202318:30",
+            "title": "ТД поточний ремонт_ б-р Т. Шевченка,01.09.docx",
+            "url": "https://public-docs.prozorro.gov.ua/get/04ab7063400841c4a7daf5cb95e2ecf5?Signature=wta%2FL5wOgu1DBZ8C9ygXwBdqdvjs1tMo0OFKaF%2FZfo7dO00YrTyP4eDyhq8h4dzoptbtcj30%2FJCQuRnud1l2BQ%3D%3D&KeyID=52462340"
+        },
+        {
+            "date": "04 вересня 202312:33",
+            "title": "Електронний підпис",
+            "url": "https://public-docs.prozorro.gov.ua/get/968e0542f2924984b25666474349d1a5?Signature=46diWOlhsuqNyx63eKpv2rEAcmRr9r3Kcpa0JZ1crxx8RW5NUrPqf4Dkiifhd0wcQHLyE7uP6tbgPTpEXdYCBg%3D%3D&KeyID=52462340"
+        },
+        {
+            "date": "01 вересня 202318:44",
+            "title": "Електронний підпис",
+            "url": "https://public-docs.prozorro.gov.ua/get/74876cce954d439da317971830f3aaa4?Signature=ApeIz4L%2FEqYPFiRnD2iAPVZEuETKbj6pfLkcvkDsjOPeMQWB21o3mALPyMMpVY0xjj9d8bEGp%2F8OemdcTchqDA%3D%3D&KeyID=52462340"
+        },
+        {
+            "date": "01 вересня 202318:32",
+            "title": "ОГОЛОШЕННЯ про проведення торгів.docx",
+            "url": "https://public-docs.prozorro.gov.ua/get/9a09857df3ce41c784b460b168a21e51?Signature=70f0ahXiiiEOgf6BbFd7bkNmU9tnPnaKv4zJul3AgG1A%2FI%2FazCyCro8E8%2BpWiCabDLh490O0tGDn3YoneFEiBw%3D%3D&KeyID=52462340"
+        },
+        {
+            "date": "01 вересня 202318:31",
+            "title": "ОГОЛОШЕННЯ про проведення торгів.docx",
+            "url": "https://public-docs.prozorro.gov.ua/get/11429c67a6b64f53817de95df31b369b?Signature=2HgcOo8nY9xmYPdDbynzwzmLlUoVIl110p57jG2GZ8VNUQ4X6Z0fDCSTLq0wPgj44SWfIebb2GqEHPn4stNaBA%3D%3D&KeyID=52462340"
+        },
+        {
+            "date": "01 вересня 202318:30",
+            "title": "ТД поточний ремонт_ б-р Т. Шевченка,01.09.docx",
+            "url": "https://public-docs.prozorro.gov.ua/get/04ab7063400841c4a7daf5cb95e2ecf5?Signature=wta%2FL5wOgu1DBZ8C9ygXwBdqdvjs1tMo0OFKaF%2FZfo7dO00YrTyP4eDyhq8h4dzoptbtcj30%2FJCQuRnud1l2BQ%3D%3D&KeyID=52462340"
+        },
+        {
+            "date": "01 вересня 202318:44",
+            "title": "Електронний підпис",
+            "url": "https://public-docs.prozorro.gov.ua/get/74876cce954d439da317971830f3aaa4?Signature=ApeIz4L%2FEqYPFiRnD2iAPVZEuETKbj6pfLkcvkDsjOPeMQWB21o3mALPyMMpVY0xjj9d8bEGp%2F8OemdcTchqDA%3D%3D&KeyID=52462340"
+        }
+    ],
+    "longitude": "50.444017",
+    "latitude": "30.511943"
+}

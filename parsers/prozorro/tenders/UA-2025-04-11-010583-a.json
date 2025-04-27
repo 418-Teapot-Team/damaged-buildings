@@ -1,0 +1,69 @@
+{
+    "title": "Виконання будівельних робіт за об’єктом: «Капітальний ремонт будівлі КРУЕ***, пошкодженого внаслідок ракетного обстрілу ***, за адресою: м. Київ, ***»",
+    "tender_id": "UA-2025-04-11-010583-a",
+    "tender_hash": "a25ba072da99484dafcb1bcf75cdfffc",
+    "status": "Подання пропозицій",
+    "expected_cost": {
+        "amount": 9411563.39,
+        "currency": "UAH"
+    },
+    "customer": {},
+    "subject": {},
+    "awards": [
+        {
+            "participant_name": "Iнша подія",
+            "decision": "30% від загальної ціни Договору – попередня оплата (аванс) протягом 10 робочих днів від дати направлення Замовником Підряднику повідомлення про початок виконання робіт.",
+            "publication_date": "10"
+        },
+        {
+            "participant_name": "Виконання робіт",
+            "decision": "80 % від остаточної оплати за виконані роботи – протягом 40 (сорок) робочих днів з дати підписання уповноваженими представниками Сторін відповідних Актів приймання виконаних робіт за формою КБ-2в (далі – Акт форма КБ-2в) та Довідок про вартість виконаних робіт та витрати за формою КБ-3 (далі – Довідка форма КБ-3); залишок остаточної оплати за виконані роботи – протягом 40 (сорок) робочих днів з дати реєстрації в Єдиному реєстрі податкових накладних (ЄРПН) належним чином складених Підрядником податкових накладних (ПН)/розрахунків коригування до податкових накладних (РК) на суму Акта форма КБ-2в та Довідки форма КБ-3, а також направлення Підрядником таких зареєстрованих ПН/РК, оформлених належним чином в електронній формі з дотриманням вимог Законів України «Про електронні документи та електронний документообіг» і «Про електронну ідентифікацію та електронні довірчі послуги», на адресу електронної пошти відповідального представника Замовника за опрацювання отриманих ПН/РК (реєстрацію в ЄРПН отриманих РК на зменшення), вказану в Договорі.",
+            "publication_date": "40"
+        }
+    ],
+    "dates": {},
+    "documents": [
+        {
+            "date": "11 квітня 202515:31",
+            "title": "Електронний підпис",
+            "url": "https://public-docs.prozorro.gov.ua/get/5e61f91945b14cc0a791951808229dd1?Signature=0HPgT7aeKwBTnC%2F6b6Vp6WDxtaAJ4nWVavdPkoheOzrqkimtVYuLNZ6qPbHLnlD3qvUVcMDX5M%2Bd5s0LEs7RBg%3D%3D&KeyID=52462340"
+        },
+        {
+            "date": "11 квітня 202515:31",
+            "title": "Додаток 1 (вимоги до учасника).docx",
+            "url": "https://public-docs.prozorro.gov.ua/get/977dadc5f58d4b5f83eb7da2f3f27058?Signature=xmQio1Lw8jBxmi8LriS2H7dmHKJzOLLeGhExI48Ipk0RFj%2B5iTlF%2BWdwr%2Fh10iqE2VBGgISQFZgSsBmNbh5DAA%3D%3D&KeyID=52462340"
+        },
+        {
+            "date": "11 квітня 202515:31",
+            "title": "Додаток 3 до ТД (прих).docx",
+            "url": "https://public-docs.prozorro.gov.ua/get/ec3e39e9ce3f4ec6856f4e13d843f8a8?Signature=2Tnd8Eix0%2F968cZHCILnzShSuJDz%2B%2BkM4WZxMBwDa9Z5by32NHfe7IrlQsjFn%2B1pbyhj0Vfds223ubBxBzLeDQ%3D%3D&KeyID=52462340"
+        },
+        {
+            "date": "11 квітня 202515:31",
+            "title": "Додаток 2 (кваліф.критер).docx",
+            "url": "https://public-docs.prozorro.gov.ua/get/233e6c6f5be74182bf1855b1a0059bf3?Signature=unyq0q4k%2F1mfdr4a4%2F78buiuIH5p5%2FntlRv7ash7YeA4MoYIKhnWUinqWa2tf%2Fy%2F7ut%2BiiBdIkCFyVG6uRKSCw%3D%3D&KeyID=52462340"
+        },
+        {
+            "date": "11 квітня 202515:31",
+            "title": "Додаток 6 (вимоги до переможця).docx",
+            "url": "https://public-docs.prozorro.gov.ua/get/cbe22b6a5e754abfb4315be22ad97511?Signature=TcvR3mBqb0JrioMy%2BtmL5h1lFsY6S5UbiKuCohjsIE2EVBtNScuy8pgOO33IB29bgsv52Zf9js%2FAo9B5ZJf%2FBw%3D%3D&KeyID=52462340"
+        },
+        {
+            "date": "11 квітня 202515:31",
+            "title": "Додаток 4 (субпідряд).docx",
+            "url": "https://public-docs.prozorro.gov.ua/get/f59df1505704426a8496679561c85b8e?Signature=7O6xCWwtaNWSqKIrVFYUro1MFHw9e7RBSllq9VSTqLRQNfOg98yDzAbUvpbES2RmIGZOVB9u4XSrJMFxBOINAg%3D%3D&KeyID=52462340"
+        },
+        {
+            "date": "11 квітня 202515:31",
+            "title": "ТДО,4522.docx",
+            "url": "https://public-docs.prozorro.gov.ua/get/b340bc1ad3eb4063970a73a3aea6ad22?Signature=wcmVY%2Fv%2BYJWtozuHcwTK%2BKYw4iKg65O8rB46XHJYYX%2FkceF%2BljsBioR9Ss6NcD0yPrieHtgYKwi4W2IgV4lwBA%3D%3D&KeyID=52462340"
+        },
+        {
+            "date": "11 квітня 202515:31",
+            "title": "ПРОЄКТ договору (прих).docx",
+            "url": "https://public-docs.prozorro.gov.ua/get/a4de7a95049b46bcb3fe7dfe893e1d14?Signature=YPRg7sxjKmIc5OveXq%2BpMEKu6ac858hpdy4Y0s45zZsORJz1mFDy0q25Jqr0UIjagb%2F1P8sgm0XYtNp91FjhBQ%3D%3D&KeyID=52462340"
+        }
+    ],
+    "longitude": "50.4501",
+    "latitude": "30.5234"
+}

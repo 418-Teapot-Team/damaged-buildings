@@ -1,0 +1,40 @@
+{
+    "title": "Послуги з налаштування системи контролю доступу  в адмінбудівлі  за адресою: бульвар Тараса Шевченка, 16, м. Київ (відновлення після ракетних обстрілів м. Києва, які сталися 10 жовтня 2022 року)",
+    "tender_id": "UA-2023-03-28-009307-a",
+    "tender_hash": "28ed4b8b9c894b28aa2819e27fc6ebd9",
+    "status": "Завершена",
+    "expected_cost": {
+        "amount": 39000.0,
+        "currency": "UAH"
+    },
+    "customer": {},
+    "subject": {
+        "delivery_place": "01135, Україна, Київська область, Київ, бульвар Тараса Шевченка, 16",
+        "description": "Послуга з налаштування системи контролю доступу  в адмінбудівлі  за адресою: бульвар Тараса Шевченка, 16, м. Київ (відновлення після ракетних обстрілів м. Києва, які сталися 10 жовтня 2022 року)",
+        "quantity": "1 послуга"
+    },
+    "awards": [
+        {
+            "participant_name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"БІТРЕЙТ\"",
+            "participant_edrpou": "41026575",
+            "decision": "Переможець",
+            "bid_amount": 39000.0,
+            "bid_currency": "UAH",
+            "publication_date": "28 березня  2023 15:54"
+        }
+    ],
+    "dates": {},
+    "documents": [
+        {
+            "date": "28 березня 202315:55",
+            "title": "Електронний підпис",
+            "url": "https://public-docs.prozorro.gov.ua/get/2f4083618b3c4cc884481f39e72bdaae?Signature=e9Aaup0VUcWThnXer6a1CFIPC0roPxH9DUb5zbLr7f9n5hhIHXlZsBSmfkRqmytr%2BdJfTfK%2Fls1OETtGvVZhAQ%3D%3D&KeyID=52462340"
+        }
+    ],
+    "location": {
+        "postal_code": "01135",
+        "region": "Київ"
+    },
+    "longitude": "50.444017",
+    "latitude": "30.511943"
+}

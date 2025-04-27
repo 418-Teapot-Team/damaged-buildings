@@ -1,0 +1,40 @@
+{
+    "title": "Поточний ремонт приміщень та вікон (наслідки ракетних обстрілів)",
+    "tender_id": "UA-2022-11-22-007030-a",
+    "tender_hash": "c4302aec1d46423e9c5c72057d176cbc",
+    "status": "Завершена",
+    "expected_cost": {
+        "amount": 499995.55,
+        "currency": "UAH"
+    },
+    "customer": {},
+    "subject": {
+        "delivery_place": "01032, Україна, Київська область, Київ, вулиця Жилянська, будинок 88",
+        "description": "Поточний ремонт приміщень та вікон (наслідки ракетних обстрілів)",
+        "quantity": "1 послуга"
+    },
+    "awards": [
+        {
+            "participant_name": "ТОВ \"Будівельно-виробнича фірма \"АІС Медесан\"",
+            "participant_edrpou": "19015346",
+            "decision": "Переможець",
+            "bid_amount": 499995.55,
+            "bid_currency": "UAH",
+            "publication_date": "22 листопада  2022 12:39"
+        }
+    ],
+    "dates": {},
+    "documents": [
+        {
+            "date": "22 листопада 202212:44",
+            "title": "Електронний підпис",
+            "url": "https://public-docs.prozorro.gov.ua/get/98bfed95d82545de9c8e1a20e363ecb2?Signature=VFhxfs254%2B6pwYeGR2aEdm5d%2BW%2F%2FyivYmZMDVGFj3h%2BmC0kw5YJ2r5r%2BLKb2RJ8hUvrQDl1IolVh7W7HHOk1DQ%3D%3D&KeyID=52462340"
+        }
+    ],
+    "location": {
+        "postal_code": "01032",
+        "region": "Київ"
+    },
+    "longitude": "50.439175056",
+    "latitude": "30.499927342"
+}

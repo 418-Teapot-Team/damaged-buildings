@@ -1,0 +1,40 @@
+{
+    "title": "Послуга з налаштування системи відеоспостереження  в адмінбудівлі  за адресою: бульвар Тараса Шевченка, 16, м. Київ (відновлення після ракетних обстрілів м. Києва, які сталися 10 жовтня 2022 року)",
+    "tender_id": "UA-2023-03-28-007365-a",
+    "tender_hash": "24caaa84d3ff408c979d75c6bb0cd2f1",
+    "status": "Завершена",
+    "expected_cost": {
+        "amount": 40156.0,
+        "currency": "UAH"
+    },
+    "customer": {},
+    "subject": {
+        "delivery_place": "01135, Україна, Київська область, Київ, проспект Перемоги, 10",
+        "description": "Послуга з налаштування системи відеоспостереження  в адмінбудівлі  за адресою: бульвар Тараса Шевченка, 16, м. Київ (відновлення після ракетних обстрілів м. Києва, які сталися 10 жовтня 2022 року)",
+        "quantity": "1 послуга"
+    },
+    "awards": [
+        {
+            "participant_name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"БІТРЕЙТ\"",
+            "participant_edrpou": "41026575",
+            "decision": "Переможець",
+            "bid_amount": 40156.0,
+            "bid_currency": "UAH",
+            "publication_date": "28 березня  2023 14:39"
+        }
+    ],
+    "dates": {},
+    "documents": [
+        {
+            "date": "28 березня 202314:41",
+            "title": "Електронний підпис",
+            "url": "https://public-docs.prozorro.gov.ua/get/8031d22a40e340fab393ed31ec2cef0b?Signature=kyZW5PE5SljAQu6KiqVtbwzlCrC1%2FXaekEOJ9KbfMlhiEw0wxVVO5V0zmlJ7ueRvIK7r1RcDoFRQuutTESJ7Dw%3D%3D&KeyID=52462340"
+        }
+    ],
+    "location": {
+        "postal_code": "01135",
+        "region": "Київ"
+    },
+    "longitude": "50.444017",
+    "latitude": "30.511943"
+}

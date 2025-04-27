@@ -1,0 +1,41 @@
+{
+    "title": "Ремонт системи пожежної сигналізації блока ст.№4 на ТЕЦ-5, пошкодженої внаслідок ракетного обстрілу рф, за адресою: м. Київ, вул. ############",
+    "tender_id": "UA-2024-05-22-008800-a",
+    "tender_hash": "4d8733d6d82f441a90ed9b4dd7076821",
+    "status": "Українська Визвольна Війна",
+    "expected_cost": {
+        "amount": 984673.08,
+        "currency": "UAH"
+    },
+    "customer": {},
+    "subject": {
+        "delivery_place": "Україна, Відповідно до документації",
+        "description": "Ремонт системи пожежної сигналізації блока ст.№4 на ТЕЦ-5, пошкодженої внаслідок ракетного обстрілу рф, за адресою: м. Київ, вул. ############",
+        "quantity": "1 послуга"
+    },
+    "awards": [
+        {
+            "participant_name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ «Охорона-системи безпеки»",
+            "participant_edrpou": "43193268",
+            "decision": "Переможець",
+            "bid_amount": 984673.08,
+            "bid_currency": "UAH",
+            "publication_date": "22 травня  2024 14:51"
+        }
+    ],
+    "dates": {},
+    "documents": [
+        {
+            "date": "22 травня 202414:51",
+            "title": "Електронний підпис",
+            "url": "https://public-docs.prozorro.gov.ua/get/82bda75eb5784a678fd09ed1b64b2faa?Signature=Ek8vz%2BrNn9mXTUDNA7%2FJKDD7q%2BzF35E6YjZPhQOw2NdhaKuXSSWD8KYb5j9zLclkDkrDevOABpOKNgKLDjFNAg%3D%3D&KeyID=52462340"
+        },
+        {
+            "date": "22 травня 202414:51",
+            "title": "Obgruntuvannya_pidpisane.pdf",
+            "url": "https://public-docs.prozorro.gov.ua/get/e0c7752904344dbfa7ac7e5307e96679?Signature=5EC9F6l%2BGr6qBqYpH5Jq1YuVIC%2Fwrw28DPqeaC5v3MfYhnhsTOqjVUtU94zB68mUL7Rg6NXWqk5yRrT9RMFYDg%3D%3D&KeyID=52462340"
+        }
+    ],
+    "longitude": "50.4501",
+    "latitude": "30.5234"
+}

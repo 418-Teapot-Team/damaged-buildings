@@ -1,7 +1,7 @@
 import logging
 import os
 from core import ProzorroScraper
-from ai_analyzer import BuildingAnalyzer
+from parsers.prozorro.ai_analyzer import BuildingAnalyzer
 from dotenv import load_dotenv
 
 def setup_logging():

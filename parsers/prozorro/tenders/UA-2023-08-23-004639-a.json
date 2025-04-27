@@ -1,0 +1,40 @@
+{
+    "title": "Капітальний ремонт із заміни та аварійного ремонту віконних блоків, пошкоджених внаслідок ракетного обстрілу під час воєнної   агресії рф в учбовому корпусі фізичного виховання НУХТ за адресою пр-т  Науки, 29-А у м. Києві",
+    "tender_id": "UA-2023-08-23-004639-a",
+    "tender_hash": "d5840295e6254cbe9298355fa13db64b",
+    "status": "Завершена",
+    "expected_cost": {
+        "amount": 91490.15,
+        "currency": "UAH"
+    },
+    "customer": {},
+    "subject": {
+        "delivery_place": "03028, Україна, м. Київ, пр-т  Науки, 29-А",
+        "description": "Капітальний ремонт із заміни та аварійного ремонту віконних блоків, пошкоджених внаслідок ракетного обстрілу під час воєнної   агресії рф в учбовому корпусі фізичного виховання НУХТ за адресою пр-т  Науки, 29-А у м. Києві",
+        "quantity": "1 роботи"
+    },
+    "awards": [
+        {
+            "participant_name": "Товариство з обмеженою відповідальністю «ІНВЕСТБУД-8»",
+            "participant_edrpou": "21561205",
+            "decision": "Переможець",
+            "bid_amount": 91490.15,
+            "bid_currency": "UAH",
+            "publication_date": "23 серпня  2023 12:02"
+        }
+    ],
+    "dates": {},
+    "documents": [
+        {
+            "date": "23 серпня 202312:03",
+            "title": "Електронний підпис",
+            "url": "https://public-docs.prozorro.gov.ua/get/e332ae28bd9847e8b360824268cba440?Signature=SjeL9diZi8wqB%2BSpurvv0wTshlcCGllEQRhXoqUBgi%2BzhHWOKR8gkfLFSFReRsJKIAEBVr6HcYjriepWCFHQAg%3D%3D&KeyID=52462340"
+        }
+    ],
+    "location": {
+        "postal_code": "03028",
+        "region": "м. Київ"
+    },
+    "longitude": "50.395514",
+    "latitude": "30.533970"
+}

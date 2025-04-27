@@ -1,0 +1,41 @@
+{
+    "title": "Виконання робіт з розробки проектної документації по об’єкту: «Капітальний ремонт будівлі КРУЕ-330 кВ ***, пошкодженого внаслідок ракетного обстрілу ***, за адресою: м.Київ, ***»",
+    "tender_id": "UA-2024-12-23-009884-a",
+    "tender_hash": "cbcfd70093794677b9a2c489d2987009",
+    "status": "Українська Визвольна Війна",
+    "expected_cost": {
+        "amount": 149385.01,
+        "currency": "UAH"
+    },
+    "customer": {},
+    "subject": {
+        "delivery_place": "Україна, Відповідно до документації",
+        "description": "Виконання робіт з розробки проектної документації по об’єкту: «Капітальний ремонт будівлі КРУЕ-330 кВ ***, пошкодженого внаслідок ракетного обстрілу ***, за адресою: м.Київ, ***»",
+        "quantity": "1 робота"
+    },
+    "awards": [
+        {
+            "participant_name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"УКРЕНЕРГОПРОМ-3\"",
+            "participant_edrpou": "31564943",
+            "decision": "Переможець",
+            "bid_amount": 149385.01,
+            "bid_currency": "UAH",
+            "publication_date": "23 грудня  2024 13:28"
+        }
+    ],
+    "dates": {},
+    "documents": [
+        {
+            "date": "23 грудня 202413:28",
+            "title": "Електронний підпис",
+            "url": "https://public-docs.prozorro.gov.ua/get/f7c36c5e05074c24a92a51937a65ddce?Signature=Eb5vTFrbW4MuGhVS0yrF%2FM2KszHIeluuO19lwIdVdQj39QtMbHN4WQIipSHYGM%2BpkEZ8RmWqkILkEHPxLbFCCg%3D%3D&KeyID=52462340"
+        },
+        {
+            "date": "23 грудня 202413:28",
+            "title": "Obgruntuvannya_prihovana_informaciya.pdf",
+            "url": "https://public-docs.prozorro.gov.ua/get/13578dca5c62433694c0ad6b5a977005?Signature=7P5tRQoC1Tg0HJkLXn8L8QxlSf88CTQSx6WYjt947FWuyM7rsT59DcTY%2F8hO0cu%2B8%2BnpxURDWlN0JedHtWeYDA%3D%3D&KeyID=52462340"
+        }
+    ],
+    "longitude": "50.4501",
+    "latitude": "30.5234"
+}

@@ -1,0 +1,40 @@
+{
+    "title": "Капітальний ремонт з відновлення вікон у нежитловому будинку пошкодженому внаслідок ракетних обстрілів (бойових дій)",
+    "tender_id": "UA-2022-12-19-009783-a",
+    "tender_hash": "8665073ed8d14084af12ca5723006ed5",
+    "status": "Завершена",
+    "expected_cost": {
+        "amount": 1149796.6,
+        "currency": "UAH"
+    },
+    "customer": {},
+    "subject": {
+        "delivery_place": "01030, Україна, м. Київ, ВУЛИЦЯ ЛЕОНТОВИЧА, будинок 11",
+        "description": "Капітальний ремонт з відновлення вікон у нежитловому будинку пошкодженому внаслідок ракетних обстрілів (бойових дій)",
+        "quantity": "1 штуки"
+    },
+    "awards": [
+        {
+            "participant_name": "ТОВ ІНТЕРМЕТАЛПЛАСТ",
+            "participant_edrpou": "33583910",
+            "decision": "Переможець",
+            "bid_amount": 1149796.6,
+            "bid_currency": "UAH",
+            "publication_date": "19 грудня  2022 13:05"
+        }
+    ],
+    "dates": {},
+    "documents": [
+        {
+            "date": "19 грудня 202213:08",
+            "title": "Електронний підпис",
+            "url": "https://public-docs.prozorro.gov.ua/get/4f67835484794b60a009df0751617aba?Signature=Y2llMgl5oviSK6nGAceNRZ%2F41tA5DGVxp28Q5kyL%2F7TizNtrCifvKFhz7eqBrgrpE2Pot3S0WhrTsKe%2FLd6vBQ%3D%3D&KeyID=52462340"
+        }
+    ],
+    "location": {
+        "postal_code": "01030",
+        "region": "м. Київ"
+    },
+    "longitude": "50.4446501",
+    "latitude": "30.5099033"
+}
