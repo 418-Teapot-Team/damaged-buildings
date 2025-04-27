@@ -16,4 +16,4 @@ COPY . .
 
 EXPOSE 8000
 
-CMD ["python", "ai_chat/main.py"]
+CMD ["flask", "--app=ai_chat/main.py", "run", "--host=0.0.0.0", "--port=8000"]
