@@ -8,3 +8,4 @@ flask
 python-dotenv
 flask-cors
 google-search-results
+qdrant-client
