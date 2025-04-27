@@ -16,4 +16,4 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["python", "app.py"]
+CMD ["python", "ai_chat/main.py"]
