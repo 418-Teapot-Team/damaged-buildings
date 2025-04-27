@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Answer Request</title>
+</head>
+<body>
+  <h1>Answer</h1>
+
+  <button id="sendButton">Send Request</button>
+  <button id="respondButton">Respond</button>
+
+  <pre id="result" style="background: #f0f0f0; padding: 10px; white-space: pre-wrap;"></pre>
+
+  <script>
+    const uuid = "887db595-1d68-4896-a5d4-42c2e6b9e59e";
+    const resultElement = document.getElementById('result');
+
+    async function sendRequest(endpoint, payload) {
+      resultElement.textContent = 'Loading...';
+
+      try {
+        const response = await fetch(endpoint + "?uuid=" + uuid, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify(payload)
+        });
+
+        const data = await response.json();
+        resultElement.textContent = data.message; // ✅ show just the message
+      } catch (error) {
+        console.error('Request failed:', error);
+        resultElement.textContent = 'Error occurred.';
+      }
+    }
+
+    document.getElementById('sendButton').addEventListener('click', () => {
+      sendRequest(
+        "http://127.0.0.1:5000/answer-question",
+        {
+          config: { configurable: { thread_id: uuid } },
+          user_message: "Ask the user what has been destroyed and help them calculate the repayment. Ask questions if you need more clearence to correctly evaluate the amount",
+          user_id: 1
+        }
+      );
+    });
+
+    document.getElementById('respondButton').addEventListener('click', () => {
+      sendRequest(
+        "http://127.0.0.1:5000/resume-conversation",
+        {
+          config: { configurable: { thread_id: uuid } },
+          user_message: "The total estimated value of the destroyed items is approximately $20,000.",
+          user_id: 1
+        }
+      );
+    });
+  </script>
+
+</body>
+</html>
