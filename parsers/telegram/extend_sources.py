@@ -8,8 +8,8 @@ from main import TelegramScraper
 
 # Define fixed paths
 CACHE_DIR = "cache/telegram"
-INPUT_FILE = "../ukraine_bellingcat/api_residential.json"
-OUTPUT_FILE = "../ukraine_bellingcat/extended_sources.json"
+INPUT_FILE = "../cleaning/cleaned_items.json"
+OUTPUT_FILE = "../telegram/extended_sources.json"
 
 # Ensure cache directory exists
 Path(CACHE_DIR).mkdir(parents=True, exist_ok=True)
@@ -21,9 +21,9 @@ with open(INPUT_FILE, "r") as f:
 
 async def main():
     for idx, item in enumerate(items, start=1):
-        print(f"{idx}/{len(items)}:", item["id"])
+        print(f"{idx}/{len(items)}:", item["bellingcat"]["id"])
         extended_sources = []
-        for link in item["sources"]:
+        for link in item["bellingcat"]["sources"]:
             if link.startswith("https://t.me/"):
                 scraper = TelegramScraper(link, cache_dir=CACHE_DIR)
                 post_data = await scraper.run()

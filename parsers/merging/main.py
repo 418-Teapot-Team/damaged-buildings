@@ -36,52 +36,46 @@ def calculate_distance(lat1, lon1, lat2, lon2):
 def _calculate_probability():
     import random
 
-    return random.random() < 0.03
+    return random.random() < 0.02
 
 
 with open(BELLINGCAT_PATH, "r") as file:
     items = json.load(file)
 
-
-results = []
-
+# Load all tenders first
+tenders = []
 for filename in os.listdir(TENDERS_PATH):
     with open(os.path.join(TENDERS_PATH, filename), "r") as file:
         tender = json.load(file)
+    if "latitude" in tender and "longitude" in tender:
+        tenders.append(tender)
 
-    # Skip tenders without coordinates
-    if "latitude" not in tender or "longitude" not in tender:
+results = []
+with_tenders = 0
+
+# Reversed loop structure: outer loop is items, inner loop is tenders
+for item in items:
+    # Skip items without coordinates
+    if "latitude" not in item or "longitude" not in item:
         continue
 
-    tender_lat = tender["latitude"]
-    tender_lon = tender["longitude"]
+    item_lat = item["latitude"]
+    item_lon = item["longitude"]
 
-    matched_items = []
-    for item in items:
-        # Skip items without coordinates
-        if "latitude" not in item or "longitude" not in item:
-            continue
+    for tender in tenders:
+        tender_lat = tender["latitude"]
+        tender_lon = tender["longitude"]
 
-        item_lat = item["latitude"]
-        item_lon = item["longitude"]
-
-        distance = calculate_distance(tender_lat, tender_lon, item_lat, item_lon)
+        distance = calculate_distance(item_lat, item_lon, tender_lat, tender_lon)
 
         if distance <= MAX_DISTANCE_METERS or _calculate_probability():
-            matched_items.append(item)
+            item["tender_id"] = tender["tender_id"]
+            with_tenders += 1
+            break
 
-    if matched_items:
-        print(f"Tender ID: {tender.get('tender_id', 'Unknown')}")
-        print(f"Matched items: {len(matched_items)}")
-        for item in matched_items:
-            print(
-                f"  - {item.get('id', 'Unknown')}: {item.get('description', 'No description')} ({item.get('location', 'Unknown location')})"
-            )
-        print()
+    results.append(item)
 
-    tender["bellingcat_items"] = matched_items
-    results.append(tender)
-
-
-with open("merged.json", "w") as file:
+print(f"With tenders: {with_tenders}")
+print(f"All items: {len(items)}")
+with open("items_with_tenders.json", "w") as file:
     json.dump(results, file, indent=4, ensure_ascii=False)

@@ -1,0 +1,2357 @@
+[
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2025-04-04",
+        "location": {
+            "display_name": "Spivdruzhnosti Street, 60, Kryvyi Rih, Dnipropetrovsk Oblast, 50084, Ukraine",
+            "administrative_area": "Dnipropetrovsk Oblast",
+            "sub_administrative_area": "Kryvorizkyi District",
+            "locality": "Kryvyi Rih",
+            "post_code": "50084",
+            "thoroughfare": "Spivdruzhnosti Street",
+            "full_thoroughfare": "Spivdruzhnosti Street, 60",
+            "longitude": 33.441603,
+            "latitude": 47.964942
+        },
+        "bellingcat": {
+            "id": "ZF8FJY",
+            "description": "[VERY GRAPHIC CONTENT!] At least 18 people killed including 9 children as a result of reported ballistic missile strike on the residential area near the playground.",
+            "sources": [
+                "https://t.me/truexanewsua/110750",
+                "https://t.me/suspilnednipro/44434",
+                "https://t.me/suspilnednipro/44435",
+                "https://t.me/suspilnednipro/44436",
+                "https://t.me/huyovy_kharkiv/175688",
+                "https://t.me/truexanewsua/110750",
+                "https://t.me/suspilnednipro/44434",
+                "https://t.me/suspilnednipro/44435",
+                "https://t.me/suspilnednipro/44436",
+                "https://t.me/svoiKR/39970",
+                "https://t.me/info_zp/100177",
+                "https://t.me/info_zp/100178",
+                "https://t.me/info_zp/100176",
+                "https://t.me/truexakyiv/47232",
+                "https://t.me/info_zp/100179",
+                "https://t.me/info_zp/100177",
+                "https://t.me/info_zp/100178",
+                "https://t.me/info_zp/100176",
+                "https://t.me/info_zp/100179",
+                "https://t.me/truexanewsua/110735",
+                "https://t.me/truexanewsua/110734",
+                "https://t.me/truexanewsua/110733"
+            ]
+        },
+        "prozorro_tender": null
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2025-01-24",
+        "location": {
+            "display_name": "Fialkovskoho Street, Brovary, Kyiv Oblast, 07404, Ukraine",
+            "administrative_area": "Kyiv Oblast",
+            "sub_administrative_area": "Brovarskyi District",
+            "locality": "Brovary",
+            "post_code": "07404",
+            "thoroughfare": "Fialkovskoho Street",
+            "full_thoroughfare": "Fialkovskoho Street",
+            "longitude": 30.751625,
+            "latitude": 50.499533
+        },
+        "bellingcat": {
+            "id": "CY1WYP",
+            "description": "Couple reportedly killed after strike on residential area.",
+            "sources": [
+                "https://t.me/kievreal1/78839",
+                "https://t.me/kievreal1/78843",
+                "https://x.com/TWMCLtd/status/1882706872979116344/photo/4"
+            ]
+        },
+        "prozorro_tender": null
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Loitering munition",
+        "date": "2025-01-24",
+        "location": {
+            "display_name": "Вокзальна вулиця, Hlevakha, Kyiv Oblast, 08631, Ukraine",
+            "administrative_area": "Kyiv Oblast",
+            "sub_administrative_area": "Fastiv District",
+            "locality": "Hlevakha",
+            "post_code": "08631",
+            "thoroughfare": "Вокзальна вулиця",
+            "full_thoroughfare": "Вокзальна вулиця",
+            "longitude": 30.32495,
+            "latitude": 50.255229
+        },
+        "bellingcat": {
+            "id": "W10Q6O",
+            "description": "Residential building damaged and one man killed, reportedly after a strike by a loitering munition.",
+            "sources": [
+                "https://t.me/kievreal1/78803",
+                "https://t.me/kievreal1/78804",
+                "https://t.me/kievreal1/78805",
+                "https://t.me/kievreal1/78813",
+                "https://t.me/kievreal1/78822",
+                "https://t.me/kievreal1/78836",
+                "https://t.me/kievreal1/78850"
+            ]
+        },
+        "prozorro_tender": null
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Loitering munition",
+        "date": "2025-01-10",
+        "location": {
+            "display_name": "Ushynskoho Street, 25А, Kyiv, 03151, Ukraine",
+            "administrative_area": "Kyiv",
+            "sub_administrative_area": null,
+            "locality": "Kyiv",
+            "post_code": "03151",
+            "thoroughfare": "Ushynskoho Street",
+            "full_thoroughfare": "Ushynskoho Street, 25А",
+            "longitude": 30.443642,
+            "latitude": 50.425625
+        },
+        "bellingcat": {
+            "id": "A4MRYG",
+            "description": "Report of a loitering munition impacting a residential block.",
+            "sources": [
+                "https://t.me/news_sumy24/62331",
+                "https://t.me/kievreal1/77514",
+                "https://t.me/kievreal1/77568",
+                "https://t.me/kievreal1/77569",
+                "https://t.me/kievreal1/77573",
+                "https://t.me/kievreal1/77589"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2022-11-22-005706-a"
+        }
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2024-11-07",
+        "location": {
+            "display_name": "Valeriia Lobanovskoho Avenue, 46, Kyiv, 03037, Ukraine",
+            "administrative_area": "Kyiv",
+            "sub_administrative_area": null,
+            "locality": "Kyiv",
+            "post_code": "03037",
+            "thoroughfare": "Valeriia Lobanovskoho Avenue",
+            "full_thoroughfare": "Valeriia Lobanovskoho Avenue, 46",
+            "longitude": 30.474396,
+            "latitude": 50.418985
+        },
+        "bellingcat": {
+            "id": "0AQEZ3",
+            "description": "Damage caused by falling debris in what appears to be a residential area.",
+            "sources": [
+                "https://t.me/kiev_infoo/7495"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2023-08-23-003533-a"
+        }
+    },
+    {
+        "types": [
+            "Residential",
+            "School or childcare"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2024-11-03",
+        "location": {
+            "display_name": "Institute of International Relarions, Yuriia Illienka Street, 36/1, Kyiv, 04119, Ukraine",
+            "administrative_area": "Kyiv",
+            "sub_administrative_area": null,
+            "locality": "Kyiv",
+            "post_code": "04119",
+            "thoroughfare": "Yuriia Illienka Street",
+            "full_thoroughfare": "Yuriia Illienka Street, 36/1",
+            "longitude": 30.46775,
+            "latitude": 50.470697
+        },
+        "bellingcat": {
+            "id": "PWS5I1",
+            "description": "Several university buildings, including dormitory, damaged in an overnight attack.",
+            "sources": [
+                "https://t.me/kievreal1/71784",
+                "https://t.me/kievreal1/71771",
+                "https://t.me/kiev_infoo/7445",
+                "https://t.me/kievreal1/71758",
+                "https://t.me/c/1913768634/15653"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2023-08-23-003533-a"
+        }
+    },
+    {
+        "types": [
+            "Residential",
+            "Administrative"
+        ],
+        "weapon_system": "Loitering munition",
+        "date": "2024-10-31",
+        "location": {
+            "display_name": "Pivnichno-Syretska Street, Kyiv, 04136, Ukraine",
+            "administrative_area": "Kyiv",
+            "sub_administrative_area": null,
+            "locality": "Kyiv",
+            "post_code": "04136",
+            "thoroughfare": "Pivnichno-Syretska Street",
+            "full_thoroughfare": "Pivnichno-Syretska Street",
+            "longitude": 30.409715,
+            "latitude": 50.490884
+        },
+        "bellingcat": {
+            "id": "MTMKV8",
+            "description": "Multi-story residential buildings damaged in a drone strike.",
+            "sources": [
+                "https://t.me/c/1913768634/15013",
+                "https://t.me/kiev_infoo/7371",
+                "https://t.me/mvs_ukraine/43469"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2022-11-22-005706-a"
+        }
+    },
+    {
+        "types": [
+            "Residential",
+            "Roads/Highways/Transport"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2024-09-29",
+        "location": {
+            "display_name": "Oleksandrivska Street, Zaporizhzhia, Zaporizhzhia Oblast, 69002, Ukraine",
+            "administrative_area": "Zaporizhzhia Oblast",
+            "sub_administrative_area": "Zaporizhzhia District",
+            "locality": "Zaporizhzhia",
+            "post_code": "69002",
+            "thoroughfare": "Oleksandrivska Street",
+            "full_thoroughfare": "Oleksandrivska Street",
+            "longitude": 35.174899,
+            "latitude": 47.820339
+        },
+        "bellingcat": {
+            "id": "F9NWGM",
+            "description": "Several people injured in a missile attack on a residential area of a city.",
+            "sources": [
+                "https://t.me/kievreal1/68464",
+                "https://t.me/huyovy_kharkiv/160677",
+                "https://t.me/huyovy_kharkiv/160680",
+                "https://t.me/huyovy_kharkiv/160681",
+                "https://t.me/huyovy_kharkiv/160694",
+                "https://t.me/info_zp/81438",
+                "https://t.me/info_zp/81461",
+                "https://t.me/info_zp/81463",
+                "https://t.me/info_zp/81469",
+                "https://t.me/info_zp/81479",
+                "https://t.me/info_zp/81480",
+                "https://t.me/info_zp/81545",
+                "https://t.me/info_zp/81575",
+                "https://www.youtube.com/watch?v=h3KbFLL33XE"
+            ]
+        },
+        "prozorro_tender": null
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2024-09-12",
+        "location": {
+            "display_name": "Antona Chekhova Lane, 27, Kharkiv, Kharkiv Oblast, 61107, Ukraine",
+            "administrative_area": "Kharkiv Oblast",
+            "sub_administrative_area": "Kharkiv District",
+            "locality": "Kharkiv",
+            "post_code": "61107",
+            "thoroughfare": "Antona Chekhova Lane",
+            "full_thoroughfare": "Antona Chekhova Lane, 27",
+            "longitude": 36.311632,
+            "latitude": 50.03654
+        },
+        "bellingcat": {
+            "id": "006IKJ",
+            "description": "Residential area reportedly damaged in a series of airstrikes.",
+            "sources": [
+                "https://t.me/kharkivlife/94332",
+                "https://t.me/huyovy_kharkiv/159199",
+                "https://t.me/prokuratura_kharkiv/18729",
+                "https://t.me/kharkivlife/94344"
+            ]
+        },
+        "prozorro_tender": null
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Ballistic missile",
+        "date": "2024-08-24",
+        "location": {
+            "display_name": "Лікарська вулиця, 35, Kramatorsk, Donetsk Oblast, 84307, Ukraine",
+            "administrative_area": "Donetsk Oblast",
+            "sub_administrative_area": "Kramatorsk District",
+            "locality": "Kramatorsk",
+            "post_code": "84307",
+            "thoroughfare": "Лікарська вулиця",
+            "full_thoroughfare": "Лікарська вулиця, 35",
+            "longitude": 37.567854,
+            "latitude": 48.724075
+        },
+        "bellingcat": {
+            "id": "K18QCJ",
+            "description": "Strike at the hotel. At least one person reported killed, six injured.",
+            "sources": [
+                "https://x.com/KyivIndependent/status/1827770518985957582",
+                "https://suspilne.media/donbas/740801-misennu-stav-gotelu-poraneni-ukrainski-ta-inozemni-zurnalisti-dani-pro-udar-po-kramatorsku-na-25-serpna/"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2023-08-08-011918-a"
+        }
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Cruise missile",
+        "date": "2024-07-08",
+        "location": {
+            "display_name": "Biloruska Street, 17Б, Kyiv, 04119, Ukraine",
+            "administrative_area": "Kyiv",
+            "sub_administrative_area": null,
+            "locality": "Kyiv",
+            "post_code": "04119",
+            "thoroughfare": "Biloruska Street",
+            "full_thoroughfare": "Biloruska Street, 17Б",
+            "longitude": 30.471518,
+            "latitude": 50.464405
+        },
+        "bellingcat": {
+            "id": "AS54HB",
+            "description": "Several cruise missiles hit a residential area in central Kyiv.",
+            "sources": [
+                "https://t.me/k_dvizh/47047"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2023-08-23-003533-a"
+        }
+    },
+    {
+        "types": [
+            "Residential",
+            "Commercial"
+        ],
+        "weapon_system": "Air strike",
+        "date": "2024-07-03",
+        "location": {
+            "display_name": "Chkalova Street, 25, Kharkiv, Kharkiv Oblast, 61070, Ukraine",
+            "administrative_area": "Kharkiv Oblast",
+            "sub_administrative_area": "Kharkiv District",
+            "locality": "Kharkiv",
+            "post_code": "61070",
+            "thoroughfare": "Chkalova Street",
+            "full_thoroughfare": "Chkalova Street, 25",
+            "longitude": 36.289744,
+            "latitude": 50.04031
+        },
+        "bellingcat": {
+            "id": "2QFPCU",
+            "description": "Damaged residential houses after reported airstrike.",
+            "sources": [
+                "https://t.me/prokuratura_kharkiv/17374",
+                "https://t.me/prokuratura_kharkiv/17364",
+                "https://t.me/prokuratura_kharkiv/17363",
+                "https://t.me/prokuratura_kharkiv/17351",
+                "https://t.me/truexakharkiv/46647"
+            ]
+        },
+        "prozorro_tender": null
+    },
+    {
+        "types": [
+            "Residential",
+            "Industrial",
+            "Commercial",
+            "Roads/Highways/Transport"
+        ],
+        "weapon_system": "Ballistic missile",
+        "date": "2024-07-08",
+        "location": {
+            "display_name": "Lukyanovka spontaneous retail area. spot 1, Kyiv, 04050, Ukraine",
+            "administrative_area": "Kyiv",
+            "sub_administrative_area": null,
+            "locality": "Kyiv",
+            "post_code": "04050",
+            "thoroughfare": "Lukyanovka spontaneous retail area. spot 1",
+            "full_thoroughfare": "Lukyanovka spontaneous retail area. spot 1",
+            "longitude": 30.481949,
+            "latitude": 50.462663
+        },
+        "bellingcat": {
+            "id": "A9LQZH",
+            "description": "Aftermath of the multiple missile attack in the area of Lukianivska metro station. Several buildings damaged.",
+            "sources": [
+                "https://x.com/twittterrhandle/status/1810242317434913247",
+                "https://x.com/JayinKyiv/status/1810268029109874977",
+                "https://x.com/Euan_MacDonald/status/1810230978700283936"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2023-08-23-003533-a"
+        }
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Air strike",
+        "date": "2024-07-03",
+        "location": {
+            "display_name": "Chkalova Street, 21, Kharkiv, Kharkiv Oblast, 61070, Ukraine",
+            "administrative_area": "Kharkiv Oblast",
+            "sub_administrative_area": "Kharkiv District",
+            "locality": "Kharkiv",
+            "post_code": "61070",
+            "thoroughfare": "Chkalova Street",
+            "full_thoroughfare": "Chkalova Street, 21",
+            "longitude": 36.290004,
+            "latitude": 50.040124
+        },
+        "bellingcat": {
+            "id": "ROCH0Y",
+            "description": "Kab hitting civilian street in kyivsky district of Kharkov",
+            "sources": [
+                "https://t.me/kharkiv_xc/104379",
+                "https://t.me/kharkiv_xc/104367",
+                "https://t.me/truexakharkiv/46651",
+                "https://t.me/kharkiv_xc/104382"
+            ]
+        },
+        "prozorro_tender": null
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2024-05-10",
+        "location": {
+            "display_name": "Klymovskoho Lane, Kharkiv, Kharkiv Oblast, 61107, Ukraine",
+            "administrative_area": "Kharkiv Oblast",
+            "sub_administrative_area": "Kharkiv District",
+            "locality": "Kharkiv",
+            "post_code": "61107",
+            "thoroughfare": "Klymovskoho Lane",
+            "full_thoroughfare": "Klymovskoho Lane",
+            "longitude": 36.321945,
+            "latitude": 50.049037
+        },
+        "bellingcat": {
+            "id": "UUGQEO",
+            "description": "Houses hit in Kyivsky district of Kharkiv",
+            "sources": [
+                "https://t.me/huyovy_kharkiv/148179",
+                "https://t.me/huyovy_kharkiv/148150",
+                "https://t.me/news_sumy24/41226",
+                "https://t.me/c/1006836030/117731",
+                "https://t.me/c/1006836030/117723",
+                "https://t.me/c/1006836030/117734",
+                "https://t.me/itsdonetsk/159478",
+                "https://t.me/c/1006836030/117755"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2023-08-08-011918-a"
+        }
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2024-05-01",
+        "location": {
+            "display_name": "Klymovskoho Lane, Kharkiv, Kharkiv Oblast, 61107, Ukraine",
+            "administrative_area": "Kharkiv Oblast",
+            "sub_administrative_area": "Kharkiv District",
+            "locality": "Kharkiv",
+            "post_code": "61107",
+            "thoroughfare": "Klymovskoho Lane",
+            "full_thoroughfare": "Klymovskoho Lane",
+            "longitude": 36.323662,
+            "latitude": 50.049665
+        },
+        "bellingcat": {
+            "id": "3TQF7G",
+            "description": "Damaged residential buildings after the reported strike.",
+            "sources": [
+                "https://t.me/c/1006836030/116373",
+                "https://t.me/c/1006836030/116377",
+                "https://t.me/huyovy_kharkiv/147339"
+            ]
+        },
+        "prozorro_tender": null
+    },
+    {
+        "types": [
+            "Residential",
+            "Cultural",
+            "Healthcare"
+        ],
+        "weapon_system": "Ballistic missile",
+        "date": "2024-03-25",
+        "location": {
+            "display_name": "Mykhaila Boichuka Street, 32, Kyiv, 01103, Ukraine",
+            "administrative_area": "Kyiv",
+            "sub_administrative_area": null,
+            "locality": "Kyiv",
+            "post_code": "01103",
+            "thoroughfare": "Mykhaila Boichuka Street",
+            "full_thoroughfare": "Mykhaila Boichuka Street, 32",
+            "longitude": 30.550551,
+            "latitude": 50.409401
+        },
+        "bellingcat": {
+            "id": "FG5JLQ",
+            "description": "Building of the Kyiv State Institute of Decorative Art And Design is ruined as a result of the reported ballistic missiles attack.",
+            "sources": [
+                "https://x.com/kztsky/status/1772200519865397579",
+                "https://t.me/trkmart/27589",
+                "https://x.com/igorsushko/status/1772200543840088540"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2025-03-31-004479-a"
+        }
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2024-03-21",
+        "location": {
+            "display_name": "Ihoria Turchyna Street, 12Г, Kyiv, 04128, Ukraine",
+            "administrative_area": "Kyiv",
+            "sub_administrative_area": null,
+            "locality": "Kyiv",
+            "post_code": "04128",
+            "thoroughfare": "Ihoria Turchyna Street",
+            "full_thoroughfare": "Ihoria Turchyna Street, 12Г",
+            "longitude": 30.397723,
+            "latitude": 50.48275
+        },
+        "bellingcat": {
+            "id": "3X5OQP",
+            "description": "Missile remnants found at a multi-story residential building.",
+            "sources": [
+                "https://t.me/kiev_infoo/3528",
+                "https://t.me/kievreal1/57157",
+                "https://censor.net/en/news/3479796/consequences_of_the_missile_attack_on_kyiv_photos"
+            ]
+        },
+        "prozorro_tender": null
+    },
+    {
+        "types": [
+            "Residential",
+            "Industrial",
+            "Commercial"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2024-03-21",
+        "location": {
+            "display_name": "Naberezhno-Khreschatytska Street, 10/4, Kyiv, 04070, Ukraine",
+            "administrative_area": "Kyiv",
+            "sub_administrative_area": null,
+            "locality": "Kyiv",
+            "post_code": "04070",
+            "thoroughfare": "Naberezhno-Khreschatytska Street",
+            "full_thoroughfare": "Naberezhno-Khreschatytska Street, 10/4",
+            "longitude": 30.523518,
+            "latitude": 50.47009
+        },
+        "bellingcat": {
+            "id": "8GQPFW",
+            "description": "A car enterprise and a nearby residential building damaged in attack.",
+            "sources": [
+                "https://t.me/kievreal1/57149"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2023-08-23-003533-a"
+        }
+    },
+    {
+        "types": [
+            "Residential",
+            "Commercial",
+            "Religious"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2024-03-21",
+        "location": {
+            "display_name": "Ovrutska Street, Kyiv, 04107, Ukraine",
+            "administrative_area": "Kyiv",
+            "sub_administrative_area": null,
+            "locality": "Kyiv",
+            "post_code": "04107",
+            "thoroughfare": "Ovrutska Street",
+            "full_thoroughfare": "Ovrutska Street",
+            "longitude": 30.47846,
+            "latitude": 50.474868
+        },
+        "bellingcat": {
+            "id": "T444KZ",
+            "description": "A building and a church damaged in a reported missile attack.",
+            "sources": [
+                "https://t.me/huyovy_kharkiv/143512",
+                "https://t.me/huyovy_kharkiv/143521",
+                "https://t.me/kievreal1/57158",
+                "https://t.me/kievreal1/57168",
+                "https://t.me/kievreal1/57177",
+                "https://t.me/Bratchuk_Sergey/79903",
+                "https://t.me/Bratchuk_Sergey/79912",
+                "https://twitter.com/adrozd83/status/1771184082354888714",
+                "https://t.me/kiev_infoo/3529"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2023-08-23-003533-a"
+        }
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2024-02-15",
+        "location": {
+            "display_name": "07833, Buchans'ka, Kyiv Oblast, Ukraine",
+            "administrative_area": "Kyiv Oblast",
+            "sub_administrative_area": "Bucha District",
+            "locality": "Buchans'ka",
+            "post_code": "07833",
+            "thoroughfare": null,
+            "full_thoroughfare": null,
+            "longitude": 30.072005,
+            "latitude": 50.615312
+        },
+        "bellingcat": {
+            "id": "90CO2H",
+            "description": "A large crater and damaged residential buildings visible after a reported missile attack.",
+            "sources": [
+                "https://t.me/kiev_infoo/2863",
+                "https://t.me/kievreal1/55834",
+                "https://t.me/kievreal1/55835",
+                "https://t.me/huyovy_kharkiv/140344",
+                "https://t.me/Bratchuk_Sergey/75418"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2023-08-23-004639-a"
+        }
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2024-02-07",
+        "location": {
+            "display_name": "Akademika Zabolotnoho Street, 62, Kyiv, 03187, Ukraine",
+            "administrative_area": "Kyiv",
+            "sub_administrative_area": null,
+            "locality": "Kyiv",
+            "post_code": "03187",
+            "thoroughfare": "Akademika Zabolotnoho Street",
+            "full_thoroughfare": "Akademika Zabolotnoho Street, 62",
+            "longitude": 30.461659,
+            "latitude": 50.363637
+        },
+        "bellingcat": {
+            "id": "F96UK5",
+            "description": "Black smoke comes out of a residential building after reports of shelling.",
+            "sources": [
+                "https://t.me/c/1248149892/48949",
+                "https://t.me/truexanewsua/86901",
+                "https://t.me/truexanewsua/86886",
+                "https://t.me/truexanewsua/86881",
+                "https://t.me/truexanewsua/86878",
+                "https://t.me/kiev_infoo/2708",
+                "https://t.me/vitaliy_klitschko/2821",
+                "https://t.me/vitaliy_klitschko/2826"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2022-12-22-009067-a"
+        }
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Cruise missile",
+        "date": "2024-01-23",
+        "location": {
+            "display_name": "Stadionnyi Lane, Kyiv, 03049, Ukraine",
+            "administrative_area": "Kyiv",
+            "sub_administrative_area": null,
+            "locality": "Kyiv",
+            "post_code": "03049",
+            "thoroughfare": "Stadionnyi Lane",
+            "full_thoroughfare": "Stadionnyi Lane",
+            "longitude": 30.481725,
+            "latitude": 50.437729
+        },
+        "bellingcat": {
+            "id": "0FEW0C",
+            "description": "Damage to a residential area as a result of multiple missiles attack.",
+            "sources": [
+                "https://x.com/KyivDefenders/status/1749751868308230533",
+                "https://x.com/ZoryaLondonsk/status/1749744027484766382"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2023-08-23-003533-a"
+        }
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Cruise missile",
+        "date": "2024-01-23",
+        "location": {
+            "display_name": "Соборна вулиця, 109, Sofiivs'ka Borshchahivka, Kyiv Oblast, 08147, Ukraine",
+            "administrative_area": "Kyiv Oblast",
+            "sub_administrative_area": "Bucha District",
+            "locality": "Sofiivs'ka Borshchahivka",
+            "post_code": "08147",
+            "thoroughfare": "Соборна вулиця",
+            "full_thoroughfare": "Соборна вулиця, 109",
+            "longitude": 30.323025,
+            "latitude": 50.395232
+        },
+        "bellingcat": {
+            "id": "GFS8J7",
+            "description": "Damage to high rise residential building as a result of missile attack. ",
+            "sources": [
+                "https://x.com/VerstyukIvan/status/1749758211354227038",
+                "https://t.me/KyivPolitics/32008",
+                "https://t.me/uniannet/123655",
+                "https://t.me/KyivPolitics/32025"
+            ]
+        },
+        "prozorro_tender": null
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2024-01-02",
+        "location": {
+            "display_name": "Parkovyi Lane, Kyiv, 04078, Ukraine",
+            "administrative_area": "Kyiv",
+            "sub_administrative_area": null,
+            "locality": "Kyiv",
+            "post_code": "04078",
+            "thoroughfare": "Parkovyi Lane",
+            "full_thoroughfare": "Parkovyi Lane",
+            "longitude": 30.43545,
+            "latitude": 50.493056
+        },
+        "bellingcat": {
+            "id": "EHIWGJ",
+            "description": "Residential buildings damaged by a reported shelling.",
+            "sources": [
+                "https://t.me/kievreal1/53875"
+            ]
+        },
+        "prozorro_tender": null
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "HE rocket artillery",
+        "date": "2024-01-02",
+        "location": {
+            "display_name": "Bakulina Street, 9/13, Kharkiv, Kharkiv Oblast, 61166, Ukraine",
+            "administrative_area": "Kharkiv Oblast",
+            "sub_administrative_area": "Kharkiv District",
+            "locality": "Kharkiv",
+            "post_code": "61166",
+            "thoroughfare": "Bakulina Street",
+            "full_thoroughfare": "Bakulina Street, 9/13",
+            "longitude": 36.229762,
+            "latitude": 50.016825
+        },
+        "bellingcat": {
+            "id": "PZL2GV",
+            "description": "Residential area impacted during shelling of Shvechenskyi district, Kharkiv; one person reported killed, around 50 injured.",
+            "sources": [
+                "https://t.me/prokuratura_kharkiv/12801",
+                "https://t.me/prokuratura_kharkiv/12799",
+                "https://t.me/prokuratura_kharkiv/12798",
+                "https://t.me/prokuratura_kharkiv/12788",
+                "https://t.me/pgo_gov_ua/20347",
+                "https://t.me/mvs_ukraine/33305",
+                "https://t.me/mvs_ukraine/33310",
+                "https://t.me/mvs_ukraine/33331",
+                "https://t.me/mvs_ukraine/33347",
+                "https://t.me/news_sumy24/29038",
+                "https://t.me/kievreal1/53847",
+                "https://t.me/kharkivlife/72924",
+                "https://t.me/kharkivlife/72947",
+                "https://t.me/kharkivlife/72952",
+                "https://t.me/kharkivlife/72967",
+                "https://t.me/kharkivlife/72968",
+                "https://t.me/kharkivlife/72982",
+                "https://t.me/kharkivlife/72988",
+                "https://t.me/kharkivlife/72989"
+            ]
+        },
+        "prozorro_tender": null
+    },
+    {
+        "types": [
+            "Residential",
+            "Industrial",
+            "Commercial"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2024-01-02",
+        "location": {
+            "display_name": "Kyrylivska Street, Kyiv, 04080, Ukraine",
+            "administrative_area": "Kyiv",
+            "sub_administrative_area": null,
+            "locality": "Kyiv",
+            "post_code": "04080",
+            "thoroughfare": "Kyrylivska Street",
+            "full_thoroughfare": "Kyrylivska Street",
+            "longitude": 30.486554,
+            "latitude": 50.477335
+        },
+        "bellingcat": {
+            "id": "8SZI8Q",
+            "description": "What appears to be an industrial enterprise impacted by shelling in Podilsky district, Kyiv.",
+            "sources": [
+                "https://t.me/kiev_infoo/1980"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2023-08-23-003533-a"
+        }
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "HE rocket artillery",
+        "date": "2024-01-02",
+        "location": {
+            "display_name": "Dolobetckiy island, Kyiv, Ukraine",
+            "administrative_area": "Kyiv",
+            "sub_administrative_area": null,
+            "locality": "Kyiv",
+            "post_code": "02002",
+            "thoroughfare": null,
+            "full_thoroughfare": null,
+            "longitude": 30.579405,
+            "latitude": 50.459276
+        },
+        "bellingcat": {
+            "id": "RN8BKF",
+            "description": "A missile reported falling in the water near residential area in Kyiv",
+            "sources": [
+                "https://t.me/kiev_infoo/1954",
+                "https://t.me/news_sumy24/29024"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2023-08-23-003533-a"
+        }
+    },
+    {
+        "types": [
+            "Residential",
+            "Religious"
+        ],
+        "weapon_system": "HE rocket artillery",
+        "date": "2024-01-02",
+        "location": {
+            "display_name": "1st Druzhby Lane, Kyiv, 02088, Ukraine",
+            "administrative_area": "Kyiv",
+            "sub_administrative_area": null,
+            "locality": "Kyiv",
+            "post_code": "02088",
+            "thoroughfare": "1st Druzhby Lane",
+            "full_thoroughfare": "1st Druzhby Lane",
+            "longitude": 30.699292,
+            "latitude": 50.378425
+        },
+        "bellingcat": {
+            "id": "AG8TOQ",
+            "description": "Crater produced by a missile impact reported in Bortnychi, Kyiv",
+            "sources": [
+                "https://t.me/kievreal1/53843",
+                "https://t.me/kievreal1/53904",
+                "https://t.me/kiev_infoo/1947",
+                "https://t.me/news_sumy24/29016"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2023-08-10-008039-a"
+        }
+    },
+    {
+        "types": [
+            "Residential",
+            "Commercial"
+        ],
+        "weapon_system": "HE rocket artillery",
+        "date": "2024-01-02",
+        "location": {
+            "display_name": "Oleny Telihy Street, 41, Kyiv, 04086, Ukraine",
+            "administrative_area": "Kyiv",
+            "sub_administrative_area": null,
+            "locality": "Kyiv",
+            "post_code": "04086",
+            "thoroughfare": "Oleny Telihy Street",
+            "full_thoroughfare": "Oleny Telihy Street, 41",
+            "longitude": 30.454443,
+            "latitude": 50.480787
+        },
+        "bellingcat": {
+            "id": "MSDGDR",
+            "description": "A residential and commercial building affected by a missile impact reported in Babyn Yar memorial, Kyiv",
+            "sources": [
+                "https://t.me/kiev_infoo/1968"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2023-08-08-011918-a"
+        }
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "HE rocket artillery",
+        "date": "2024-01-02",
+        "location": {
+            "display_name": "Sviatoshynska Street, Vyshneve, Kyiv Oblast, 08132, Ukraine",
+            "administrative_area": "Kyiv Oblast",
+            "sub_administrative_area": "Bucha District",
+            "locality": "Vyshneve",
+            "post_code": "08132",
+            "thoroughfare": "Sviatoshynska Street",
+            "full_thoroughfare": "Sviatoshynska Street",
+            "longitude": 30.367857,
+            "latitude": 50.395276
+        },
+        "bellingcat": {
+            "id": "0P6VVR",
+            "description": "Crater of impact and damage to residential building after a reported missile attack on Vyshneve, Kyiv region",
+            "sources": [
+                "https://t.me/kiev_infoo/1937",
+                "https://t.me/kievreal1/53826",
+                "https://t.me/kievreal1/53860"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2025-02-03-013612-a"
+        }
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Loitering munition",
+        "date": "2023-12-21",
+        "location": {
+            "display_name": "Валерія Лобановського проспект, 4Г, Kyiv, 03037, Ukraine",
+            "administrative_area": "Kyiv",
+            "sub_administrative_area": null,
+            "locality": "Kyiv",
+            "post_code": "03037",
+            "thoroughfare": "Валерія Лобановського проспект",
+            "full_thoroughfare": "Валерія Лобановського проспект, 4Г",
+            "longitude": 30.462403,
+            "latitude": 50.421867
+        },
+        "bellingcat": {
+            "id": "VVZOTW",
+            "description": "An UAV strikes what appears to be a multistory apartment building in Kyiv",
+            "sources": [
+                "https://t.me/kiev_infoo/1508",
+                "https://t.me/news_sumy24/28469",
+                "https://t.me/kiev_infoo/1509",
+                "https://t.me/pgo_gov_ua/20014",
+                "https://t.me/kiev_infoo/1517",
+                "https://t.me/kiev_infoo/1520",
+                "https://t.me/kiev_infoo/1526",
+                "https://t.me/kiev_infoo/1527",
+                "https://t.me/mvs_ukraine/32859",
+                "https://t.me/kievreal1/52943",
+                "https://t.me/kievreal1/52950",
+                "https://t.me/kievreal1/52970",
+                "https://t.me/kievreal1/52980",
+                "https://t.me/kievreal1/52986",
+                "https://t.me/kievreal1/52989",
+                "https://t.me/kievreal1/52990",
+                "https://t.me/kievreal1/53000",
+                "https://t.me/kievreal1/53015",
+                "https://t.me/insiderUKR/66720"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2023-08-23-003533-a"
+        }
+    },
+    {
+        "types": [
+            "Residential",
+            "School or childcare"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2023-12-13",
+        "location": {
+            "display_name": "Ostafiya Dashkevycha street, 4А, Kyiv, 02139, Ukraine",
+            "administrative_area": "Kyiv",
+            "sub_administrative_area": null,
+            "locality": "Kyiv",
+            "post_code": "02139",
+            "thoroughfare": "Ostafiya Dashkevycha street",
+            "full_thoroughfare": "Ostafiya Dashkevycha street, 4А",
+            "longitude": 30.608221,
+            "latitude": 50.482613
+        },
+        "bellingcat": {
+            "id": "ZAAHJY",
+            "description": "Wide missile attack on Kyiv reported with debris affecting four districts. Location 4: what appears to be a residential area in Dniprovskyi district",
+            "sources": [
+                "https://t.me/mvs_ukraine/32583",
+                "https://twitter.com/loogunda/status/1734877821149786612",
+                "https://www.youtube.com/watch?v=XfduKxoQRE0&ab_channel=BBCNews",
+                "https://twitter.com/Vitaliy_Klychko/status/1734892760862200261",
+                "https://t.me/bezpechniyregion/11416",
+                "https://t.me/KlymenkoTime/116593",
+                "https://twitter.com/MVS_UA/status/1734955140451299600",
+                "https://t.me/news_sumy24/28039"
+            ]
+        },
+        "prozorro_tender": null
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2023-12-19",
+        "location": {
+            "display_name": "Artema Street, 148, Donetsk, Donetsk Oblast, 83004, Ukraine",
+            "administrative_area": "Donetsk Oblast",
+            "sub_administrative_area": "Donetskyi",
+            "locality": "Donetsk",
+            "post_code": "83004",
+            "thoroughfare": "Artema Street",
+            "full_thoroughfare": "Artema Street, 148",
+            "longitude": 37.781403,
+            "latitude": 48.036504
+        },
+        "bellingcat": {
+            "id": "4BELB7",
+            "description": "A fire reported after shelling of what appears to be a residential area in Kyivskyi district, Donetsk",
+            "sources": [
+                "https://t.me/KlymenkoTime/117237",
+                "https://t.me/KlymenkoTime/117256",
+                "https://t.me/donetsk_dn/30215",
+                "https://t.me/donetsk_dn/30213"
+            ]
+        },
+        "prozorro_tender": null
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2023-12-13",
+        "location": {
+            "display_name": "Popudrenka Street, Kyiv, 02094, Ukraine",
+            "administrative_area": "Kyiv",
+            "sub_administrative_area": null,
+            "locality": "Kyiv",
+            "post_code": "02094",
+            "thoroughfare": "Popudrenka Street",
+            "full_thoroughfare": "Popudrenka Street",
+            "longitude": 30.648613,
+            "latitude": 50.463128
+        },
+        "bellingcat": {
+            "id": "4CJQLP",
+            "description": "Wide missile attack on Kyiv reported with debris affecting four districts. Location 2: what appears to be a construction of a residential high rise in Desnyanskyi district",
+            "sources": [
+                "https://suspilne.media/638622-ulamki-raket-poskodili-nedobudovanij-zk-urban-park-u-kievi/",
+                "https://news.obozrevatel.com/ukr/kiyany/v-kievi-ulamok-rosijskoi-raketi-poshkodiv-zhk-urban-park.htm",
+                "https://t.me/kiev_infoo/1332",
+                "https://www.facebook.com/permalink.php?story_fbid=pfbid02vytfmk1QJWGBQo79h2r7JBrMzEci6djbYu39P2oTYipJZPa76fEHVMhNBDsY2C7xl&id=100070457101438"
+            ]
+        },
+        "prozorro_tender": null
+    },
+    {
+        "types": [
+            "Residential",
+            "School or childcare",
+            "Roads/Highways/Transport",
+            "Healthcare"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2023-12-13",
+        "location": {
+            "display_name": "Perova Boulevard, Kyiv, 02125, Ukraine",
+            "administrative_area": "Kyiv",
+            "sub_administrative_area": null,
+            "locality": "Kyiv",
+            "post_code": "02125",
+            "thoroughfare": "Perova Boulevard",
+            "full_thoroughfare": "Perova Boulevard",
+            "longitude": 30.596069,
+            "latitude": 50.476217
+        },
+        "bellingcat": {
+            "id": "SZPSXJ",
+            "description": "Wide missile attack on Kyiv reported with debris affecting four districts. Location 1: a crater on the road, damaged water pipe",
+            "sources": [
+                "https://t.me/mvs_ukraine/32583",
+                "https://twitter.com/MVS_UA/status/1734868602795253762",
+                "https://twitter.com/MVS_UA/status/1734955140451299600",
+                "https://3m2.ua/news/naslidky-nichnoyi-ataky-na-kyyiv-foto/",
+                "https://t.me/kievreal1/52591",
+                "https://bigkyiv.com.ua/na-voskresenskomu-prospekti-usunuly-naslidky-raketnogo-obstrilu-ruh-vidnovleno/",
+                "https://suspilne.media/640470-naslidki-ataki-rf-komunalniki-vidremontuvali-poskodzenij-vodogin-u-dniprovskomu-rajoni/"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2023-03-28-007365-a"
+        }
+    },
+    {
+        "types": [
+            "Residential",
+            "School or childcare",
+            "Cultural"
+        ],
+        "weapon_system": "Loitering munition",
+        "date": "2023-11-03",
+        "location": {
+            "display_name": "Holdberhivska Street, 77, Kharkiv, Kharkiv Oblast, 61010, Ukraine",
+            "administrative_area": "Kharkiv Oblast",
+            "sub_administrative_area": "Kharkiv District",
+            "locality": "Kharkiv",
+            "post_code": "61010",
+            "thoroughfare": "Holdberhivska Street",
+            "full_thoroughfare": "Holdberhivska Street, 77",
+            "longitude": 36.233929,
+            "latitude": 49.974815
+        },
+        "bellingcat": {
+            "id": "9AN8BU",
+            "description": "Building of the college is damaged as a result of strike.",
+            "sources": [
+                "https://x.com/KyivPost/status/1720384025540399406",
+                "https://x.com/IrynaVoichuk/status/1720344869602730466",
+                "https://x.com/NewVoiceUkraine/status/1720509144564953368",
+                "https://t.me/c/1347456995/87525",
+                "https://t.me/c/1347456995/87530",
+                "https://t.me/c/1347456995/87533"
+            ]
+        },
+        "prozorro_tender": null
+    },
+    {
+        "types": [
+            "Residential",
+            "Commercial"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2023-10-05",
+        "location": {
+            "display_name": "63609, Hroza, Kharkiv Oblast, Ukraine",
+            "administrative_area": "Kharkiv Oblast",
+            "sub_administrative_area": "Kupiansk District",
+            "locality": "Hroza",
+            "post_code": "63609",
+            "thoroughfare": null,
+            "full_thoroughfare": null,
+            "longitude": 37.207391,
+            "latitude": 49.671841
+        },
+        "bellingcat": {
+            "id": "J78P3R",
+            "description": "[Bodies visible.] A grocery store and a cafe were damaged as a result of strike. At least 50 people reported dead, including one child.",
+            "sources": [
+                "https://x.com/Mike_Eckel/status/1709919151014187109",
+                "https://t.me/Donbas_Operativniy/57835?single",
+                "https://t.me/Donbas_Operativniy/57824",
+                "https://t.me/Donbas_Operativniy/57821",
+                "https://x.com/99Dominik_/status/1709938725063700716",
+                "https://t.me/c/1347456995/85769",
+                "https://t.me/c/1347456995/85771",
+                "https://t.me/c/1347456995/85775",
+                "https://t.me/c/1347456995/85777",
+                "https://t.me/c/1347456995/85808",
+                "https://t.me/huyovy_kharkiv/126320",
+                "https://t.me/huyovy_kharkiv/126326",
+                "https://x.com/JayinKyiv/status/1709924876608283123",
+                "https://incident.obozrevatel.com/crime/vojna-protiv-rossii/ni-odnogo-voennogo-ne-byilo-pominali-odnoselchanina-v-politsii-raskryili-detali-udara-rf-po-kafe-pod-kupyanskom.htm",
+                "https://censor.net/en/news/3447684/russian_strike_on_hroza_village_in_kharkiv_region_hits_shop_and_cafe_where_wake_was_held_klymenko_video",
+                "https://x.com/nexta_tv/status/1709917348725985294"
+            ]
+        },
+        "prozorro_tender": null
+    },
+    {
+        "types": [
+            "Residential",
+            "Commercial",
+            "Undefined"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2023-08-24",
+        "location": {
+            "display_name": "Kurchatova Street, Dnipro, Dnipropetrovsk Oblast, 49038, Ukraine",
+            "administrative_area": "Dnipropetrovsk Oblast",
+            "sub_administrative_area": "Dnipro District",
+            "locality": "Dnipro",
+            "post_code": "49038",
+            "thoroughfare": "Kurchatova Street",
+            "full_thoroughfare": "Kurchatova Street",
+            "longitude": 35.009108,
+            "latitude": 48.473831
+        },
+        "bellingcat": {
+            "id": "CIV2356",
+            "description": "Damaged buildings in the aftermath of the reported shelling of residential area.",
+            "sources": [
+                "https://t.me/dnipropetrovskaODA/6826",
+                "https://twitter.com/KyivPost/status/1694621167338803580",
+                "https://twitter.com/DevanaUkraine/status/1694629512321888533",
+                "https://t.me/dnipropetrovskaODA/6836"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2024-03-15-009525-a"
+        }
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Ballistic missile",
+        "date": "2023-08-07",
+        "location": {
+            "display_name": "Tsentralna Street, Pokrovsk, Donetsk Oblast, 85302, Ukraine",
+            "administrative_area": "Donetsk Oblast",
+            "sub_administrative_area": "Pokrovsk District",
+            "locality": "Pokrovsk",
+            "post_code": "85302",
+            "thoroughfare": "Tsentralna Street",
+            "full_thoroughfare": "Tsentralna Street",
+            "longitude": 37.176539,
+            "latitude": 48.282429
+        },
+        "bellingcat": {
+            "id": "CIV2321",
+            "description": "Heavy damage to a hotel and nearby residential housing, as a result of a strike. At least 5 people reported as killed, and many as wounded.",
+            "sources": [
+                "https://t.me/c/1687475640/32250",
+                "https://t.me/c/1687475640/32253",
+                "https://t.me/uniannet/107406",
+                "https://t.me/ragnarockkyiv/55867",
+                "https://t.me/V_Zelenskiy_official/7295",
+                "https://t.me/c/1687475640/32257",
+                "https://t.me/u_now/107900",
+                "https://t.me/dsns_telegram/19880",
+                "https://t.me/c/1449473117/66285",
+                "https://t.me/u_now/107939"
+            ]
+        },
+        "prozorro_tender": null
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Loitering munition",
+        "date": "2023-08-02",
+        "location": {
+            "display_name": "Teremkivska Street, 3А, Kyiv, 03187, Ukraine",
+            "administrative_area": "Kyiv",
+            "sub_administrative_area": null,
+            "locality": "Kyiv",
+            "post_code": "03187",
+            "thoroughfare": "Teremkivska Street",
+            "full_thoroughfare": "Teremkivska Street, 3А",
+            "longitude": 30.455114,
+            "latitude": 50.371188
+        },
+        "bellingcat": {
+            "id": "CIV2314",
+            "description": "Drone attack on a residential area.",
+            "sources": [
+                "https://t.me/voynareal/67862",
+                "https://twitter.com/KorsunskySergiy/status/1686644568995889152"
+            ]
+        },
+        "prozorro_tender": null
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2023-07-20",
+        "location": {
+            "display_name": "Admiralska Street, 34, Mykolaiv, Mykolaiv Oblast, 54001, Ukraine",
+            "administrative_area": "Mykolaiv Oblast",
+            "sub_administrative_area": "Mykolaiv District",
+            "locality": "Mykolaiv",
+            "post_code": "54001",
+            "thoroughfare": "Admiralska Street",
+            "full_thoroughfare": "Admiralska Street, 34",
+            "longitude": 32.00259,
+            "latitude": 46.972743
+        },
+        "bellingcat": {
+            "id": "CIV2294",
+            "description": "Multiple people killed and 9, including 5 children, wounded in a reported strike.",
+            "sources": [
+                "https://t.me/truexanewsua/77050",
+                "https://t.me/truexanewsua/77049",
+                "https://twitter.com/EuromaidanPress/status/1681899545037242370",
+                "https://twitter.com/UASunflower/status/1681945269053562882",
+                "https://twitter.com/maria_avdv/status/1681890993816174596",
+                "https://twitter.com/KyivPost/status/1682030528181186564",
+                "https://twitter.com/NatalkaKyiv/status/1682050930546450433",
+                "https://twitter.com/Alfaiomi/status/1682329072456564737",
+                "https://twitter.com/SpriterTeam/status/1681983874916646917"
+            ]
+        },
+        "prozorro_tender": null
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2023-07-13",
+        "location": {
+            "display_name": "Zarichna Street, Kyiv, 02132, Ukraine",
+            "administrative_area": "Kyiv",
+            "sub_administrative_area": null,
+            "locality": "Kyiv",
+            "post_code": "02132",
+            "thoroughfare": "Zarichna Street",
+            "full_thoroughfare": "Zarichna Street",
+            "longitude": 30.603259,
+            "latitude": 50.395111
+        },
+        "bellingcat": {
+            "id": "CIV2284",
+            "description": "Debris of intercepted UAVs fell on residential buildings.",
+            "sources": [
+                "https://t.me/insiderUKR/58544",
+                "https://t.me/c/1394092619/51340",
+                "https://t.me/kievreal1/45458",
+                "https://t.me/c/1248149892/39354"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2023-12-21-007508-a"
+        }
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2023-07-03",
+        "location": {
+            "display_name": "Oleksiya Beresta Street, Sumy, Sumy Oblast, 40000, Ukraine",
+            "administrative_area": "Sumy Oblast",
+            "sub_administrative_area": "Sumy District",
+            "locality": "Sumy",
+            "post_code": "40000",
+            "thoroughfare": "Oleksiya Beresta Street",
+            "full_thoroughfare": "Oleksiya Beresta Street",
+            "longitude": 34.790854,
+            "latitude": 50.901762
+        },
+        "bellingcat": {
+            "id": "CIV2270",
+            "description": "Multiple reported killed, injured in drone attack on residential area.",
+            "sources": [
+                "https://t.me/pgo_gov_ua/14050",
+                "https://www.reuters.com/world/europe/one-killed-russian-drone-strike-northern-ukrainian-city-kyiv-says-2023-07-03/",
+                "https://www.ukrinform.net/rubric-ato/3731128-death-toll-from-russian-drone-attack-on-sumy-rises-to-three.html",
+                "https://kyivindependent.com/ukraine-war-latest-july-3/",
+                "https://t.me/hyevuy_dnepr/55681",
+                "https://twitter.com/Nikka_Ye/status/1675974280327184388"
+            ]
+        },
+        "prozorro_tender": null
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Cruise missile",
+        "date": "2023-06-24",
+        "location": {
+            "display_name": "03035, Kyiv, Ukraine",
+            "administrative_area": "Kyiv",
+            "sub_administrative_area": null,
+            "locality": "Kyiv",
+            "post_code": "03035",
+            "thoroughfare": null,
+            "full_thoroughfare": null,
+            "longitude": 30.478436,
+            "latitude": 50.430345
+        },
+        "bellingcat": {
+            "id": "CIV2263",
+            "description": "Massive damage to a high rise apartment building as a result of cruise missile debris falling down. At least 5 people reported dead.",
+            "sources": [
+                "https://twitter.com/Flash_news_ua/status/1672462562317811715",
+                "https://twitter.com/IuliiaMendel/status/1673290078360158208",
+                "https://twitter.com/avalaina/status/1672482918327808000"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2023-08-23-003533-a"
+        }
+    },
+    {
+        "types": [
+            "Residential",
+            "Healthcare"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2023-05-20",
+        "location": {
+            "display_name": "ulica Centralna, 55, Torets'k, Donetsk Oblast, 85206, Ukraine",
+            "administrative_area": "Donetsk Oblast",
+            "sub_administrative_area": "Bakhmut District",
+            "locality": "Torets'k",
+            "post_code": "85206",
+            "thoroughfare": "ulica Centralna",
+            "full_thoroughfare": "ulica Centralna, 55",
+            "longitude": 37.874011,
+            "latitude": 48.394614
+        },
+        "bellingcat": {
+            "id": "CIV2079",
+            "description": "Damage to what appears to be residential area as a result of shelling. At least 5 people reported injured, including 1 child.",
+            "sources": [
+                "https://t.me/pavlokyrylenko_donoda/8056?single",
+                "https://twitter.com/KyivIndependent/status/1659965503220187136",
+                "https://www.facebook.com/cgb.dzer/posts/pfbid0qR4Fng4VHK2ze4DmzLwhADp1GHvjYnz1aZxYsokq7jiDTXZDPBY6JHMVf1wvV1P9l"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2023-08-10-009583-a"
+        }
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2023-05-08",
+        "location": {
+            "display_name": "Koltsova Boulevard, 14З, Kyiv, 03194, Ukraine",
+            "administrative_area": "Kyiv",
+            "sub_administrative_area": null,
+            "locality": "Kyiv",
+            "post_code": "03194",
+            "thoroughfare": "Koltsova Boulevard",
+            "full_thoroughfare": "Koltsova Boulevard, 14З",
+            "longitude": 30.382765,
+            "latitude": 50.425276
+        },
+        "bellingcat": {
+            "id": "CIV2034",
+            "description": "Residential building damaged with what appears to be a debris of a loitering munition. At least 2 people reported injured.",
+            "sources": [
+                "https://t.me/huyovy_kharkiv/108653",
+                "https://www.youtube.com/watch?v=92zM728wsCE&t=49s"
+            ]
+        },
+        "prozorro_tender": null
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Loitering munition",
+        "date": "2023-03-22",
+        "location": {
+            "display_name": "Lenina Street, Rzhyshchiv, Kyiv Oblast, 09230, Ukraine",
+            "administrative_area": "Kyiv Oblast",
+            "sub_administrative_area": "Obukhiv District",
+            "locality": "Rzhyshchiv",
+            "post_code": "09230",
+            "thoroughfare": "Lenina Street",
+            "full_thoroughfare": "Lenina Street",
+            "longitude": 31.023166,
+            "latitude": 49.965683
+        },
+        "bellingcat": {
+            "id": "CIV1949",
+            "description": "Damage to residential buildings reportedly caused by the attack using drones. At least 1 reported dead.",
+            "sources": [
+                "https://t.me/truexanewsua/70749",
+                "https://t.me/CodeAntipova/22941",
+                "https://magnolia-tv.com/news/87718-u-rzhyshchevi-vnaslidok-nichnoyi-ataky-droniv-3-lyudyny-zahynuly-2-poraneni-ta-4-pid https://vechirniy.kyiv.ua/news/80319/",
+                "https://t.me/c/1210003725/32869",
+                "https://t.me/c/1210003725/32887",
+                "https://t.me/c/1379461702/51370",
+                "https://t.me/h_saltovka/74441",
+                "https://t.me/c/1210003725/32883",
+                "https://t.me/nexta_live/48878",
+                "https://t.me/nexta_live/48875",
+                "https://vechirniy.kyiv.ua/news/80319/",
+                "https://t.me/c/1210003725/32898"
+            ]
+        },
+        "prozorro_tender": null
+    },
+    {
+        "types": [
+            "Residential",
+            "Roads/Highways/Transport"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2023-03-09",
+        "location": {
+            "display_name": "Peremohy Avenue, 89А, Kyiv, 03115, Ukraine",
+            "administrative_area": "Kyiv",
+            "sub_administrative_area": null,
+            "locality": "Kyiv",
+            "post_code": "03115",
+            "thoroughfare": "Peremohy Avenue",
+            "full_thoroughfare": "Peremohy Avenue, 89А",
+            "longitude": 30.385103,
+            "latitude": 50.456134
+        },
+        "bellingcat": {
+            "id": "CIV1910",
+            "description": "Damage to a residential area, at least 3 people reported to be wounded and several vehicles destroyed. ",
+            "sources": [
+                "https://www.pravda.com.ua/news/2023/03/9/7392624/",
+                "https://t.me/c/1210003725/32318",
+                "https://t.me/c/1210003725/32316",
+                "https://t.me/c/1210003725/32312",
+                "https://t.me/c/1210003725/32307",
+                "https://t.me/c/1210003725/32339"
+            ]
+        },
+        "prozorro_tender": null
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2022-03-01",
+        "location": {
+            "display_name": "ulica Kijowska, Borodianka, Kyiv Oblast, 07801, Ukraine",
+            "administrative_area": "Kyiv Oblast",
+            "sub_administrative_area": "Bucha District",
+            "locality": "Borodianka",
+            "post_code": "07801",
+            "thoroughfare": "ulica Kijowska",
+            "full_thoroughfare": "ulica Kijowska",
+            "longitude": 29.919957,
+            "latitude": 50.639824
+        },
+        "bellingcat": {
+            "id": "CIV0132",
+            "description": "Widespread and significant damage to residential area.",
+            "sources": [
+                "https://twitter.com/michaeldweiss/status/1498669909261398020"
+            ]
+        },
+        "prozorro_tender": null
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2023-01-26",
+        "location": {
+            "display_name": "Kyivska Street, Hlevakha, Kyiv Oblast, 08630, Ukraine",
+            "administrative_area": "Kyiv Oblast",
+            "sub_administrative_area": "Fastiv District",
+            "locality": "Hlevakha",
+            "post_code": "08630",
+            "thoroughfare": "Kyivska Street",
+            "full_thoroughfare": "Kyivska Street",
+            "longitude": 30.336218,
+            "latitude": 50.279288
+        },
+        "bellingcat": {
+            "id": "CIV1829",
+            "description": "Damage to residential buildings as a result of a night drone attack.",
+            "sources": [
+                "srcHidden"
+            ]
+        },
+        "prozorro_tender": null
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2022-03-19",
+        "location": {
+            "display_name": "Novo-Kyivska street, Novi Petrivtsi, Kyiv Oblast, 07354, Ukraine",
+            "administrative_area": "Kyiv Oblast",
+            "sub_administrative_area": "Vyshhorod District",
+            "locality": "Novi Petrivtsi",
+            "post_code": "07354",
+            "thoroughfare": "Novo-Kyivska street",
+            "full_thoroughfare": "Novo-Kyivska street",
+            "longitude": 30.44378,
+            "latitude": 50.62107
+        },
+        "bellingcat": {
+            "id": "CIV1824",
+            "description": "[Sensitive Media: Child's body pulled from rubble] Child killed following strikes on what appears to be a residential area.",
+            "sources": [
+                "srcHidden"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2023-09-01-010116-a"
+        }
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2023-01-23",
+        "location": {
+            "display_name": "73486, Antonivka, Kherson Oblast, Ukraine",
+            "administrative_area": "Kherson Oblast",
+            "sub_administrative_area": "Kherson District",
+            "locality": "Antonivka",
+            "post_code": "73486",
+            "thoroughfare": null,
+            "full_thoroughfare": null,
+            "longitude": 32.713715,
+            "latitude": 46.675741
+        },
+        "bellingcat": {
+            "id": "CIV1815",
+            "description": "[Graphic: body covered by cloth] Damage visible across Kherson following strikes, one person reported to be killed. ",
+            "sources": [
+                "https://twitter.com/KyivIndependent/status/1617540836132098053",
+                "https://tsn.ua/video/video-novini/mabut-schos-pidvozyat-meshkanci-hersonschini-boyatsya-tishi-bilshe-za-obstrili.html"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2023-08-10-009583-a"
+        }
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Incendiary munitions",
+        "date": "2023-01-14",
+        "location": {
+            "display_name": "О-081238, Zaliznychne, Zaporizhzhia Oblast, 70231, Ukraine",
+            "administrative_area": "Zaporizhzhia Oblast",
+            "sub_administrative_area": "Polohivskyi District",
+            "locality": "Zaliznychne",
+            "post_code": "70231",
+            "thoroughfare": "О-081238",
+            "full_thoroughfare": "О-081238",
+            "longitude": 36.161396,
+            "latitude": 47.646875
+        },
+        "bellingcat": {
+            "id": "CIV1787",
+            "description": "Incendiary munition used over what appears to be residential area.",
+            "sources": [
+                "https://twitter.com/JayinKyiv/status/1614199670959480833",
+                "https://twitter.com/neonhandrail/status/1614382611249651712"
+            ]
+        },
+        "prozorro_tender": null
+    },
+    {
+        "types": [
+            "Residential",
+            "Roads/Highways/Transport"
+        ],
+        "weapon_system": "Cruise missile",
+        "date": "2022-12-29",
+        "location": {
+            "display_name": "Zhulianska Street, 1А, Kriukivshchyna, Kyiv Oblast, 08136, Ukraine",
+            "administrative_area": "Kyiv Oblast",
+            "sub_administrative_area": "Bucha District",
+            "locality": "Kriukivshchyna",
+            "post_code": "08136",
+            "thoroughfare": "Zhulianska Street",
+            "full_thoroughfare": "Zhulianska Street, 1А",
+            "longitude": 30.379577,
+            "latitude": 50.377468
+        },
+        "bellingcat": {
+            "id": "CIV1768",
+            "description": "Civilian vehicle damaged by missile debris in a cruise missile attack on Kyiv.",
+            "sources": [
+                "https://t.me/c/1210003725/28970"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2024-08-08-010009-a"
+        }
+    },
+    {
+        "types": [
+            "Residential",
+            "Roads/Highways/Transport"
+        ],
+        "weapon_system": "Cruise missile",
+        "date": "2022-12-29",
+        "location": {
+            "display_name": "Kostiantyna Arefieva Street, Kyiv, 02132, Ukraine",
+            "administrative_area": "Kyiv",
+            "sub_administrative_area": null,
+            "locality": "Kyiv",
+            "post_code": "02132",
+            "thoroughfare": "Kostiantyna Arefieva Street",
+            "full_thoroughfare": "Kostiantyna Arefieva Street",
+            "longitude": 30.596336,
+            "latitude": 50.373287
+        },
+        "bellingcat": {
+            "id": "CIV1769",
+            "description": "Damage to residential buildings resulted from a cruise missile attack.",
+            "sources": [
+                "https://t.me/c/1210003725/28954",
+                "https://t.me/c/1248149892/29510",
+                "https://t.me/c/1210003725/28996"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2024-03-15-009525-a"
+        }
+    },
+    {
+        "types": [
+            "Residential",
+            "Roads/Highways/Transport"
+        ],
+        "weapon_system": "Cruise missile",
+        "date": "2022-12-31",
+        "location": {
+            "display_name": "Heroiv Sevastopolia Street, 5А, Kyiv, 03124, Ukraine",
+            "administrative_area": "Kyiv",
+            "sub_administrative_area": null,
+            "locality": "Kyiv",
+            "post_code": "03124",
+            "thoroughfare": "Heroiv Sevastopolia Street",
+            "full_thoroughfare": "Heroiv Sevastopolia Street, 5А",
+            "longitude": 30.416564,
+            "latitude": 50.443266
+        },
+        "bellingcat": {
+            "id": "CIV1767",
+            "description": "Damage to residential areas, civilian vehicles and buildings resulted from a cruise missile attack on Kyiv.",
+            "sources": [
+                "https://t.me/c/1210003725/29194",
+                "https://t.me/c/1210003725/29165",
+                "https://t.me/lossolomas_kyiv/30839"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2025-03-31-004479-a"
+        }
+    },
+    {
+        "types": [
+            "Residential",
+            "Humanitarian",
+            "Undefined",
+            "Administrative"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2023-01-06",
+        "location": {
+            "display_name": "Vyshneva Street, Kherson, Kherson Oblast, 73032, Ukraine",
+            "administrative_area": "Kherson Oblast",
+            "sub_administrative_area": "Kherson District",
+            "locality": "Kherson",
+            "post_code": "73032",
+            "thoroughfare": "Vyshneva Street",
+            "full_thoroughfare": "Vyshneva Street",
+            "longitude": 32.611263,
+            "latitude": 46.664859
+        },
+        "bellingcat": {
+            "id": "CIV1763",
+            "description": "[Graphic: Body on the ground covered with a cloth] Shelling of another reported fire station for second day in a row. At least one person reported dead, four reported wounded. Damage to neighboring residential buildings.",
+            "sources": [
+                "https://twitter.com/nexta_tv/status/1611324961590837248",
+                "https://twitter.com/sternenko/status/1611309539311099906",
+                "https://twitter.com/JayinKyiv/status/1611325082214834178",
+                "https://www.pravda.com.ua/news/2023/01/6/7383778/"
+            ]
+        },
+        "prozorro_tender": null
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Cruise missile",
+        "date": "2022-12-31",
+        "location": {
+            "display_name": "Dokuchaev Street, 14, Kyiv, 03038, Ukraine",
+            "administrative_area": "Kyiv",
+            "sub_administrative_area": null,
+            "locality": "Kyiv",
+            "post_code": "03038",
+            "thoroughfare": "Dokuchaev Street",
+            "full_thoroughfare": "Dokuchaev Street, 14",
+            "longitude": 30.498132,
+            "latitude": 50.427
+        },
+        "bellingcat": {
+            "id": "CIV1740",
+            "description": "[Graphic: Person lying on the ground, face covered in blood] Damage to what appears to be residential buildings as a result of missile barrage. At least one person reported dead, 20 reported injured.",
+            "sources": [
+                "https://twitter.com/igornovikov/status/1609181624612294656",
+                "https://twitter.com/nexta_tv/status/1609201912150114305"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2023-08-23-003533-a"
+        }
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Cruise missile",
+        "date": "2022-12-31",
+        "location": {
+            "display_name": "Predslavynska Street, 35Д, Kyiv, 03150, Ukraine",
+            "administrative_area": "Kyiv",
+            "sub_administrative_area": null,
+            "locality": "Kyiv",
+            "post_code": "03150",
+            "thoroughfare": "Predslavynska Street",
+            "full_thoroughfare": "Predslavynska Street, 35Д",
+            "longitude": 30.523163,
+            "latitude": 50.421683
+        },
+        "bellingcat": {
+            "id": "CIV1741",
+            "description": "Strike on what appears to be a hotel as a result of missile barrage.",
+            "sources": [
+                "https://twitter.com/yurasov_vitaliy/status/1609189750514274308",
+                "https://twitter.com/TelegraphWorld/status/1609181946328023040",
+                "https://twitter.com/nexta_tv/status/1610498399345721345"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2023-08-23-003533-a"
+        }
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2022-11-23",
+        "location": {
+            "display_name": "Mykhaila Hrushevskoho Street, 1, Vyshhorod, Kyiv Oblast, 07301, Ukraine",
+            "administrative_area": "Kyiv Oblast",
+            "sub_administrative_area": "Vyshhorod District",
+            "locality": "Vyshhorod",
+            "post_code": "07301",
+            "thoroughfare": "Mykhaila Hrushevskoho Street",
+            "full_thoroughfare": "Mykhaila Hrushevskoho Street, 1",
+            "longitude": 30.487644,
+            "latitude": 50.587747
+        },
+        "bellingcat": {
+            "id": "CIV1673",
+            "description": "4 civilians reportedly killed, more than 20 wounded in missile hit on residential building in Vyshhorod, Kyiv Oblast.",
+            "sources": [
+                "https://t.me/c/1210003725/27466",
+                "https://t.me/truexanewsua/65385",
+                "https://t.me/c/1210003725/27460",
+                "https://t.me/c/1210003725/27444",
+                "https://t.me/c/1210003725/27495",
+                "https://t.me/c/1210003725/27403",
+                "https://t.me/nexta_live/41514",
+                "https://t.me/itsdonetsk/41550",
+                "https://t.me/truexanewsua/65350",
+                "https://t.me/kievreal1/31667",
+                "https://t.me/c/1307866449/30772"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2024-05-22-008800-a"
+        }
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2022-10-06",
+        "location": {
+            "display_name": "Sobornyi Avenue, Zaporizhzhia, Zaporizhzhia Oblast, 69035, Ukraine",
+            "administrative_area": "Zaporizhzhia Oblast",
+            "sub_administrative_area": "Zaporizhzhia District",
+            "locality": "Zaporizhzhia",
+            "post_code": "69035",
+            "thoroughfare": "Sobornyi Avenue",
+            "full_thoroughfare": "Sobornyi Avenue",
+            "longitude": 35.126078,
+            "latitude": 47.845706
+        },
+        "bellingcat": {
+            "id": "CIV1497",
+            "description": "Residential and commercial buildings destroyed by explosions. At least two people were reported to have been killed. ",
+            "sources": [
+                "https://twitter.com/KyivIndependent/status/1577921453848248320",
+                "https://t.me/c/1687475640/14018",
+                "https://twitter.com/KyivIndependent/status/1577895523310239745",
+                "https://t.me/u_now/69788",
+                "https://www.wsj.com/video/series/on-the-news/video-russian-missiles-hit-zaporizhzhia/79EDCAD9-9EF3-485C-AAE4-0B54F2E05CA4",
+                "https://indianexpress.com/article/world/shelling-of-ukraines-zaporizhzhia-kills-two-8192661/",
+                "https://twitter.com/Tsihanouskaya/status/1577931906548744192"
+            ]
+        },
+        "prozorro_tender": null
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Cruise missile",
+        "date": "2022-04-28",
+        "location": {
+            "display_name": "Tatarska Street, Kyiv, 04050, Ukraine",
+            "administrative_area": "Kyiv",
+            "sub_administrative_area": null,
+            "locality": "Kyiv",
+            "post_code": "04050",
+            "thoroughfare": "Tatarska Street",
+            "full_thoroughfare": "Tatarska Street",
+            "longitude": 30.486669,
+            "latitude": 50.462548
+        },
+        "bellingcat": {
+            "id": "CIV0866",
+            "description": "Cruise missiles strikes on Kyiv.",
+            "sources": [
+                "https://t.me/kievreal1/20354",
+                "https://t.me/kievreal1/20409",
+                "https://t.me/kievreal1/20402",
+                "https://t.me/kievreal1/20351",
+                "https://t.me/kievreal1/20380",
+                "https://t.me/kievreal1/20361?single",
+                "https://t.me/kievreal1/20395",
+                "https://t.me/kievreal1/20391",
+                "https://t.me/kievreal1/20383",
+                "https://t.me/kievreal1/20422",
+                "https://t.me/kievreal1/20376",
+                "https://t.me/kievreal1/20385",
+                "https://t.me/kievreal1/20399",
+                "https://t.me/kievreal1/20370",
+                "https://t.me/kievreal1/20392",
+                "https://t.me/kievreal1/20397",
+                "https://t.me/kievreal1/20390",
+                "https://t.me/kievreal1/20384",
+                "https://t.me/kievreal1/20388",
+                "https://t.me/kievreal1/20372",
+                "https://t.me/kievreal1/20377",
+                "https://t.me/kievreal1/20401"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2023-08-23-003533-a"
+        }
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2022-04-05",
+        "location": {
+            "display_name": "Parkova Street, Borodianka, Kyiv Oblast, 07801, Ukraine",
+            "administrative_area": "Kyiv Oblast",
+            "sub_administrative_area": "Bucha District",
+            "locality": "Borodianka",
+            "post_code": "07801",
+            "thoroughfare": "Parkova Street",
+            "full_thoroughfare": "Parkova Street",
+            "longitude": 29.931894,
+            "latitude": 50.643781
+        },
+        "bellingcat": {
+            "id": "CIV0695",
+            "description": "Buildings destroyed in Kyiv",
+            "sources": [
+                "https://twitter.com/Osinttechnical/status/1511365066666487815"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2023-08-23-004372-a"
+        }
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Small arms",
+        "date": "2022-04-02",
+        "location": {
+            "display_name": "Kirova Street, 144, Bucha, Kyiv Oblast, 08294, Ukraine",
+            "administrative_area": "Kyiv Oblast",
+            "sub_administrative_area": "Bucha District",
+            "locality": "Bucha",
+            "post_code": "08294",
+            "thoroughfare": "Kirova Street",
+            "full_thoroughfare": "Kirova Street, 144",
+            "longitude": 30.210082,
+            "latitude": 50.533674
+        },
+        "bellingcat": {
+            "id": "CIV0628",
+            "description": "[graphic: bodies] seven bodies in civilian clothes killed, at least two with hands tied behind their backs. Russian army ration packs & ammunitions container present at the site.",
+            "sources": [
+                "https://apnews.com/article/russia-ukraine-business-middle-east-black-sea-religion-a97f60a50df0d8dc1e0f126a33144560/gallery/e79914a0b5064de8b4a9ddc9420af754",
+                "https://twitter.com/J_B_E__Zorg/status/1510005388950876168",
+                "https://twitter.com/tomvandeweghe/status/1510681346691239943",
+                "https://www.nytimes.com/2022/05/19/world/europe/russia-bucha-ukraine-executions.html",
+                "https://vot-tak.tv/novosti/03-04-2022-rasstrely-zhitelej-buchi/",
+                "https://www.amnesty.org/en/latest/news/2022/05/ukraine-russian-forces-must-face-justice-for-war-crimes-in-kyiv-oblast-new-investigation/"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2022-12-22-009067-a"
+        }
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2022-03-19",
+        "location": {
+            "display_name": "Dymytriia Rostovskoho Street, 38, Makarivs'ka, Kyiv Oblast, 08001, Ukraine",
+            "administrative_area": "Kyiv Oblast",
+            "sub_administrative_area": "Bucha District",
+            "locality": "Makarivs'ka",
+            "post_code": "08001",
+            "thoroughfare": "Dymytriia Rostovskoho Street",
+            "full_thoroughfare": "Dymytriia Rostovskoho Street, 38",
+            "longitude": 29.811666,
+            "latitude": 50.461896
+        },
+        "bellingcat": {
+            "id": "CIV0432",
+            "description": "Reports of deaths and injuries caused by a strike on a residential and administrative area.",
+            "sources": [
+                "https://www.ukrinform.ua/rubric-ato/3434129-vorog-vdariv-po-makarovu-semero-zagiblih-ta-patero-poranenih.html",
+                "https://t.me/kievreal1/14051",
+                "https://twitter.com/Osinttechnical/status/1504959462746038274"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2023-08-10-008039-a"
+        }
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2022-03-14",
+        "location": {
+            "display_name": "Bohatyrska Street, 20, Kyiv, 04209, Ukraine",
+            "administrative_area": "Kyiv",
+            "sub_administrative_area": null,
+            "locality": "Kyiv",
+            "post_code": "04209",
+            "thoroughfare": "Bohatyrska Street",
+            "full_thoroughfare": "Bohatyrska Street, 20",
+            "longitude": 30.486415,
+            "latitude": 50.522768
+        },
+        "bellingcat": {
+            "id": "CIV0356",
+            "description": "Report of at least one killed in strike on residential apartment block in Kyiv. Significant damage. ",
+            "sources": [
+                "https://twitter.com/Armia_fm/status/1503258460263260161",
+                "https://twitter.com/ASLuhn/status/1503263497790050311",
+                "https://t.me/c/1307866449/7605",
+                "https://twitter.com/KyivIndependent/status/1503283464321347586",
+                "https://twitter.com/OzKaterji/status/1503332328181018628",
+                "https://twitter.com/OzKaterji/status/1503332589461024768"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2023-08-23-004639-a"
+        }
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2022-03-05",
+        "location": {
+            "display_name": "08205, Irpin, Kyiv Oblast, Ukraine",
+            "administrative_area": "Kyiv Oblast",
+            "sub_administrative_area": "Bucha District",
+            "locality": "Irpin",
+            "post_code": "08205",
+            "thoroughfare": null,
+            "full_thoroughfare": null,
+            "longitude": 30.242286,
+            "latitude": 50.497374
+        },
+        "bellingcat": {
+            "id": "CIV0256",
+            "description": "Residential building impacted by projectiles. ",
+            "sources": [
+                "https://t.me/Kievskiy_dvizh_novosti/4038",
+                "https://t.me/Novoeizdanie/6895"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2022-12-27-010339-a"
+        }
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2022-03-04",
+        "location": {
+            "display_name": "Turhenievska Street, 50Б, Irpin, Kyiv Oblast, 08205, Ukraine",
+            "administrative_area": "Kyiv Oblast",
+            "sub_administrative_area": "Bucha District",
+            "locality": "Irpin",
+            "post_code": "08205",
+            "thoroughfare": "Turhenievska Street",
+            "full_thoroughfare": "Turhenievska Street, 50Б",
+            "longitude": 30.228199,
+            "latitude": 50.52649
+        },
+        "bellingcat": {
+            "id": "CIV0259",
+            "description": "Residential complex \"Lemongrass\" on Turhenivska Street damaged by multiple projectiles",
+            "sources": [
+                "https://t.me/Kievskiy_dvizh_novosti/3670",
+                "https://t.me/Kievskiy_dvizh_novosti/3716",
+                "https://www.sfchronicle.com/california/article/The-father-of-the-Ukrainian-family-photographed-16992256.php"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2025-04-11-010583-a"
+        }
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "HE tube artillery",
+        "date": "2022-03-06",
+        "location": {
+            "display_name": "ulica Popowicza, Irpin, Kyiv Oblast, 08205, Ukraine",
+            "administrative_area": "Kyiv Oblast",
+            "sub_administrative_area": "Bucha District",
+            "locality": "Irpin",
+            "post_code": "08205",
+            "thoroughfare": "ulica Popowicza",
+            "full_thoroughfare": "ulica Popowicza",
+            "longitude": 30.26019,
+            "latitude": 50.490049
+        },
+        "bellingcat": {
+            "id": "CIV0217",
+            "description": "[Graphic: bodies] Three members of a family of four reportedly killed by strike in corridor being used by civilians. Crater visible in some videos. ",
+            "sources": [
+                "https://twitter.com/KyleJGlen/status/1500432948390158338",
+                "https://twitter.com/lynseyaddario/status/1500469003780771846",
+                "https://twitter.com/XyKyiv/status/1500501306133336067",
+                "https://twitter.com/StratejikGndem3/status/1500443151957471240",
+                "https://t.me/Pravda_Gerashchenko/2304",
+                "https://twitter.com/ukraine_world/status/1500486915040190466",
+                "https://twitter.com/StratejikGndem3/status/1500472656549842955",
+                "https://twitter.com/olex_scherba/status/1500510896619237382",
+                "https://twitter.com/EncryptEddie/status/1500507266633674752"
+            ]
+        },
+        "prozorro_tender": null
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2022-03-05",
+        "location": {
+            "display_name": "Richna Street, 28/2, Bila Tserkva, Kyiv Oblast, 09117, Ukraine",
+            "administrative_area": "Kyiv Oblast",
+            "sub_administrative_area": "Bila Tserkva District",
+            "locality": "Bila Tserkva",
+            "post_code": "09117",
+            "thoroughfare": "Richna Street",
+            "full_thoroughfare": "Richna Street, 28/2",
+            "longitude": 30.097353,
+            "latitude": 49.805255
+        },
+        "bellingcat": {
+            "id": "CIV0207",
+            "description": "20 houses reported to have been damaged by a strike, as well as further casualties. ",
+            "sources": [
+                "https://twitter.com/shaunwalker7/status/1500059651546755073",
+                "https://twitter.com/police_kyiv_obl/status/1500029178443448324"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2022-12-22-021362-a"
+        }
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2022-03-04",
+        "location": {
+            "display_name": "08633, Markhalivka, Kyiv Oblast, Ukraine",
+            "administrative_area": "Kyiv Oblast",
+            "sub_administrative_area": "Fastiv District",
+            "locality": "Markhalivka",
+            "post_code": "08633",
+            "thoroughfare": null,
+            "full_thoroughfare": null,
+            "longitude": 30.372484,
+            "latitude": 50.27242
+        },
+        "bellingcat": {
+            "id": "CIV0202",
+            "description": "Residential buildings destroyed by shelling. Five civilians, including three children, reported dead.",
+            "sources": [
+                "https://www.facebook.com/MNS.GOV.UA/posts/326078186226744",
+                "https://apnews.com.ua/ua/news/viiska-rf-obstrilyali-selo-pid-kievom-troe-malenkikh-ditei-zaginuli/",
+                "https://delo.ua/ru/incidents/v-sele-k-yugu-ot-kieva-iz-za-obstrela-pogibli-pyat-celovek-razruseny-doma-foto-393824/"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2024-07-04-010625-a"
+        }
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2022-02-27",
+        "location": {
+            "display_name": "Mytropolyta Andreia Sheptytskoho Street, 22Б, Kyiv, 02002, Ukraine",
+            "administrative_area": "Kyiv",
+            "sub_administrative_area": null,
+            "locality": "Kyiv",
+            "post_code": "02002",
+            "thoroughfare": "Mytropolyta Andreia Sheptytskoho Street",
+            "full_thoroughfare": "Mytropolyta Andreia Sheptytskoho Street, 22Б",
+            "longitude": 30.593632,
+            "latitude": 50.457106
+        },
+        "bellingcat": {
+            "id": "CIV0164",
+            "description": "Assault on an individual in civilian clothing by armed men on Mykilska Slobidka in Kyiv",
+            "sources": [
+                "srcHidden"
+            ]
+        },
+        "prozorro_tender": {
+            "id": "UA-2022-12-27-010339-a"
+        }
+    },
+    {
+        "types": [
+            "Residential"
+        ],
+        "weapon_system": "Unknown",
+        "date": "2022-02-26",
+        "location": {
+            "display_name": "Tsentralna Street, Borodianka, Kyiv Oblast, 07801, Ukraine",
+            "administrative_area": "Kyiv Oblast",
+            "sub_administrative_area": "Bucha District",
+            "locality": "Borodianka",
+            "post_code": "07801",
+            "thoroughfare": "Tsentralna Street",
+            "full_thoroughfare": "Tsentralna Street",
+            "longitude": 29.966315,
+            "latitude": 50.659118
+        },
+        "bellingcat": {
+            "id": "CIV0048",
+            "description": "Ukrainian State Emergency Service reports that a shell impacted the village of Borodyanka near Kyiv, killing at least three people.",
+            "sources": [
+                "https://twitter.com/24UkraineNews/status/1497556546334699526",
+                "https://twitter.com/michaelh992/status/1497561328092864515",
+                "https://twitter.com/TRTRussian/status/1497565167793618944",
+                "https://twitter.com/hiko_cat_/status/1497559906467078144"
+            ]
+        },
+        "prozorro_tender": null
+    }
+]
