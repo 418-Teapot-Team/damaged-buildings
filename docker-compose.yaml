@@ -4,6 +4,7 @@ services:
     image: ai_chat
     environment:
       - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - SERPAPI_API_KEY=${SERPAPI_API_KEY}
     build:
       context: ai_chat
       args:

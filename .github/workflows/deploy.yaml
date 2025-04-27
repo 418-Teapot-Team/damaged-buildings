@@ -12,4 +12,5 @@ jobs:
     - name: Docker Compose
       env:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }}
       run: docker compose up -d --force-recreate --build
