@@ -6,8 +6,14 @@ with open("ogapi.json", "r") as f:
 results = []
 
 for item in data:
-    if "Residential" in item["impact"]:
-        results.append(item)
+    if "Residential" not in item["impact"]:
+        continue
+
+    ctx = json.dumps(item).lower()
+    if "kyiv" not in ctx and "kiev" not in ctx:
+        continue
+
+    results.append(item)
 
 
 with open("api_residential.json", "w") as f:

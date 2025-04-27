@@ -1,0 +1,3314 @@
+[
+    {
+        "title": "Послуги з «Поточного ремонту приміщень будівлі Державного підприємства «Великий конференц-зал Національної академії наук України, розташованої за адресою: м. Київ Володимирська,55, пошкоджених в наслідок ракетних обстрілів, які сталися 10 жовтня 2022 року в м.Києві»",
+        "tender_id": "UA-2022-12-27-010339-a",
+        "tender_hash": "91ca98d1c0c24a70b9f0560edb0f6793",
+        "status": "Завершена",
+        "expected_cost": {
+            "amount": 2816210.0,
+            "currency": "UAH"
+        },
+        "customer": {},
+        "subject": {
+            "delivery_place": "Україна, Відповідно до документації",
+            "description": "Послуги з «Поточного ремонту приміщень будівлі Державного підприємства «Великий конференц-зал Національної академії наук України, розташованої за адресою: м. Київ Володимирська,55, пошкоджених в наслідок ракетних обстрілів, які сталися 10 жовтня 2022 року в м.Києві»",
+            "quantity": "1 послуга"
+        },
+        "awards": [
+            {
+                "participant_name": "ПП \"МАВ-БУДПРОЕКТ\"",
+                "participant_edrpou": "33779405",
+                "decision": "Переможець",
+                "bid_amount": 2816210.0,
+                "bid_currency": "UAH",
+                "publication_date": "27 грудня  2022 13:50"
+            }
+        ],
+        "dates": {},
+        "documents": [
+            {
+                "date": "27 грудня 202213:51",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/f7ef726ab51042388838f1eaa181c80d?Signature=yEuq68u89p8iNAIHlD2Q46L3utRXQV5E9hjH%2BssZE1NP%2FVFNxj1pTAmXCA9rvWQ0tA56C3Snq25yxi2Q7JXhBA%3D%3D&KeyID=52462340"
+            }
+        ],
+        "longitude": "50.44564",
+        "latitude": "30.513632",
+        "bellingcat_items": [
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [],
+                "sources": [
+                    "https://t.me/kiev_infoo/3528",
+                    "https://t.me/kievreal1/57157",
+                    "https://censor.net/en/news/3479796/consequences_of_the_missile_attack_on_kyiv_photos"
+                ],
+                "id": "3X5OQP",
+                "description": "Missile remnants found at a multi-story residential building.",
+                "date": "2024-03-21",
+                "location": "Kyiv",
+                "latitude": 50.48275,
+                "longitude": 30.397723,
+                "graphic": false
+            }
+        ]
+    },
+    {
+        "title": "Виконання робіт із здійснення технічного нагляду під час будівництва об’єкта: «Капітальний ремонт будівлі КРУЕ-330 кВ ТЕЦ-5, пошкодженого внаслідок ракетного обстрілу ТЕЦ-5, за адресою: м. Київ, вул. Промислова, 4».",
+        "tender_id": "UA-2025-03-31-004479-a",
+        "tender_hash": "4b8e274eccf74f538d12e81f497f045c",
+        "status": "Пропозиції розглянуті",
+        "expected_cost": {
+            "amount": 125888.4,
+            "currency": "UAH"
+        },
+        "customer": {},
+        "subject": {},
+        "awards": [
+            {
+                "participant_name": "Виконання робіт",
+                "decision": "80% від ціни виконаних робіт – протягом 40 (сорок) робочих днів з дати підписання уповноваженими представниками обох Сторін відповідних Актів приймання виконаних робіт із здійснення технічного нагляду.",
+                "publication_date": "40"
+            },
+            {
+                "participant_name": "Виконання робіт",
+                "decision": "20% від ціни виконаних робіт – протягом 40 (сорок) робочих днів з дати реєстрації в Єдиному реєстрі податкових накладних (ЄРПН) належним чином складеної Підрядником податкової накладної (ПН)/розрахунку коригування до податкової накладної (РК) на суму відповідного Акта приймання виконаних робіт із здійснення технічного нагляду’, а також направлення Підрядником такої зареєстрованої ПН/РК, оформленої належним чином в електронній формі з дотриманням вимог Законів України «Про електронні документи та електронний документообіг» і «Про електронну ідентифікацію та електронні довірчі послуги», на адресу електронної пошти відповідального представника Замовника за опрацювання отриманих ПН/РК (реєстрацію в ЄРПН отриманих РК на зменшення), вказану в Договорі.  Якщо Підрядник не є платником ПДВ – передбачений даним підпунктом Договору строк відраховується від дати підписання уповноваженими представниками обох Сторін відповідного Акта приймання виконаних робіт із здійснення технічного нагляду.",
+                "publication_date": "40"
+            }
+        ],
+        "dates": {},
+        "documents": [
+            {
+                "date": "31 березня 202512:14",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/c85b55ef84cf48349549b7d486e36cc1?Signature=pCDEXImn8AajNC3WHtI2nSH4%2FeWb6rp2yug3kdw5bmaSW2qQvYf%2B9gcpmFSeVdQNQLJt58Kmpl2H9FQDXsyECg%3D%3D&KeyID=52462340"
+            },
+            {
+                "date": "31 березня 202512:14",
+                "title": "Вимоги до предмета закупівлі (технічні).docx",
+                "url": "https://public-docs.prozorro.gov.ua/get/5b7c0534534b4ba885cf0e4d085edbc0?Signature=16Nkpydsz6EEOejzT1gZq%2Fg%2F%2BorR45anIQL%2FShWH8oTvc5O7kiyubEvUDsC5LAGKCM%2FIqaKyJM%2BJ708LjfauCg%3D%3D&KeyID=52462340"
+            },
+            {
+                "date": "31 березня 202512:14",
+                "title": "Вимоги до предмета закупівлі (інші).docx",
+                "url": "https://public-docs.prozorro.gov.ua/get/c8208dfdbe994c5b8b069f40f6296797?Signature=MDJzfHf7ohRQrtCOHxfOjfBlkE4oR714YNpRyeL%2FOOAqIQelJWS0Kln%2B%2Bh40p5InUaOrhcyzHGF%2Fej3EEWKeCw%3D%3D&KeyID=52462340"
+            },
+            {
+                "date": "31 березня 202512:14",
+                "title": "Проєкт договору.docx",
+                "url": "https://public-docs.prozorro.gov.ua/get/7b77795f3d5444d8814852d223c35a4d?Signature=RL558PKzulT9lTG%2FZSJ3Qd1HghXVwey62gmzRUEExFy2xBvUKxTtamEYcE5Wm47ruHkTRd6EtQJbfUiyKadaAA%3D%3D&KeyID=52462340"
+            }
+        ],
+        "longitude": "50.3925953",
+        "latitude": "30.5624568",
+        "bellingcat_items": [
+            {
+                "impact": [
+                    "Residential",
+                    "Roads/Highways/Transport"
+                ],
+                "weapon_system": [],
+                "sources": [
+                    "https://t.me/kievreal1/68464",
+                    "https://t.me/huyovy_kharkiv/160677",
+                    "https://t.me/huyovy_kharkiv/160680",
+                    "https://t.me/huyovy_kharkiv/160681",
+                    "https://t.me/huyovy_kharkiv/160694",
+                    "https://t.me/info_zp/81438",
+                    "https://t.me/info_zp/81461",
+                    "https://t.me/info_zp/81463",
+                    "https://t.me/info_zp/81469",
+                    "https://t.me/info_zp/81479",
+                    "https://t.me/info_zp/81480",
+                    "https://t.me/info_zp/81545",
+                    "https://t.me/info_zp/81575",
+                    "https://www.youtube.com/watch?v=h3KbFLL33XE"
+                ],
+                "id": "F9NWGM",
+                "description": "Several people injured in a missile attack on a residential area of a city.",
+                "date": "2024-09-29",
+                "location": "Zaporizhzhia",
+                "latitude": 47.820339,
+                "longitude": 35.174899,
+                "graphic": true
+            }
+        ]
+    },
+    {
+        "title": "Капітальний ремонт із заміни та аварійного ремонту віконних блоків, пошкоджених внаслідок ракетного обстрілу під час воєнної   агресії рф в гуртожитку  №2 НУХТ за адресою: м. Київ, пр-т Науки, 21",
+        "tender_id": "UA-2023-08-23-003533-a",
+        "tender_hash": "396f3ffe3c0b44e99f2c8d9afda59d7f",
+        "status": "Завершена",
+        "expected_cost": {
+            "amount": 357779.24,
+            "currency": "UAH"
+        },
+        "customer": {},
+        "subject": {
+            "delivery_place": "03028, Україна, м. Київ, пр-т Науки, 21",
+            "description": "Капітальний ремонт із заміни та аварійного ремонту віконних блоків, пошкоджених внаслідок ракетного обстрілу під час воєнної   агресії рф в гуртожитку  №2 НУХТ за адресою: м. Київ, пр-т Науки, 21",
+            "quantity": "1 роботи"
+        },
+        "awards": [
+            {
+                "participant_name": "Товариство з обмеженою відповідальністю «ІНВЕСТБУД-8»",
+                "participant_edrpou": "21561205",
+                "decision": "Переможець",
+                "bid_amount": 357779.24,
+                "bid_currency": "UAH",
+                "publication_date": "23 серпня  2023 11:21"
+            }
+        ],
+        "dates": {},
+        "documents": [
+            {
+                "date": "23 серпня 202311:23",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/a29f210abc714e83a2a7756467d4df55?Signature=sZ%2Fda5xCHxr3e8mGxsmd0JrowgAgiTZPUox3bvy8iplP%2BoFgCxNuQ%2FoJSNrDNVvnHwfxxSI8OLs5zABjXyLjAg%3D%3D&KeyID=52462340"
+            }
+        ],
+        "location": {
+            "postal_code": "03028",
+            "region": "м. Київ"
+        },
+        "longitude": "30.5167",
+        "latitude": "50.4500",
+        "bellingcat_items": [
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [],
+                "sources": [
+                    "https://t.me/kiev_infoo/7495"
+                ],
+                "id": "0AQEZ3",
+                "description": "Damage caused by falling debris in what appears to be a residential area.",
+                "date": "2024-11-07",
+                "location": "Kyiv, Solomyanskyi district",
+                "latitude": 50.418985,
+                "longitude": 30.474396,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential",
+                    "School or childcare"
+                ],
+                "weapon_system": [],
+                "sources": [
+                    "https://t.me/kievreal1/71784",
+                    "https://t.me/kievreal1/71771",
+                    "https://t.me/kiev_infoo/7445",
+                    "https://t.me/kievreal1/71758",
+                    "https://t.me/c/1913768634/15653"
+                ],
+                "id": "PWS5I1",
+                "description": "Several university buildings, including dormitory, damaged in an overnight attack.",
+                "date": "2024-11-03",
+                "location": "Kyiv",
+                "latitude": 50.470697,
+                "longitude": 30.46775,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Cruise missile"
+                ],
+                "sources": [
+                    "https://t.me/k_dvizh/47047"
+                ],
+                "id": "AS54HB",
+                "description": "Several cruise missiles hit a residential area in central Kyiv.",
+                "date": "2024-07-08",
+                "location": "Kyiv",
+                "latitude": 50.464405,
+                "longitude": 30.471518,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential",
+                    "Industrial",
+                    "Commercial",
+                    "Roads/Highways/Transport"
+                ],
+                "weapon_system": [
+                    "Ballistic missile",
+                    "Cruise missile"
+                ],
+                "sources": [
+                    "https://x.com/twittterrhandle/status/1810242317434913247",
+                    "https://x.com/JayinKyiv/status/1810268029109874977",
+                    "https://x.com/Euan_MacDonald/status/1810230978700283936"
+                ],
+                "id": "A9LQZH",
+                "description": "Aftermath of the multiple missile attack in the area of Lukianivska metro station. Several buildings damaged.",
+                "date": "2024-07-08",
+                "location": "Kyiv",
+                "latitude": 50.462663,
+                "longitude": 30.481949,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential",
+                    "Industrial",
+                    "Commercial"
+                ],
+                "weapon_system": [],
+                "sources": [
+                    "https://t.me/kievreal1/57149"
+                ],
+                "id": "8GQPFW",
+                "description": "A car enterprise and a nearby residential building damaged in attack.",
+                "date": "2024-03-21",
+                "location": "Kyiv",
+                "latitude": 50.47009,
+                "longitude": 30.523518,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential",
+                    "Commercial",
+                    "Religious"
+                ],
+                "weapon_system": [],
+                "sources": [
+                    "https://t.me/huyovy_kharkiv/143512",
+                    "https://t.me/huyovy_kharkiv/143521",
+                    "https://t.me/kievreal1/57158",
+                    "https://t.me/kievreal1/57168",
+                    "https://t.me/kievreal1/57177",
+                    "https://t.me/Bratchuk_Sergey/79903",
+                    "https://t.me/Bratchuk_Sergey/79912",
+                    "https://twitter.com/adrozd83/status/1771184082354888714",
+                    "https://t.me/kiev_infoo/3529"
+                ],
+                "id": "T444KZ",
+                "description": "A building and a church damaged in a reported missile attack.",
+                "date": "2024-03-21",
+                "location": "Kyiv",
+                "latitude": 50.474868,
+                "longitude": 30.47846,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Cruise missile",
+                    "Ballistic missile"
+                ],
+                "sources": [
+                    "https://x.com/KyivDefenders/status/1749751868308230533",
+                    "https://x.com/ZoryaLondonsk/status/1749744027484766382"
+                ],
+                "id": "0FEW0C",
+                "description": "Damage to a residential area as a result of multiple missiles attack.",
+                "date": "2024-01-23",
+                "location": "Kyiv",
+                "latitude": 50.437729,
+                "longitude": 30.481725,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential",
+                    "Industrial",
+                    "Commercial"
+                ],
+                "weapon_system": [],
+                "sources": [
+                    "https://t.me/kiev_infoo/1980"
+                ],
+                "id": "8SZI8Q",
+                "description": "What appears to be an industrial enterprise impacted by shelling in Podilsky district, Kyiv.",
+                "date": "2024-01-02",
+                "location": "Podilsky district, Kyiv",
+                "latitude": 50.477335,
+                "longitude": 30.486554,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "HE rocket artillery"
+                ],
+                "sources": [
+                    "https://t.me/kiev_infoo/1954",
+                    "https://t.me/news_sumy24/29024"
+                ],
+                "id": "RN8BKF",
+                "description": "A missile reported falling in the water near residential area in Kyiv",
+                "date": "2024-01-02",
+                "location": "Kyiv",
+                "latitude": 50.459276,
+                "longitude": 30.579405,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Loitering munition"
+                ],
+                "sources": [
+                    "https://t.me/kiev_infoo/1508",
+                    "https://t.me/news_sumy24/28469",
+                    "https://t.me/kiev_infoo/1509",
+                    "https://t.me/pgo_gov_ua/20014",
+                    "https://t.me/kiev_infoo/1517",
+                    "https://t.me/kiev_infoo/1520",
+                    "https://t.me/kiev_infoo/1526",
+                    "https://t.me/kiev_infoo/1527",
+                    "https://t.me/mvs_ukraine/32859",
+                    "https://t.me/kievreal1/52943",
+                    "https://t.me/kievreal1/52950",
+                    "https://t.me/kievreal1/52970",
+                    "https://t.me/kievreal1/52980",
+                    "https://t.me/kievreal1/52986",
+                    "https://t.me/kievreal1/52989",
+                    "https://t.me/kievreal1/52990",
+                    "https://t.me/kievreal1/53000",
+                    "https://t.me/kievreal1/53015",
+                    "https://t.me/insiderUKR/66720"
+                ],
+                "id": "VVZOTW",
+                "description": "An UAV strikes what appears to be a multistory apartment building in Kyiv",
+                "date": "2023-12-21",
+                "location": "Solomyanskyi district, Kyiv",
+                "latitude": 50.421867,
+                "longitude": 30.462403,
+                "graphic": true
+            },
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Cruise missile"
+                ],
+                "sources": [
+                    "https://twitter.com/Flash_news_ua/status/1672462562317811715",
+                    "https://twitter.com/IuliiaMendel/status/1673290078360158208",
+                    "https://twitter.com/avalaina/status/1672482918327808000"
+                ],
+                "id": "CIV2263",
+                "description": "Massive damage to a high rise apartment building as a result of cruise missile debris falling down. At least 5 people reported dead.",
+                "date": "2023-06-24",
+                "location": "Kyiv",
+                "latitude": 50.430345,
+                "longitude": 30.478436,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Unknown"
+                ],
+                "sources": [
+                    "srcHidden"
+                ],
+                "id": "CIV1824",
+                "description": "[Sensitive Media: Child's body pulled from rubble] Child killed following strikes on what appears to be a residential area.",
+                "date": "2022-03-19",
+                "location": "Novi Petrivtsi, Kyiv Oblast",
+                "latitude": 50.62107,
+                "longitude": 30.44378,
+                "graphic": true
+            },
+            {
+                "impact": [
+                    "Residential",
+                    "Humanitarian",
+                    "Undefined",
+                    "Administrative"
+                ],
+                "weapon_system": [
+                    "Unknown"
+                ],
+                "sources": [
+                    "https://twitter.com/nexta_tv/status/1611324961590837248",
+                    "https://twitter.com/sternenko/status/1611309539311099906",
+                    "https://twitter.com/JayinKyiv/status/1611325082214834178",
+                    "https://www.pravda.com.ua/news/2023/01/6/7383778/"
+                ],
+                "id": "CIV1763",
+                "description": "[Graphic: Body on the ground covered with a cloth] Shelling of another reported fire station for second day in a row. At least one person reported dead, four reported wounded. Damage to neighboring residential buildings.",
+                "date": "2023-01-06",
+                "location": "Kherson",
+                "latitude": 46.664859,
+                "longitude": 32.611263,
+                "graphic": true
+            },
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Cruise missile"
+                ],
+                "sources": [
+                    "https://twitter.com/igornovikov/status/1609181624612294656",
+                    "https://twitter.com/nexta_tv/status/1609201912150114305"
+                ],
+                "id": "CIV1740",
+                "description": "[Graphic: Person lying on the ground, face covered in blood] Damage to what appears to be residential buildings as a result of missile barrage. At least one person reported dead, 20 reported injured.",
+                "date": "2022-12-31",
+                "location": "Kyiv",
+                "latitude": 50.427,
+                "longitude": 30.498132,
+                "graphic": true
+            },
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Cruise missile"
+                ],
+                "sources": [
+                    "https://twitter.com/yurasov_vitaliy/status/1609189750514274308",
+                    "https://twitter.com/TelegraphWorld/status/1609181946328023040",
+                    "https://twitter.com/nexta_tv/status/1610498399345721345"
+                ],
+                "id": "CIV1741",
+                "description": "Strike on what appears to be a hotel as a result of missile barrage.",
+                "date": "2022-12-31",
+                "location": "Kyiv",
+                "latitude": 50.421683,
+                "longitude": 30.523163,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Cruise missile"
+                ],
+                "sources": [
+                    "https://t.me/kievreal1/20354",
+                    "https://t.me/kievreal1/20409",
+                    "https://t.me/kievreal1/20402",
+                    "https://t.me/kievreal1/20351",
+                    "https://t.me/kievreal1/20380",
+                    "https://t.me/kievreal1/20361?single",
+                    "https://t.me/kievreal1/20395",
+                    "https://t.me/kievreal1/20391",
+                    "https://t.me/kievreal1/20383",
+                    "https://t.me/kievreal1/20422",
+                    "https://t.me/kievreal1/20376",
+                    "https://t.me/kievreal1/20385",
+                    "https://t.me/kievreal1/20399",
+                    "https://t.me/kievreal1/20370",
+                    "https://t.me/kievreal1/20392",
+                    "https://t.me/kievreal1/20397",
+                    "https://t.me/kievreal1/20390",
+                    "https://t.me/kievreal1/20384",
+                    "https://t.me/kievreal1/20388",
+                    "https://t.me/kievreal1/20372",
+                    "https://t.me/kievreal1/20377",
+                    "https://t.me/kievreal1/20401"
+                ],
+                "id": "CIV0866",
+                "description": "Cruise missiles strikes on Kyiv.",
+                "date": "2022-04-28",
+                "location": null,
+                "latitude": 50.462548,
+                "longitude": 30.486669,
+                "graphic": false
+            }
+        ]
+    },
+    {
+        "title": "Послуги з розробки дефектного акту  та кошторисної документації з поточного ремонту службових приміщень адміністративної будівлі за адресою: бульвар Тараса Шевченка, 16, м. Київ, після ракетного обстрілу, із забезпеченням проходження експертизи кошторисної частини документації",
+        "tender_id": "UA-2023-08-08-011918-a",
+        "tender_hash": "d549189c0d0b4271a098e95b9cf548b9",
+        "status": "Завершена",
+        "expected_cost": {
+            "amount": 31000.0,
+            "currency": "UAH"
+        },
+        "customer": {},
+        "subject": {
+            "delivery_place": "01135, Україна, м. Київ, проспект Берестейський,  будинок 10",
+            "description": "Послуга з розробки дефектного акта та кошторисної документації з поточного ремонту службових приміщень адміністративної будівлі за адресою: бульвар Тараса Шевченка, 16, м. Київ, після ракетного обстрілу, із забезпеченням проходження експертизи кошторисної частини документації",
+            "quantity": "1 послуга"
+        },
+        "awards": [
+            {
+                "participant_name": "ТОВ \"АСТЕРІЯ +\"",
+                "participant_edrpou": "40680433",
+                "decision": "Переможець",
+                "bid_amount": 31000.0,
+                "bid_currency": "UAH",
+                "publication_date": "08 серпня  2023 18:06"
+            }
+        ],
+        "dates": {},
+        "documents": [
+            {
+                "date": "08 серпня 202318:08",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/9307e0a472f94b678d334e04f07584a8?Signature=mgeLXX6zS20dyPolJyeZvMhhrLJe%2BZpfo4LzOvopZl6awcrccP3TDqfDU4vo6tt0jjQTF6n3o2ZjJ3j9rQ35DQ%3D%3D&KeyID=52462340"
+            }
+        ],
+        "location": {
+            "postal_code": "01135",
+            "region": "м. Київ"
+        },
+        "longitude": "50.444017",
+        "latitude": "30.511943",
+        "bellingcat_items": [
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [],
+                "sources": [
+                    "https://t.me/kiev_infoo/7495"
+                ],
+                "id": "0AQEZ3",
+                "description": "Damage caused by falling debris in what appears to be a residential area.",
+                "date": "2024-11-07",
+                "location": "Kyiv, Solomyanskyi district",
+                "latitude": 50.418985,
+                "longitude": 30.474396,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential",
+                    "School or childcare"
+                ],
+                "weapon_system": [],
+                "sources": [
+                    "https://t.me/kievreal1/71784",
+                    "https://t.me/kievreal1/71771",
+                    "https://t.me/kiev_infoo/7445",
+                    "https://t.me/kievreal1/71758",
+                    "https://t.me/c/1913768634/15653"
+                ],
+                "id": "PWS5I1",
+                "description": "Several university buildings, including dormitory, damaged in an overnight attack.",
+                "date": "2024-11-03",
+                "location": "Kyiv",
+                "latitude": 50.470697,
+                "longitude": 30.46775,
+                "graphic": false
+            }
+        ]
+    },
+    {
+        "title": "Роботи з розробки проектно-кошторисної документації «Капітальний ремонт із заміни та аварійного ремонту віконних блоків, пошкоджених внаслідок ракетного обстрілу під час воєнної агресії рф: гуртожитку №1 НУХТ за адресою: вул. Велика Китаївська, 92/98, м. Київ, гуртожитку №2 НУХТ за адресою: пр-т Науки, 21, м. Київ, гуртожитку №3 НУХТ за адресою: пр-т Науки, 23, м. Київ, гуртожитку №5 НУХТ за адресою: пр-т Науки, 26, м. Київ, гуртожитку №8 НУХТ за адресою: пр-т Науки, 28, м. Київ, учбового корпусу фізичного виховання НУХТ за адресою: пр-т Науки, 29-А, м. Київ», код ДК 021:2015:45453000-7: Капітальний ремонт і реставрація",
+        "tender_id": "UA-2023-08-02-005406-a",
+        "tender_hash": "31bfa81528704e858211fe7c030694d7",
+        "status": "Завершена",
+        "expected_cost": {
+            "amount": 18156.0,
+            "currency": "UAH"
+        },
+        "customer": {},
+        "subject": {
+            "delivery_place": "01033, Україна, м. Київ, За об’єктами замовника",
+            "description": "Роботи з розробки проектно-кошторисної документації «Капітальний ремонт із заміни та аварійного ремонту віконних блоків, пошкоджених внаслідок ракетного обстрілу під час воєнної агресії рф: гуртожитку №1 НУХТ за адресою: вул. Велика Китаївська, 92/98, м. Київ, гуртожитку №2 НУХТ за адресою: пр-т Науки, 21, м. Київ, гуртожитку №3 НУХТ за адресою: пр-т Науки, 23, м. Київ, гуртожитку №5 НУХТ за адресою: пр-т Науки, 26, м. Київ, гуртожитку №8 НУХТ за адресою: пр-т Науки, 28, м. Київ, учбового корпусу фізичного виховання НУХТ за адресою: пр-т Науки, 29-А, м. Київ», код ДК 021:2015:45453000-7: Капітальний ремонт і реставрація",
+            "quantity": "1 роботи"
+        },
+        "awards": [
+            {
+                "participant_name": "Товариство з обмеженою відповідальністю «ІНВЕСТБУД-8»",
+                "participant_edrpou": "21561205",
+                "decision": "Переможець",
+                "bid_amount": 18156.0,
+                "bid_currency": "UAH",
+                "publication_date": "02 серпня  2023 12:31"
+            }
+        ],
+        "dates": {},
+        "documents": [
+            {
+                "date": "02 серпня 202312:38",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/5fcda45ee0794ff79968d49da9745775?Signature=aG3OFn%2FEBqI4vY%2BCW%2Fn36qep%2BaKOE%2FtKZOo7yCZMCtbCb5uIph7yfvMHXZJol0e3H7jhwjiNCpBbgeESAXjuAw%3D%3D&KeyID=52462340"
+            }
+        ],
+        "location": {
+            "postal_code": "01033",
+            "region": "м. Київ"
+        },
+        "longitude": "50.404611",
+        "latitude": "30.530083",
+        "bellingcat_items": [
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Air strike"
+                ],
+                "sources": [
+                    "https://t.me/kharkiv_xc/104379",
+                    "https://t.me/kharkiv_xc/104367",
+                    "https://t.me/truexakharkiv/46651",
+                    "https://t.me/kharkiv_xc/104382"
+                ],
+                "id": "ROCH0Y",
+                "description": "Kab hitting civilian street in kyivsky district of Kharkov",
+                "date": "2024-07-03",
+                "location": "Kharkiv (Kyivsky district)",
+                "latitude": 50.040124,
+                "longitude": 36.290004,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential",
+                    "Commercial"
+                ],
+                "weapon_system": [
+                    "Unknown"
+                ],
+                "sources": [
+                    "https://x.com/Mike_Eckel/status/1709919151014187109",
+                    "https://t.me/Donbas_Operativniy/57835?single",
+                    "https://t.me/Donbas_Operativniy/57824",
+                    "https://t.me/Donbas_Operativniy/57821",
+                    "https://x.com/99Dominik_/status/1709938725063700716",
+                    "https://t.me/c/1347456995/85769",
+                    "https://t.me/c/1347456995/85771",
+                    "https://t.me/c/1347456995/85775",
+                    "https://t.me/c/1347456995/85777",
+                    "https://t.me/c/1347456995/85808",
+                    "https://t.me/huyovy_kharkiv/126320",
+                    "https://t.me/huyovy_kharkiv/126326",
+                    "https://x.com/JayinKyiv/status/1709924876608283123",
+                    "https://incident.obozrevatel.com/crime/vojna-protiv-rossii/ni-odnogo-voennogo-ne-byilo-pominali-odnoselchanina-v-politsii-raskryili-detali-udara-rf-po-kafe-pod-kupyanskom.htm",
+                    "https://censor.net/en/news/3447684/russian_strike_on_hroza_village_in_kharkiv_region_hits_shop_and_cafe_where_wake_was_held_klymenko_video",
+                    "https://x.com/nexta_tv/status/1709917348725985294"
+                ],
+                "id": "J78P3R",
+                "description": "[Bodies visible.] A grocery store and a cafe were damaged as a result of strike. At least 50 people reported dead, including one child.",
+                "date": "2023-10-05",
+                "location": "Hroza (Kupyansk)",
+                "latitude": 49.671841,
+                "longitude": 37.207391,
+                "graphic": true
+            }
+        ]
+    },
+    {
+        "title": "Виконання робіт з проведення експертизи кошторисної частини проекту «Ремонт системи пожежної сигналізації блока ст.№4 на ТЕЦ-5, пошкодженої внаслідок ракетного обстрілу рф, за адресою: м. Київ, ###########»",
+        "tender_id": "UA-2024-04-22-007490-a",
+        "tender_hash": "f5d29379bebb49dbb9f0c373f3f251b3",
+        "status": "Українська Визвольна Війна",
+        "expected_cost": {
+            "amount": 4776.0,
+            "currency": "UAH"
+        },
+        "customer": {},
+        "subject": {
+            "delivery_place": "Україна, Відповідно до документації",
+            "description": "Виконання робіт з проведення експертизи кошторисної частини проекту «Ремонт системи пожежної сигналізації блока ст.№4 на ТЕЦ-5, пошкодженої внаслідок ракетного обстрілу рф, за адресою: м. Київ, ###########»",
+            "quantity": "1 робота"
+        },
+        "awards": [
+            {
+                "participant_name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ ЦЕНТР КОМПЛЕКСНИХ ЕКСПЕРТИЗ ПРОЕКТІВ",
+                "participant_edrpou": "43598352",
+                "decision": "Переможець",
+                "bid_amount": 4776.0,
+                "bid_currency": "UAH",
+                "publication_date": "22 квітня  2024 14:11"
+            }
+        ],
+        "dates": {},
+        "documents": [
+            {
+                "date": "22 квітня 202414:12",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/25a5be59b201424eb027df193f140309?Signature=tdLw3unLk0d%2F2n9rDqehOiVEyrf5qw4Cm6HLBy%2F641TsHSqmtrIRTJ2kd4ZaqwVXchCTNRhCKu6jqxMEjYB7DQ%3D%3D&KeyID=52462340"
+            }
+        ],
+        "longitude": "50.4501",
+        "latitude": "30.5234",
+        "bellingcat_items": [
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [],
+                "sources": [
+                    "https://t.me/pgo_gov_ua/14050",
+                    "https://www.reuters.com/world/europe/one-killed-russian-drone-strike-northern-ukrainian-city-kyiv-says-2023-07-03/",
+                    "https://www.ukrinform.net/rubric-ato/3731128-death-toll-from-russian-drone-attack-on-sumy-rises-to-three.html",
+                    "https://kyivindependent.com/ukraine-war-latest-july-3/",
+                    "https://t.me/hyevuy_dnepr/55681",
+                    "https://twitter.com/Nikka_Ye/status/1675974280327184388"
+                ],
+                "id": "CIV2270",
+                "description": "Multiple reported killed, injured in drone attack on residential area.",
+                "date": "2023-07-03",
+                "location": "Sumy, Sumy Oblast",
+                "latitude": 50.901762,
+                "longitude": 34.790854,
+                "graphic": false
+            }
+        ]
+    },
+    {
+        "title": "Експертиза кошторисної документації проєкту будівництва «Капітальний ремонт із заміни та аварійного ремонту віконних блоків, пошкоджених внаслідок ракетного обстрілу під час воєнної агресії рф в гуртожитку №8 НУХТ за адресою: пр-т Науки, 28, м. Київ»",
+        "tender_id": "UA-2023-08-10-009470-a",
+        "tender_hash": "f9878574611f4060883f3ebf9cd0e39e",
+        "status": "Завершена",
+        "expected_cost": {
+            "amount": 4272.0,
+            "currency": "UAH"
+        },
+        "customer": {},
+        "subject": {
+            "delivery_place": "01033, Україна, м. Київ, вул. Володимирська, 68",
+            "description": "Експертиза кошторисної документації проєкту будівництва «Капітальний ремонт із заміни та аварійного ремонту віконних блоків, пошкоджених внаслідок ракетного обстрілу під час воєнної агресії рф в гуртожитку №8 НУХТ за адресою: пр-т Науки, 28, м. Київ»",
+            "quantity": "1 роботи"
+        },
+        "awards": [
+            {
+                "participant_name": "Товариство з обмеженою відповідальністю «ЦЕНТР КОМПЛЕКСНИХ ЕКСПЕРТИЗ ПРОЕКТІВ»",
+                "participant_edrpou": "43598352",
+                "decision": "Переможець",
+                "bid_amount": 4272.0,
+                "bid_currency": "UAH",
+                "publication_date": "10 серпня  2023 15:34"
+            }
+        ],
+        "dates": {},
+        "documents": [
+            {
+                "date": "10 серпня 202315:35",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/9deec96630ba48ed9088532b13b44b81?Signature=VAsDMz1gQYkqukbebCykcvpEL4lwOe2ojWQ8Emjadow%2FakcdeXckwkzr%2FnnY4lapd3aZNGfIdUNSNA0fnmj%2FCw%3D%3D&KeyID=52462340"
+            }
+        ],
+        "location": {
+            "postal_code": "01033",
+            "region": "м. Київ"
+        },
+        "longitude": "50.438515985368745",
+        "latitude": "30.510030865189904",
+        "bellingcat_items": [
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Unknown"
+                ],
+                "sources": [
+                    "https://t.me/kievreal1/53875"
+                ],
+                "id": "EHIWGJ",
+                "description": "Residential buildings damaged by a reported shelling.",
+                "date": "2024-01-02",
+                "location": "Kyiv",
+                "latitude": 50.493056,
+                "longitude": 30.43545,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Unknown"
+                ],
+                "sources": [
+                    "https://t.me/Kievskiy_dvizh_novosti/4038",
+                    "https://t.me/Novoeizdanie/6895"
+                ],
+                "id": "CIV0256",
+                "description": "Residential building impacted by projectiles. ",
+                "date": "2022-03-05",
+                "location": null,
+                "latitude": 50.497374,
+                "longitude": 30.242286,
+                "graphic": false
+            }
+        ]
+    },
+    {
+        "title": "Виконання робіт з проведення експертизи кошторисної документації «Капітальний ремонт пошкодженої будівлі інженерно-побутового корпусу ТЕЦ-5 за адресою: м. Київ, вул.############ внаслідок ракетного обстрілу 23.11.2022р. Додаткові роботи»",
+        "tender_id": "UA-2024-08-08-010009-a",
+        "tender_hash": "aa4c4d8417664bd4889421466cb6527a",
+        "status": "Українська Визвольна Війна",
+        "expected_cost": {
+            "amount": 9552.19,
+            "currency": "UAH"
+        },
+        "customer": {},
+        "subject": {
+            "delivery_place": "Україна, Відповідно до документації",
+            "description": "Виконання робіт з проведення експертизи кошторисної документації «Капітальний ремонт пошкодженої будівлі інженерно-побутового корпусу ТЕЦ-5 за адресою: м. Київ, вул.############ внаслідок ракетного обстрілу 23.11.2022р. Додаткові роботи»",
+            "quantity": "1 робота"
+        },
+        "awards": [
+            {
+                "participant_name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ «ЦЕНТР КОМПЛЕКСНИХ ЕКСПЕРТИЗ ПРОЕКТІВ»",
+                "participant_edrpou": "43598352",
+                "decision": "Переможець",
+                "bid_amount": 9552.19,
+                "bid_currency": "UAH",
+                "publication_date": "08 серпня  2024 16:05"
+            }
+        ],
+        "dates": {},
+        "documents": [
+            {
+                "date": "08 серпня 202416:06",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/deaf51edc6eb475bb0bf92b29b1b79d6?Signature=3PGm1oVFh33fwA0bF575P9k3NzyCtLmwk5D3zgz%2FqclXF0j2ujvlm%2FhwTxBcNoH3F7cZ%2Bp3U%2Fftlaa0ZbnyiBQ%3D%3D&KeyID=52462340"
+            }
+        ],
+        "longitude": "50.4500",
+        "latitude": "30.5233",
+        "bellingcat_items": [
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Cruise missile"
+                ],
+                "sources": [
+                    "https://twitter.com/yurasov_vitaliy/status/1609189750514274308",
+                    "https://twitter.com/TelegraphWorld/status/1609181946328023040",
+                    "https://twitter.com/nexta_tv/status/1610498399345721345"
+                ],
+                "id": "CIV1741",
+                "description": "Strike on what appears to be a hotel as a result of missile barrage.",
+                "date": "2022-12-31",
+                "location": "Kyiv",
+                "latitude": 50.421683,
+                "longitude": 30.523163,
+                "graphic": false
+            }
+        ]
+    },
+    {
+        "title": "Поточний ремонт приміщень та вікон (наслідки ракетних ударів)",
+        "tender_id": "UA-2022-11-22-005706-a",
+        "tender_hash": "b83757f243924646b0953af847716f96",
+        "status": "Торги відмінено",
+        "expected_cost": {
+            "amount": 416662.96,
+            "currency": "UAH"
+        },
+        "customer": {},
+        "subject": {
+            "delivery_place": "01032, Україна, Київська область, Київ, вулиця Жилянська, будинок 88",
+            "description": "Поточний ремонт приміщень та вікон (наслідки ракетних обстрілів)",
+            "quantity": "1 послуга"
+        },
+        "awards": [
+            {
+                "participant_name": "ТОВ \"Будівельно-виробнича фірма \"АІС Медесан\"",
+                "participant_edrpou": "19015346",
+                "decision": "Переможець",
+                "bid_amount": 416662.96,
+                "bid_currency": "UAH",
+                "publication_date": "22 листопада  2022 11:59"
+            }
+        ],
+        "dates": {},
+        "documents": [],
+        "location": {
+            "postal_code": "01032",
+            "region": "Київ"
+        },
+        "longitude": "50.4501",
+        "latitude": "30.5234",
+        "bellingcat_items": [
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [],
+                "sources": [
+                    "https://t.me/truexanewsua/110750",
+                    "https://t.me/suspilnednipro/44434",
+                    "https://t.me/suspilnednipro/44435",
+                    "https://t.me/suspilnednipro/44436",
+                    "https://t.me/huyovy_kharkiv/175688",
+                    "https://t.me/truexanewsua/110750",
+                    "https://t.me/suspilnednipro/44434",
+                    "https://t.me/suspilnednipro/44435",
+                    "https://t.me/suspilnednipro/44436",
+                    "https://t.me/svoiKR/39970",
+                    "https://t.me/info_zp/100177",
+                    "https://t.me/info_zp/100178",
+                    "https://t.me/info_zp/100176",
+                    "https://t.me/truexakyiv/47232",
+                    "https://t.me/info_zp/100179",
+                    "https://t.me/info_zp/100177",
+                    "https://t.me/info_zp/100178",
+                    "https://t.me/info_zp/100176",
+                    "https://t.me/info_zp/100179",
+                    "https://t.me/truexanewsua/110735",
+                    "https://t.me/truexanewsua/110734",
+                    "https://t.me/truexanewsua/110733"
+                ],
+                "id": "ZF8FJY",
+                "description": "[VERY GRAPHIC CONTENT!] At least 18 people killed including 9 children as a result of reported ballistic missile strike on the residential area near the playground.",
+                "date": "2025-04-04",
+                "location": "Kryvyi Rih",
+                "latitude": 47.964942,
+                "longitude": 33.441603,
+                "graphic": true
+            },
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [],
+                "sources": [
+                    "https://t.me/pgo_gov_ua/14050",
+                    "https://www.reuters.com/world/europe/one-killed-russian-drone-strike-northern-ukrainian-city-kyiv-says-2023-07-03/",
+                    "https://www.ukrinform.net/rubric-ato/3731128-death-toll-from-russian-drone-attack-on-sumy-rises-to-three.html",
+                    "https://kyivindependent.com/ukraine-war-latest-july-3/",
+                    "https://t.me/hyevuy_dnepr/55681",
+                    "https://twitter.com/Nikka_Ye/status/1675974280327184388"
+                ],
+                "id": "CIV2270",
+                "description": "Multiple reported killed, injured in drone attack on residential area.",
+                "date": "2023-07-03",
+                "location": "Sumy, Sumy Oblast",
+                "latitude": 50.901762,
+                "longitude": 34.790854,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Cruise missile"
+                ],
+                "sources": [
+                    "https://twitter.com/Flash_news_ua/status/1672462562317811715",
+                    "https://twitter.com/IuliiaMendel/status/1673290078360158208",
+                    "https://twitter.com/avalaina/status/1672482918327808000"
+                ],
+                "id": "CIV2263",
+                "description": "Massive damage to a high rise apartment building as a result of cruise missile debris falling down. At least 5 people reported dead.",
+                "date": "2023-06-24",
+                "location": "Kyiv",
+                "latitude": 50.430345,
+                "longitude": 30.478436,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Unknown"
+                ],
+                "sources": [
+                    "https://twitter.com/KyivIndependent/status/1617540836132098053",
+                    "https://tsn.ua/video/video-novini/mabut-schos-pidvozyat-meshkanci-hersonschini-boyatsya-tishi-bilshe-za-obstrili.html"
+                ],
+                "id": "CIV1815",
+                "description": "[Graphic: body covered by cloth] Damage visible across Kherson following strikes, one person reported to be killed. ",
+                "date": "2023-01-23",
+                "location": "Antonivka (Khersons'ka oblast)",
+                "latitude": 46.675741,
+                "longitude": 32.713715,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Small arms"
+                ],
+                "sources": [
+                    "https://apnews.com/article/russia-ukraine-business-middle-east-black-sea-religion-a97f60a50df0d8dc1e0f126a33144560/gallery/e79914a0b5064de8b4a9ddc9420af754",
+                    "https://twitter.com/J_B_E__Zorg/status/1510005388950876168",
+                    "https://twitter.com/tomvandeweghe/status/1510681346691239943",
+                    "https://www.nytimes.com/2022/05/19/world/europe/russia-bucha-ukraine-executions.html",
+                    "https://vot-tak.tv/novosti/03-04-2022-rasstrely-zhitelej-buchi/",
+                    "https://www.amnesty.org/en/latest/news/2022/05/ukraine-russian-forces-must-face-justice-for-war-crimes-in-kyiv-oblast-new-investigation/"
+                ],
+                "id": "CIV0628",
+                "description": "[graphic: bodies] seven bodies in civilian clothes killed, at least two with hands tied behind their backs. Russian army ration packs & ammunitions container present at the site.",
+                "date": "2022-04-02",
+                "location": null,
+                "latitude": 50.533674,
+                "longitude": 30.210082,
+                "graphic": true
+            }
+        ]
+    },
+    {
+        "title": "Часткове відновлення елементів вікон, які пошкоджені внаслідок ракетних обстрілів від 10.10.2022 року зі збереженням автентичної форми віконних прорізів в Національному науково-природничому музеї НАН України за адресою: вул.Б.Хмельницького,15 в Шевченківському районі м.Києва",
+        "tender_id": "UA-2022-12-22-021743-a",
+        "tender_hash": "1dcd962c80c34fa1b4e75373a4358110",
+        "status": "Завершена",
+        "expected_cost": {
+            "amount": 999287.56,
+            "currency": "UAH"
+        },
+        "customer": {},
+        "subject": {
+            "delivery_place": "01601, Україна, м. Київ, м. Київ, вул. Б.Хмельницького,15",
+            "description": "Часткове відновлення елементів вікон, які пошкоджені внаслідок ракетних обстрілів від 10.10.2022 року зі збереженням автентичної форми віконних прорізів в Національному науково-природничому музеї НАН України за адресою: вул.Б.Хмельницького,15 в Шевченківському районі м.Києва",
+            "quantity": "1 роботи"
+        },
+        "awards": [
+            {
+                "participant_name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ГУД ВІН ХХІ\"",
+                "participant_edrpou": "34016825",
+                "decision": "Переможець",
+                "bid_amount": 999287.56,
+                "bid_currency": "UAH",
+                "publication_date": "22 грудня  2022 17:30"
+            }
+        ],
+        "dates": {},
+        "documents": [
+            {
+                "date": "22 грудня 202217:32",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/21019b7f18894cd0bbe50df8984bde4a?Signature=EigSFSXDtnJ59Bj6iXRU2L92XuGSOz4%2FrrNTcvIqXvjkQH4484UdLUO5SCfGcDvP%2B1Zaw3XJhx9yOXokmxwfAw%3D%3D&KeyID=52462340"
+            }
+        ],
+        "location": {
+            "postal_code": "01601",
+            "region": "м. Київ"
+        },
+        "longitude": "50.448500",
+        "latitude": "30.498028",
+        "bellingcat_items": [
+            {
+                "impact": [
+                    "Residential",
+                    "Industrial",
+                    "Commercial",
+                    "Roads/Highways/Transport"
+                ],
+                "weapon_system": [
+                    "Ballistic missile",
+                    "Cruise missile"
+                ],
+                "sources": [
+                    "https://x.com/twittterrhandle/status/1810242317434913247",
+                    "https://x.com/JayinKyiv/status/1810268029109874977",
+                    "https://x.com/Euan_MacDonald/status/1810230978700283936"
+                ],
+                "id": "A9LQZH",
+                "description": "Aftermath of the multiple missile attack in the area of Lukianivska metro station. Several buildings damaged.",
+                "date": "2024-07-08",
+                "location": "Kyiv",
+                "latitude": 50.462663,
+                "longitude": 30.481949,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential",
+                    "School or childcare",
+                    "Roads/Highways/Transport",
+                    "Healthcare"
+                ],
+                "weapon_system": [],
+                "sources": [
+                    "https://t.me/mvs_ukraine/32583",
+                    "https://twitter.com/MVS_UA/status/1734868602795253762",
+                    "https://twitter.com/MVS_UA/status/1734955140451299600",
+                    "https://3m2.ua/news/naslidky-nichnoyi-ataky-na-kyyiv-foto/",
+                    "https://t.me/kievreal1/52591",
+                    "https://bigkyiv.com.ua/na-voskresenskomu-prospekti-usunuly-naslidky-raketnogo-obstrilu-ruh-vidnovleno/",
+                    "https://suspilne.media/640470-naslidki-ataki-rf-komunalniki-vidremontuvali-poskodzenij-vodogin-u-dniprovskomu-rajoni/"
+                ],
+                "id": "SZPSXJ",
+                "description": "Wide missile attack on Kyiv reported with debris affecting four districts. Location 1: a crater on the road, damaged water pipe",
+                "date": "2023-12-13",
+                "location": "Dniprovskyi district, Kyiv",
+                "latitude": 50.476217,
+                "longitude": 30.596069,
+                "graphic": false
+            }
+        ]
+    },
+    {
+        "title": "Експертиза кошторисної документації проєкту будівництва «Капітальний ремонт із заміни та аварійного ремонту віконних блоків, пошкоджених внаслідок ракетного обстрілу під час воєнної агресії рф в учбовому корпусі фізичного виховання НУХТ за адресою: пр-т Науки, 29-А, м. Київ»",
+        "tender_id": "UA-2023-08-10-009583-a",
+        "tender_hash": "b8ff7030e2ce4284b7b053d3da88bdd8",
+        "status": "Завершена",
+        "expected_cost": {
+            "amount": 4272.0,
+            "currency": "UAH"
+        },
+        "customer": {},
+        "subject": {
+            "delivery_place": "01033, Україна, м. Київ, вул. Володимирська, 68",
+            "description": "Експертиза кошторисної документації проєкту будівництва «Капітальний ремонт із заміни та аварійного ремонту віконних блоків, пошкоджених внаслідок ракетного обстрілу під час воєнної агресії рф в учбовому корпусі фізичного виховання НУХТ за адресою: пр-т Науки, 29-А, м. Київ»",
+            "quantity": "1 роботи"
+        },
+        "awards": [
+            {
+                "participant_name": "Товариство з обмеженою відповідальністю «ЦЕНТР КОМПЛЕКСНИХ ЕКСПЕРТИЗ ПРОЕКТІВ»",
+                "participant_edrpou": "43598352",
+                "decision": "Переможець",
+                "bid_amount": 4272.0,
+                "bid_currency": "UAH",
+                "publication_date": "10 серпня  2023 15:38"
+            }
+        ],
+        "dates": {},
+        "documents": [
+            {
+                "date": "10 серпня 202315:40",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/d6e53c59eba84e3a832b8f72eed03491?Signature=JhbbZoYstrgdJxXjgDcuf11fShOztm5f6BP6z1A2iuMuclylHkMkeT9KcCzceQMFzV8rBDAy5du6HzuA4mwFBA%3D%3D&KeyID=52462340"
+            }
+        ],
+        "location": {
+            "postal_code": "01033",
+            "region": "м. Київ"
+        },
+        "longitude": "50.438515985368745",
+        "latitude": "30.510030865189904",
+        "bellingcat_items": [
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Unknown"
+                ],
+                "sources": [
+                    "https://t.me/kievreal1/78839",
+                    "https://t.me/kievreal1/78843",
+                    "https://x.com/TWMCLtd/status/1882706872979116344/photo/4"
+                ],
+                "id": "CY1WYP",
+                "description": "Couple reportedly killed after strike on residential area.",
+                "date": "2025-01-24",
+                "location": "Brovary (Kyiv oblast)",
+                "latitude": 50.499533,
+                "longitude": 30.751625,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [],
+                "sources": [
+                    "https://suspilne.media/638622-ulamki-raket-poskodili-nedobudovanij-zk-urban-park-u-kievi/",
+                    "https://news.obozrevatel.com/ukr/kiyany/v-kievi-ulamok-rosijskoi-raketi-poshkodiv-zhk-urban-park.htm",
+                    "https://t.me/kiev_infoo/1332",
+                    "https://www.facebook.com/permalink.php?story_fbid=pfbid02vytfmk1QJWGBQo79h2r7JBrMzEci6djbYu39P2oTYipJZPa76fEHVMhNBDsY2C7xl&id=100070457101438"
+                ],
+                "id": "4CJQLP",
+                "description": "Wide missile attack on Kyiv reported with debris affecting four districts. Location 2: what appears to be a construction of a residential high rise in Desnyanskyi district",
+                "date": "2023-12-13",
+                "location": "Desnyanskyi district",
+                "latitude": 50.463128,
+                "longitude": 30.648613,
+                "graphic": false
+            }
+        ]
+    },
+    {
+        "title": "Виконання будівельних робіт за об’єктом: «Капітальний ремонт будівлі КРУЕ***, пошкодженого внаслідок ракетного обстрілу ***, за адресою: м. Київ, ***»",
+        "tender_id": "UA-2025-04-11-010583-a",
+        "tender_hash": "a25ba072da99484dafcb1bcf75cdfffc",
+        "status": "Подання пропозицій",
+        "expected_cost": {
+            "amount": 9411563.39,
+            "currency": "UAH"
+        },
+        "customer": {},
+        "subject": {},
+        "awards": [
+            {
+                "participant_name": "Iнша подія",
+                "decision": "30% від загальної ціни Договору – попередня оплата (аванс) протягом 10 робочих днів від дати направлення Замовником Підряднику повідомлення про початок виконання робіт.",
+                "publication_date": "10"
+            },
+            {
+                "participant_name": "Виконання робіт",
+                "decision": "80 % від остаточної оплати за виконані роботи – протягом 40 (сорок) робочих днів з дати підписання уповноваженими представниками Сторін відповідних Актів приймання виконаних робіт за формою КБ-2в (далі – Акт форма КБ-2в) та Довідок про вартість виконаних робіт та витрати за формою КБ-3 (далі – Довідка форма КБ-3); залишок остаточної оплати за виконані роботи – протягом 40 (сорок) робочих днів з дати реєстрації в Єдиному реєстрі податкових накладних (ЄРПН) належним чином складених Підрядником податкових накладних (ПН)/розрахунків коригування до податкових накладних (РК) на суму Акта форма КБ-2в та Довідки форма КБ-3, а також направлення Підрядником таких зареєстрованих ПН/РК, оформлених належним чином в електронній формі з дотриманням вимог Законів України «Про електронні документи та електронний документообіг» і «Про електронну ідентифікацію та електронні довірчі послуги», на адресу електронної пошти відповідального представника Замовника за опрацювання отриманих ПН/РК (реєстрацію в ЄРПН отриманих РК на зменшення), вказану в Договорі.",
+                "publication_date": "40"
+            }
+        ],
+        "dates": {},
+        "documents": [
+            {
+                "date": "11 квітня 202515:31",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/5e61f91945b14cc0a791951808229dd1?Signature=0HPgT7aeKwBTnC%2F6b6Vp6WDxtaAJ4nWVavdPkoheOzrqkimtVYuLNZ6qPbHLnlD3qvUVcMDX5M%2Bd5s0LEs7RBg%3D%3D&KeyID=52462340"
+            },
+            {
+                "date": "11 квітня 202515:31",
+                "title": "Додаток 1 (вимоги до учасника).docx",
+                "url": "https://public-docs.prozorro.gov.ua/get/977dadc5f58d4b5f83eb7da2f3f27058?Signature=xmQio1Lw8jBxmi8LriS2H7dmHKJzOLLeGhExI48Ipk0RFj%2B5iTlF%2BWdwr%2Fh10iqE2VBGgISQFZgSsBmNbh5DAA%3D%3D&KeyID=52462340"
+            },
+            {
+                "date": "11 квітня 202515:31",
+                "title": "Додаток 3 до ТД (прих).docx",
+                "url": "https://public-docs.prozorro.gov.ua/get/ec3e39e9ce3f4ec6856f4e13d843f8a8?Signature=2Tnd8Eix0%2F968cZHCILnzShSuJDz%2B%2BkM4WZxMBwDa9Z5by32NHfe7IrlQsjFn%2B1pbyhj0Vfds223ubBxBzLeDQ%3D%3D&KeyID=52462340"
+            },
+            {
+                "date": "11 квітня 202515:31",
+                "title": "Додаток 2 (кваліф.критер).docx",
+                "url": "https://public-docs.prozorro.gov.ua/get/233e6c6f5be74182bf1855b1a0059bf3?Signature=unyq0q4k%2F1mfdr4a4%2F78buiuIH5p5%2FntlRv7ash7YeA4MoYIKhnWUinqWa2tf%2Fy%2F7ut%2BiiBdIkCFyVG6uRKSCw%3D%3D&KeyID=52462340"
+            },
+            {
+                "date": "11 квітня 202515:31",
+                "title": "Додаток 6 (вимоги до переможця).docx",
+                "url": "https://public-docs.prozorro.gov.ua/get/cbe22b6a5e754abfb4315be22ad97511?Signature=TcvR3mBqb0JrioMy%2BtmL5h1lFsY6S5UbiKuCohjsIE2EVBtNScuy8pgOO33IB29bgsv52Zf9js%2FAo9B5ZJf%2FBw%3D%3D&KeyID=52462340"
+            },
+            {
+                "date": "11 квітня 202515:31",
+                "title": "Додаток 4 (субпідряд).docx",
+                "url": "https://public-docs.prozorro.gov.ua/get/f59df1505704426a8496679561c85b8e?Signature=7O6xCWwtaNWSqKIrVFYUro1MFHw9e7RBSllq9VSTqLRQNfOg98yDzAbUvpbES2RmIGZOVB9u4XSrJMFxBOINAg%3D%3D&KeyID=52462340"
+            },
+            {
+                "date": "11 квітня 202515:31",
+                "title": "ТДО,4522.docx",
+                "url": "https://public-docs.prozorro.gov.ua/get/b340bc1ad3eb4063970a73a3aea6ad22?Signature=wcmVY%2Fv%2BYJWtozuHcwTK%2BKYw4iKg65O8rB46XHJYYX%2FkceF%2BljsBioR9Ss6NcD0yPrieHtgYKwi4W2IgV4lwBA%3D%3D&KeyID=52462340"
+            },
+            {
+                "date": "11 квітня 202515:31",
+                "title": "ПРОЄКТ договору (прих).docx",
+                "url": "https://public-docs.prozorro.gov.ua/get/a4de7a95049b46bcb3fe7dfe893e1d14?Signature=YPRg7sxjKmIc5OveXq%2BpMEKu6ac858hpdy4Y0s45zZsORJz1mFDy0q25Jqr0UIjagb%2F1P8sgm0XYtNp91FjhBQ%3D%3D&KeyID=52462340"
+            }
+        ],
+        "longitude": "50.4501",
+        "latitude": "30.5234",
+        "bellingcat_items": [
+            {
+                "impact": [
+                    "Residential",
+                    "Cultural",
+                    "Healthcare"
+                ],
+                "weapon_system": [
+                    "Ballistic missile"
+                ],
+                "sources": [
+                    "https://x.com/kztsky/status/1772200519865397579",
+                    "https://t.me/trkmart/27589",
+                    "https://x.com/igorsushko/status/1772200543840088540"
+                ],
+                "id": "FG5JLQ",
+                "description": "Building of the Kyiv State Institute of Decorative Art And Design is ruined as a result of the reported ballistic missiles attack.",
+                "date": "2024-03-25",
+                "location": "Kyiv",
+                "latitude": 50.409401,
+                "longitude": 30.550551,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "HE rocket artillery"
+                ],
+                "sources": [
+                    "https://t.me/kiev_infoo/1937",
+                    "https://t.me/kievreal1/53826",
+                    "https://t.me/kievreal1/53860"
+                ],
+                "id": "0P6VVR",
+                "description": "Crater of impact and damage to residential building after a reported missile attack on Vyshneve, Kyiv region",
+                "date": "2024-01-02",
+                "location": "Vyshneve, Kyiv region",
+                "latitude": 50.395276,
+                "longitude": 30.367857,
+                "graphic": false
+            }
+        ]
+    },
+    {
+        "title": "Капітальний ремонт із заміни та аварійного ремонту віконних блоків, пошкоджених внаслідок ракетного обстрілу під час воєнної   агресії рф в гуртожитку  №1 НУХТ за адресою: м.Київ, вул. Велика Китаївська, 92/98",
+        "tender_id": "UA-2023-08-23-002854-a",
+        "tender_hash": "29aea9ec8e9c45608f7124c909027ca8",
+        "status": "Завершена",
+        "expected_cost": {
+            "amount": 738786.91,
+            "currency": "UAH"
+        },
+        "customer": {},
+        "subject": {
+            "delivery_place": "03028, Україна, м. Київ, Велика Китаївська,92/98",
+            "description": "Капітальний ремонт із заміни та аварійного ремонту віконних блоків, пошкоджених внаслідок ракетного обстрілу під час воєнної   агресії рф в гуртожитку  №1 НУХТ за адресою: м.Київ, вул. Велика Китаївська, 92/98",
+            "quantity": "1 Роботи"
+        },
+        "awards": [
+            {
+                "participant_name": "Товариство з обмеженою відповідальністю «ІНВЕСТБУД-8»",
+                "participant_edrpou": "21561205",
+                "decision": "Переможець",
+                "bid_amount": 738786.91,
+                "bid_currency": "UAH",
+                "publication_date": "23 серпня  2023 11:06"
+            }
+        ],
+        "dates": {},
+        "documents": [
+            {
+                "date": "23 серпня 202311:12",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/87ba9446ba904ffdb450d13d50ce8cf2?Signature=864l82cQ5FEt5HMFCUpeyvVm3OwWIOK4%2B974cTLg0g%2F8ri653ewOtRCaBxnVpg6pYRCPsR4BzihnWLBGXOoCBQ%3D%3D&KeyID=52462340"
+            }
+        ],
+        "location": {
+            "postal_code": "03028",
+            "region": "м. Київ"
+        },
+        "longitude": "50.3991810",
+        "latitude": "30.5309940",
+        "bellingcat_items": [
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Unknown"
+                ],
+                "sources": [
+                    "https://t.me/c/1006836030/116373",
+                    "https://t.me/c/1006836030/116377",
+                    "https://t.me/huyovy_kharkiv/147339"
+                ],
+                "id": "3TQF7G",
+                "description": "Damaged residential buildings after the reported strike.",
+                "date": "2024-05-01",
+                "location": "Kyivskyi District, Kharkiv",
+                "latitude": 50.049665,
+                "longitude": 36.323662,
+                "graphic": true
+            },
+            {
+                "impact": [
+                    "Residential",
+                    "School or childcare",
+                    "Cultural"
+                ],
+                "weapon_system": [
+                    "Loitering munition"
+                ],
+                "sources": [
+                    "https://x.com/KyivPost/status/1720384025540399406",
+                    "https://x.com/IrynaVoichuk/status/1720344869602730466",
+                    "https://x.com/NewVoiceUkraine/status/1720509144564953368",
+                    "https://t.me/c/1347456995/87525",
+                    "https://t.me/c/1347456995/87530",
+                    "https://t.me/c/1347456995/87533"
+                ],
+                "id": "9AN8BU",
+                "description": "Building of the college is damaged as a result of strike.",
+                "date": "2023-11-03",
+                "location": "Kharkiv",
+                "latitude": 49.974815,
+                "longitude": 36.233929,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [],
+                "sources": [
+                    "https://t.me/huyovy_kharkiv/108653",
+                    "https://www.youtube.com/watch?v=92zM728wsCE&t=49s"
+                ],
+                "id": "CIV2034",
+                "description": "Residential building damaged with what appears to be a debris of a loitering munition. At least 2 people reported injured.",
+                "date": "2023-05-08",
+                "location": "Kyiv",
+                "latitude": 50.425276,
+                "longitude": 30.382765,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential",
+                    "Roads/Highways/Transport"
+                ],
+                "weapon_system": [
+                    "Unknown"
+                ],
+                "sources": [
+                    "https://www.pravda.com.ua/news/2023/03/9/7392624/",
+                    "https://t.me/c/1210003725/32318",
+                    "https://t.me/c/1210003725/32316",
+                    "https://t.me/c/1210003725/32312",
+                    "https://t.me/c/1210003725/32307",
+                    "https://t.me/c/1210003725/32339"
+                ],
+                "id": "CIV1910",
+                "description": "Damage to a residential area, at least 3 people reported to be wounded and several vehicles destroyed. ",
+                "date": "2023-03-09",
+                "location": "Kyiv",
+                "latitude": 50.456134,
+                "longitude": 30.385103,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Cruise missile"
+                ],
+                "sources": [
+                    "https://twitter.com/igornovikov/status/1609181624612294656",
+                    "https://twitter.com/nexta_tv/status/1609201912150114305"
+                ],
+                "id": "CIV1740",
+                "description": "[Graphic: Person lying on the ground, face covered in blood] Damage to what appears to be residential buildings as a result of missile barrage. At least one person reported dead, 20 reported injured.",
+                "date": "2022-12-31",
+                "location": "Kyiv",
+                "latitude": 50.427,
+                "longitude": 30.498132,
+                "graphic": true
+            }
+        ]
+    },
+    {
+        "title": "Відновлення елементів віконних відкосів, які пошкоджені внаслідок ракетних обстрілів від 10.10.2022 року та встановлення гратів в Національному науково-природничому музеї НАН України за адресою: вул.Б.Хмельницького,15 в Шевченківському районі м.Києва",
+        "tender_id": "UA-2022-12-22-021362-a",
+        "tender_hash": "2b6530e770f74920bc2d61a01d1ec15e",
+        "status": "Завершена",
+        "expected_cost": {
+            "amount": 489923.44,
+            "currency": "UAH"
+        },
+        "customer": {},
+        "subject": {
+            "delivery_place": "01601, Україна, м. Київ, м. Київ, вул. Б.Хмельницького,15",
+            "description": "Відновлення елементів віконних відкосів, які пошкоджені внаслідок ракетних обстрілів від 10.10.2022 року та встановлення гратів в Національному науково-природничому музеї НАН України за адресою: вул.Б.Хмельницького,15 в Шевченківському районі м.Києва",
+            "quantity": "1 роботи"
+        },
+        "awards": [
+            {
+                "participant_name": "Приватне підприємство \"МАВ-БУДПРОЕКТ\"",
+                "participant_edrpou": "33779405",
+                "decision": "Переможець",
+                "bid_amount": 489923.44,
+                "bid_currency": "UAH",
+                "publication_date": "22 грудня  2022 17:13"
+            }
+        ],
+        "dates": {},
+        "documents": [
+            {
+                "date": "22 грудня 202217:17",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/63034192174542379b230be795477d06?Signature=AsTguaEdQYF7DwtnHSvYGMuGJUxGyuVMLdaiOWVtzocEKkTbOjdTdSb2D3hNPscGSYT84KiJSGJF1MZxkZQ%2BAQ%3D%3D&KeyID=52462340"
+            }
+        ],
+        "location": {
+            "postal_code": "01601",
+            "region": "м. Київ"
+        },
+        "longitude": "50.446633",
+        "latitude": "30.509608",
+        "bellingcat_items": []
+    },
+    {
+        "title": "Капітальний ремонт із заміни та аварійного ремонту віконних блоків, пошкоджених внаслідок ракетного обстрілу під час воєнної   агресії рф в гуртожитку №8 НУХТ за адресою: м. Київ,  пр-т Науки, 28",
+        "tender_id": "UA-2023-08-23-004372-a",
+        "tender_hash": "ac6b57d3c3c04a7fa1337788906f7300",
+        "status": "Завершена",
+        "expected_cost": {
+            "amount": 231234.37,
+            "currency": "UAH"
+        },
+        "customer": {},
+        "subject": {
+            "delivery_place": "03028, Україна, м. Київ, пр-т Науки, 28",
+            "description": "Капітальний ремонт із заміни та аварійного ремонту віконних блоків, пошкоджених внаслідок ракетного обстрілу під час воєнної   агресії рф в гуртожитку №8 НУХТ за адресою: м. Київ,  пр-т Науки, 28",
+            "quantity": "1 роботи"
+        },
+        "awards": [
+            {
+                "participant_name": "Товариство з обмеженою відповідальністю «ІНВЕСТБУД-8»",
+                "participant_edrpou": "21561205",
+                "decision": "Переможець",
+                "bid_amount": 231234.37,
+                "bid_currency": "UAH",
+                "publication_date": "23 серпня  2023 11:51"
+            }
+        ],
+        "dates": {},
+        "documents": [
+            {
+                "date": "23 серпня 202311:53",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/09ec6206eed748e7b59e0864c9e47f2d?Signature=djWVU5OibfAa3ZpprFNtOyoHKfzVX0ayAMhDSfgEo1RnTIz3o3Oh7SkU%2F9gtAs2fqAuxZ2a14FXNyZmila4qDg%3D%3D&KeyID=52462340"
+            }
+        ],
+        "location": {
+            "postal_code": "03028",
+            "region": "м. Київ"
+        },
+        "longitude": "50.387663",
+        "latitude": "30.530098",
+        "bellingcat_items": [
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Unknown"
+                ],
+                "sources": [
+                    "https://t.me/Kievskiy_dvizh_novosti/4038",
+                    "https://t.me/Novoeizdanie/6895"
+                ],
+                "id": "CIV0256",
+                "description": "Residential building impacted by projectiles. ",
+                "date": "2022-03-05",
+                "location": null,
+                "latitude": 50.497374,
+                "longitude": 30.242286,
+                "graphic": false
+            }
+        ]
+    },
+    {
+        "title": "Здійснення технічного нагляду за виконанням робіт «Капітальний ремонт розподільчих пристроїв *** з приєднанням до споживачів обладнання та електродвигунів, зруйнованого внаслідок ракетного обстрілу рф 09.03.2023 р. за адресою: м. Київ, *** » Додаткові роботи",
+        "tender_id": "UA-2025-02-07-010654-a",
+        "tender_hash": "a2ab856630cf492fa0ebe0da4baec94e",
+        "status": "Українська Визвольна Війна",
+        "expected_cost": {
+            "amount": 44500.0,
+            "currency": "UAH"
+        },
+        "customer": {},
+        "subject": {
+            "delivery_place": "Україна, Відповідно до документації",
+            "description": "Здійснення технічного нагляду за виконанням робіт «Капітальний ремонт розподільчих пристроїв *** з приєднанням до споживачів обладнання та електродвигунів, зруйнованого внаслідок ракетного обстрілу рф 09.03.2023 р. за адресою: м. Київ, *** » Додаткові роботи",
+            "quantity": "1 робота"
+        },
+        "awards": [
+            {
+                "participant_name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ПРОЕКТСТУДІЯ\"",
+                "participant_edrpou": "41350692",
+                "decision": "Переможець",
+                "bid_amount": 44500.0,
+                "bid_currency": "UAH",
+                "publication_date": "07 лютого  2025 14:45"
+            }
+        ],
+        "dates": {},
+        "documents": [
+            {
+                "date": "07 лютого 202514:45",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/728e5a183ca441cf858fc2c3273fc027?Signature=KZ%2F9AM1Dq%2BokF6%2BSZ5LGrva0EXqxv4FGQw4YvYZoXi5B6qaD2D85aTkxFs3az0JJwkXmuI4%2B%2BeyBgdgfE9p5BQ%3D%3D&KeyID=52462340"
+            }
+        ],
+        "longitude": "50.4501",
+        "latitude": "30.5234",
+        "bellingcat_items": [
+            {
+                "impact": [
+                    "Residential",
+                    "Administrative"
+                ],
+                "weapon_system": [
+                    "Loitering munition"
+                ],
+                "sources": [
+                    "https://t.me/c/1913768634/15013",
+                    "https://t.me/kiev_infoo/7371",
+                    "https://t.me/mvs_ukraine/43469"
+                ],
+                "id": "MTMKV8",
+                "description": "Multi-story residential buildings damaged in a drone strike.",
+                "date": "2024-10-31",
+                "location": "Kyiv",
+                "latitude": 50.490884,
+                "longitude": 30.409715,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Unknown"
+                ],
+                "sources": [
+                    "https://t.me/c/1006836030/116373",
+                    "https://t.me/c/1006836030/116377",
+                    "https://t.me/huyovy_kharkiv/147339"
+                ],
+                "id": "3TQF7G",
+                "description": "Damaged residential buildings after the reported strike.",
+                "date": "2024-05-01",
+                "location": "Kyivskyi District, Kharkiv",
+                "latitude": 50.049665,
+                "longitude": 36.323662,
+                "graphic": true
+            },
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [],
+                "sources": [
+                    "https://t.me/kiev_infoo/2863",
+                    "https://t.me/kievreal1/55834",
+                    "https://t.me/kievreal1/55835",
+                    "https://t.me/huyovy_kharkiv/140344",
+                    "https://t.me/Bratchuk_Sergey/75418"
+                ],
+                "id": "90CO2H",
+                "description": "A large crater and damaged residential buildings visible after a reported missile attack.",
+                "date": "2024-02-15",
+                "location": "Bucha district, Kyiv region",
+                "latitude": 50.615312,
+                "longitude": 30.072005,
+                "graphic": false
+            }
+        ]
+    },
+    {
+        "title": "Здійснення авторського нагляду за виконанням робіт: «Капітальний ремонт пошкоджених ділянок будівлі головного корпусу в рядах А1-Б в осях 13-16 та фасаду по осі 20 в рядах А1-Б ТЕЦ-5 внаслідок ракетного обстрілу рф 09.03.2023 р. за адресою: м. Київ,############",
+        "tender_id": "UA-2024-03-15-009525-a",
+        "tender_hash": "e89db104f97a4046a0e8a089d1d94a56",
+        "status": "Українська Визвольна Війна",
+        "expected_cost": {
+            "amount": 95541.6,
+            "currency": "UAH"
+        },
+        "customer": {},
+        "subject": {
+            "delivery_place": "Україна, Відповідно до документації",
+            "description": "Здійснення авторського нагляду за виконанням робіт: «Капітальний ремонт пошкоджених ділянок будівлі головного корпусу в рядах А1-Б в осях 13-16 та фасаду по осі 20 в рядах А1-Б ТЕЦ-5 внаслідок ракетного обстрілу рф 09.03.2023 р. за адресою: м. Київ,############",
+            "quantity": "1 робота"
+        },
+        "awards": [
+            {
+                "participant_name": "Товариство з обмеженою відповідальністю «АІМ Консалтинг»",
+                "participant_edrpou": "42136785",
+                "decision": "Переможець",
+                "bid_amount": 95541.6,
+                "bid_currency": "UAH",
+                "publication_date": "15 березня  2024 15:15"
+            }
+        ],
+        "dates": {},
+        "documents": [
+            {
+                "date": "15 березня 202415:16",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/ab13fa645c4945d080abafae100d951c?Signature=brbv86v4XmI263r1dKDQoh8jYLHlyhiQcmxbvuuhnlyjPPXbVHcE7jDN%2Brfh4Vd8ZpvW8E%2FpyHkfznB%2BPI5dDQ%3D%3D&KeyID=52462340"
+            }
+        ],
+        "longitude": "50.4501",
+        "latitude": "30.5234",
+        "bellingcat_items": [
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Cruise missile",
+                    "Ballistic missile"
+                ],
+                "sources": [
+                    "https://x.com/VerstyukIvan/status/1749758211354227038",
+                    "https://t.me/KyivPolitics/32008",
+                    "https://t.me/uniannet/123655",
+                    "https://t.me/KyivPolitics/32025"
+                ],
+                "id": "GFS8J7",
+                "description": "Damage to high rise residential building as a result of missile attack. ",
+                "date": "2024-01-23",
+                "location": "Kyiv (Sofiivska Borschahivka)",
+                "latitude": 50.395232,
+                "longitude": 30.323025,
+                "graphic": false
+            }
+        ]
+    },
+    {
+        "title": "Поточний ремонт по консервації будівель, пошкоджених внаслідок ракетних обстрілів, які сталися 10 жовтня 2022року в Національному науково-природничому музеї НАН України за адресою: вул.Б.Хмельницького,15 в Шевченківському районі м.Києва",
+        "tender_id": "UA-2022-12-22-009067-a",
+        "tender_hash": "7f5335e7ee0b467980e25c14bee27e91",
+        "status": "Завершена",
+        "expected_cost": {
+            "amount": 264000.0,
+            "currency": "UAH"
+        },
+        "customer": {},
+        "subject": {
+            "delivery_place": "01601, Україна, м. Київ, м. Київ, вул. Б.Хмельницького,15",
+            "description": "Поточний ремонт по консервації будівель, пошкоджених внаслідок ракетних обстрілів, які сталися 10 жовтня 2022року в Національному науково-природничому музеї НАН України за адресою: вул.Б.Хмельницького,15 в Шевченківському районі м.Києва",
+            "quantity": "1 послуга"
+        },
+        "awards": [
+            {
+                "participant_name": "ПП \"МАВ-БУДПРОЕКТ\"",
+                "participant_edrpou": "33779405",
+                "decision": "Переможець",
+                "bid_amount": 264000.0,
+                "bid_currency": "UAH",
+                "publication_date": "22 грудня  2022 12:10"
+            }
+        ],
+        "dates": {},
+        "documents": [
+            {
+                "date": "22 грудня 202212:17",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/3064cedef138474cbd503ec578e5c73b?Signature=5bEy8APjd69oE5y9ZjXJhzALQ3uYrpOezVqtf4S0SrI1dlpzpT7uQliudI4nAgFSyRIu89Hf2VaIbT1RMfioDA%3D%3D&KeyID=52462340"
+            }
+        ],
+        "location": {
+            "postal_code": "01601",
+            "region": "м. Київ"
+        },
+        "longitude": "50.462995",
+        "latitude": "30.38273",
+        "bellingcat_items": [
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [],
+                "sources": [
+                    "https://t.me/KlymenkoTime/117237",
+                    "https://t.me/KlymenkoTime/117256",
+                    "https://t.me/donetsk_dn/30215",
+                    "https://t.me/donetsk_dn/30213"
+                ],
+                "id": "4BELB7",
+                "description": "A fire reported after shelling of what appears to be a residential area in Kyivskyi district, Donetsk",
+                "date": "2023-12-19",
+                "location": "Kyivskyi district, Donetsk",
+                "latitude": 48.036504,
+                "longitude": 37.781403,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Cruise missile"
+                ],
+                "sources": [
+                    "https://twitter.com/yurasov_vitaliy/status/1609189750514274308",
+                    "https://twitter.com/TelegraphWorld/status/1609181946328023040",
+                    "https://twitter.com/nexta_tv/status/1610498399345721345"
+                ],
+                "id": "CIV1741",
+                "description": "Strike on what appears to be a hotel as a result of missile barrage.",
+                "date": "2022-12-31",
+                "location": "Kyiv",
+                "latitude": 50.421683,
+                "longitude": 30.523163,
+                "graphic": false
+            }
+        ]
+    },
+    {
+        "title": "Послуги з налаштування системи контролю доступу  в адмінбудівлі  за адресою: бульвар Тараса Шевченка, 16, м. Київ (відновлення після ракетних обстрілів м. Києва, які сталися 10 жовтня 2022 року)",
+        "tender_id": "UA-2023-03-28-009307-a",
+        "tender_hash": "28ed4b8b9c894b28aa2819e27fc6ebd9",
+        "status": "Завершена",
+        "expected_cost": {
+            "amount": 39000.0,
+            "currency": "UAH"
+        },
+        "customer": {},
+        "subject": {
+            "delivery_place": "01135, Україна, Київська область, Київ, бульвар Тараса Шевченка, 16",
+            "description": "Послуга з налаштування системи контролю доступу  в адмінбудівлі  за адресою: бульвар Тараса Шевченка, 16, м. Київ (відновлення після ракетних обстрілів м. Києва, які сталися 10 жовтня 2022 року)",
+            "quantity": "1 послуга"
+        },
+        "awards": [
+            {
+                "participant_name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"БІТРЕЙТ\"",
+                "participant_edrpou": "41026575",
+                "decision": "Переможець",
+                "bid_amount": 39000.0,
+                "bid_currency": "UAH",
+                "publication_date": "28 березня  2023 15:54"
+            }
+        ],
+        "dates": {},
+        "documents": [
+            {
+                "date": "28 березня 202315:55",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/2f4083618b3c4cc884481f39e72bdaae?Signature=e9Aaup0VUcWThnXer6a1CFIPC0roPxH9DUb5zbLr7f9n5hhIHXlZsBSmfkRqmytr%2BdJfTfK%2Fls1OETtGvVZhAQ%3D%3D&KeyID=52462340"
+            }
+        ],
+        "location": {
+            "postal_code": "01135",
+            "region": "Київ"
+        },
+        "longitude": "50.444017",
+        "latitude": "30.511943",
+        "bellingcat_items": [
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Loitering munition"
+                ],
+                "sources": [
+                    "https://t.me/news_sumy24/62331",
+                    "https://t.me/kievreal1/77514",
+                    "https://t.me/kievreal1/77568",
+                    "https://t.me/kievreal1/77569",
+                    "https://t.me/kievreal1/77573",
+                    "https://t.me/kievreal1/77589"
+                ],
+                "id": "A4MRYG",
+                "description": "Report of a loitering munition impacting a residential block.",
+                "date": "2025-01-10",
+                "location": "Solomyanskyi District, Kyiv",
+                "latitude": 50.425625,
+                "longitude": 30.443642,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential",
+                    "Commercial",
+                    "Religious"
+                ],
+                "weapon_system": [],
+                "sources": [
+                    "https://t.me/huyovy_kharkiv/143512",
+                    "https://t.me/huyovy_kharkiv/143521",
+                    "https://t.me/kievreal1/57158",
+                    "https://t.me/kievreal1/57168",
+                    "https://t.me/kievreal1/57177",
+                    "https://t.me/Bratchuk_Sergey/79903",
+                    "https://t.me/Bratchuk_Sergey/79912",
+                    "https://twitter.com/adrozd83/status/1771184082354888714",
+                    "https://t.me/kiev_infoo/3529"
+                ],
+                "id": "T444KZ",
+                "description": "A building and a church damaged in a reported missile attack.",
+                "date": "2024-03-21",
+                "location": "Kyiv",
+                "latitude": 50.474868,
+                "longitude": 30.47846,
+                "graphic": false
+            }
+        ]
+    },
+    {
+        "title": "Капітальний ремонт із заміни та аварійного ремонту віконних блоків, пошкоджених внаслідок ракетного обстрілу під час воєнної   агресії рф в учбовому корпусі фізичного виховання НУХТ за адресою пр-т  Науки, 29-А у м. Києві",
+        "tender_id": "UA-2023-08-23-004639-a",
+        "tender_hash": "d5840295e6254cbe9298355fa13db64b",
+        "status": "Завершена",
+        "expected_cost": {
+            "amount": 91490.15,
+            "currency": "UAH"
+        },
+        "customer": {},
+        "subject": {
+            "delivery_place": "03028, Україна, м. Київ, пр-т  Науки, 29-А",
+            "description": "Капітальний ремонт із заміни та аварійного ремонту віконних блоків, пошкоджених внаслідок ракетного обстрілу під час воєнної   агресії рф в учбовому корпусі фізичного виховання НУХТ за адресою пр-т  Науки, 29-А у м. Києві",
+            "quantity": "1 роботи"
+        },
+        "awards": [
+            {
+                "participant_name": "Товариство з обмеженою відповідальністю «ІНВЕСТБУД-8»",
+                "participant_edrpou": "21561205",
+                "decision": "Переможець",
+                "bid_amount": 91490.15,
+                "bid_currency": "UAH",
+                "publication_date": "23 серпня  2023 12:02"
+            }
+        ],
+        "dates": {},
+        "documents": [
+            {
+                "date": "23 серпня 202312:03",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/e332ae28bd9847e8b360824268cba440?Signature=SjeL9diZi8wqB%2BSpurvv0wTshlcCGllEQRhXoqUBgi%2BzhHWOKR8gkfLFSFReRsJKIAEBVr6HcYjriepWCFHQAg%3D%3D&KeyID=52462340"
+            }
+        ],
+        "location": {
+            "postal_code": "03028",
+            "region": "м. Київ"
+        },
+        "longitude": "50.395514",
+        "latitude": "30.533970",
+        "bellingcat_items": []
+    },
+    {
+        "title": "Експертиза кошторисної документації проєкту будівництва «Капітальний ремонт із заміни та аварійного ремонту віконних блоків, пошкоджених внаслідок ракетного обстрілу під час воєнної агресії рф в гуртожитку №2 НУХТ за адресою: пр-т Науки, 21, м. Київ»",
+        "tender_id": "UA-2023-08-10-008174-a",
+        "tender_hash": "d1afdf85ac524666b3dc3cf1bad2cd79",
+        "status": "Завершена",
+        "expected_cost": {
+            "amount": 4272.0,
+            "currency": "UAH"
+        },
+        "customer": {},
+        "subject": {
+            "delivery_place": "01033, Україна, м. Київ, вул. Володимирська, 68",
+            "description": "Експертиза кошторисної документації проєкту будівництва «Капітальний ремонт із заміни та аварійного ремонту віконних блоків, пошкоджених внаслідок ракетного обстрілу під час воєнної агресії рф в гуртожитку №2 НУХТ за адресою: пр-т Науки, 21, м. Київ»",
+            "quantity": "1 роботи"
+        },
+        "awards": [
+            {
+                "participant_name": "Товариство з обмеженою відповідальністю «ЦЕНТР КОМПЛЕКСНИХ ЕКСПЕРТИЗ ПРОЕКТІВ»",
+                "participant_edrpou": "43598352",
+                "decision": "Переможець",
+                "bid_amount": 4272.0,
+                "bid_currency": "UAH",
+                "publication_date": "10 серпня  2023 14:49"
+            }
+        ],
+        "dates": {},
+        "documents": [
+            {
+                "date": "10 серпня 202314:55",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/b68cc6672184460dafbe821136b873f3?Signature=4XMedlCapNnDtgkDoAm8TgBT7yva8FqUSQ9H8OnmNlKrIw8aJs%2B%2Bt1oINjRh%2FeaOxkOHclZc1gG9j2BlAHd5BQ%3D%3D&KeyID=52462340"
+            }
+        ],
+        "location": {
+            "postal_code": "01033",
+            "region": "м. Київ"
+        },
+        "longitude": "50.438515985368745",
+        "latitude": "30.510030865189904",
+        "bellingcat_items": [
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [],
+                "sources": [
+                    "https://twitter.com/michaeldweiss/status/1498669909261398020"
+                ],
+                "id": "CIV0132",
+                "description": "Widespread and significant damage to residential area.",
+                "date": "2022-03-01",
+                "location": "Kyiv, Borodyanka",
+                "latitude": 50.639824,
+                "longitude": 29.919957,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Unknown"
+                ],
+                "sources": [
+                    "https://twitter.com/Osinttechnical/status/1511365066666487815"
+                ],
+                "id": "CIV0695",
+                "description": "Buildings destroyed in Kyiv",
+                "date": "2022-04-05",
+                "location": null,
+                "latitude": 50.643781,
+                "longitude": 29.931894,
+                "graphic": false
+            }
+        ]
+    },
+    {
+        "title": "Капітальний ремонт із заміни та аварійного ремонту віконних блоків, пошкоджених внаслідок ракетного обстрілу під час воєнної агресії рф в гуртожитку № 5 НУХТ за адресою: м. Київ, пр-т Науки, 26",
+        "tender_id": "UA-2023-08-31-009891-a",
+        "tender_hash": "3d987eb997fe4710824fc9344c91d4ad",
+        "status": "Завершена",
+        "expected_cost": {
+            "amount": 1494439.4,
+            "currency": "UAH"
+        },
+        "customer": {},
+        "subject": {
+            "delivery_place": "03028, Україна, м. Київ, пр-т Науки,26",
+            "description": "Капітальний ремонт із заміни та аварійного ремонту віконних блоків, пошкоджених внаслідок ракетного обстрілу під час воєнної агресії рф в гуртожитку № 5 НУХТ за адресою: м. Київ, пр-т Науки, 26",
+            "quantity": "1 Роботи"
+        },
+        "awards": [
+            {
+                "participant_name": "Товариство з обмеженою відповідальністю «ІНВЕСТБУД-8»",
+                "participant_edrpou": "21561205",
+                "decision": "Переможець",
+                "bid_amount": 1494439.4,
+                "bid_currency": "UAH",
+                "publication_date": "31 серпня  2023 17:52"
+            }
+        ],
+        "dates": {},
+        "documents": [
+            {
+                "date": "31 серпня 202317:56",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/87620596bc0749fd8cce79594ee2a58e?Signature=trAaEATc%2BrgNVpLSqYQUFZFfVLWCkivP4WkDu8y4kQWPsJPk8LTmrfceYw2W%2FeqUrBcUM1O9bulbyepi0C%2F6Cw%3D%3D&KeyID=52462340"
+            }
+        ],
+        "location": {
+            "postal_code": "03028",
+            "region": "м. Київ"
+        },
+        "longitude": "50.39793875",
+        "latitude": "30.530100719266194",
+        "bellingcat_items": [
+            {
+                "impact": [
+                    "Residential",
+                    "Industrial",
+                    "Commercial",
+                    "Roads/Highways/Transport"
+                ],
+                "weapon_system": [
+                    "Ballistic missile",
+                    "Cruise missile"
+                ],
+                "sources": [
+                    "https://x.com/twittterrhandle/status/1810242317434913247",
+                    "https://x.com/JayinKyiv/status/1810268029109874977",
+                    "https://x.com/Euan_MacDonald/status/1810230978700283936"
+                ],
+                "id": "A9LQZH",
+                "description": "Aftermath of the multiple missile attack in the area of Lukianivska metro station. Several buildings damaged.",
+                "date": "2024-07-08",
+                "location": "Kyiv",
+                "latitude": 50.462663,
+                "longitude": 30.481949,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential",
+                    "Cultural",
+                    "Healthcare"
+                ],
+                "weapon_system": [
+                    "Ballistic missile"
+                ],
+                "sources": [
+                    "https://x.com/kztsky/status/1772200519865397579",
+                    "https://t.me/trkmart/27589",
+                    "https://x.com/igorsushko/status/1772200543840088540"
+                ],
+                "id": "FG5JLQ",
+                "description": "Building of the Kyiv State Institute of Decorative Art And Design is ruined as a result of the reported ballistic missiles attack.",
+                "date": "2024-03-25",
+                "location": "Kyiv",
+                "latitude": 50.409401,
+                "longitude": 30.550551,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential",
+                    "Roads/Highways/Transport"
+                ],
+                "weapon_system": [
+                    "Unknown"
+                ],
+                "sources": [
+                    "https://www.pravda.com.ua/news/2023/03/9/7392624/",
+                    "https://t.me/c/1210003725/32318",
+                    "https://t.me/c/1210003725/32316",
+                    "https://t.me/c/1210003725/32312",
+                    "https://t.me/c/1210003725/32307",
+                    "https://t.me/c/1210003725/32339"
+                ],
+                "id": "CIV1910",
+                "description": "Damage to a residential area, at least 3 people reported to be wounded and several vehicles destroyed. ",
+                "date": "2023-03-09",
+                "location": "Kyiv",
+                "latitude": 50.456134,
+                "longitude": 30.385103,
+                "graphic": false
+            }
+        ]
+    },
+    {
+        "title": "Капітальний ремонт із заміни та аварійного ремонту віконних блоків, пошкоджених внаслідок ракетного обстрілу під час воєнної   агресії рф в гуртожитку  №8 НУХТ за адресою: м. Київ,  пр-т Науки, 28",
+        "tender_id": "UA-2023-12-21-007508-a",
+        "tender_hash": "6ab4e0dc1277438c9859ba8537505027",
+        "status": "Завершена",
+        "expected_cost": {
+            "amount": 10500.55,
+            "currency": "UAH"
+        },
+        "customer": {},
+        "subject": {
+            "delivery_place": "03028, Україна, м. Київ, проспект Науки, 28",
+            "description": "Капітальний ремонт із заміни та аварійного ремонту віконних блоків, пошкоджених внаслідок ракетного обстрілу під час воєнної агресії рф в гуртожитку №8 НУХТ за адресою: м. Київ, пр-т Науки, 28",
+            "quantity": "1 роботи"
+        },
+        "awards": [
+            {
+                "participant_name": "Товариство з обмеженою відповідальністю «ІНВЕСТБУД-8»",
+                "participant_edrpou": "21561205",
+                "decision": "Переможець",
+                "bid_amount": 10500.55,
+                "bid_currency": "UAH",
+                "publication_date": "21 грудня  2023 11:47"
+            }
+        ],
+        "dates": {},
+        "documents": [
+            {
+                "date": "21 грудня 202311:49",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/e4d9ccc93844474bbee262d7114f4c8f?Signature=fUwPlpP4lLW9%2BuwsepHzw5VugQOUtsA7LzYmJGRfBizxP4AfFSILdEC00xT7iWuS5%2B5waIiKikBp%2Ff%2BKgJBfBw%3D%3D&KeyID=52462340"
+            }
+        ],
+        "location": {
+            "postal_code": "03028",
+            "region": "м. Київ"
+        },
+        "longitude": "50.404092",
+        "latitude": "30.523586",
+        "bellingcat_items": [
+            {
+                "impact": [
+                    "Residential",
+                    "Commercial"
+                ],
+                "weapon_system": [
+                    "HE rocket artillery"
+                ],
+                "sources": [
+                    "https://t.me/kiev_infoo/1968"
+                ],
+                "id": "MSDGDR",
+                "description": "A residential and commercial building affected by a missile impact reported in Babyn Yar memorial, Kyiv",
+                "date": "2024-01-02",
+                "location": "Babyn Yar, Kyiv",
+                "latitude": 50.480787,
+                "longitude": 30.454443,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Unknown"
+                ],
+                "sources": [
+                    "srcHidden"
+                ],
+                "id": "CIV1829",
+                "description": "Damage to residential buildings as a result of a night drone attack.",
+                "date": "2023-01-26",
+                "location": "Hlevakha, Kyiv Oblast",
+                "latitude": 50.279288,
+                "longitude": 30.336218,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Cruise missile"
+                ],
+                "sources": [
+                    "https://twitter.com/yurasov_vitaliy/status/1609189750514274308",
+                    "https://twitter.com/TelegraphWorld/status/1609181946328023040",
+                    "https://twitter.com/nexta_tv/status/1610498399345721345"
+                ],
+                "id": "CIV1741",
+                "description": "Strike on what appears to be a hotel as a result of missile barrage.",
+                "date": "2022-12-31",
+                "location": "Kyiv",
+                "latitude": 50.421683,
+                "longitude": 30.523163,
+                "graphic": false
+            }
+        ]
+    },
+    {
+        "title": "Поточний ремонт приміщень та вікон (наслідки ракетних обстрілів)",
+        "tender_id": "UA-2022-11-22-007030-a",
+        "tender_hash": "c4302aec1d46423e9c5c72057d176cbc",
+        "status": "Завершена",
+        "expected_cost": {
+            "amount": 499995.55,
+            "currency": "UAH"
+        },
+        "customer": {},
+        "subject": {
+            "delivery_place": "01032, Україна, Київська область, Київ, вулиця Жилянська, будинок 88",
+            "description": "Поточний ремонт приміщень та вікон (наслідки ракетних обстрілів)",
+            "quantity": "1 послуга"
+        },
+        "awards": [
+            {
+                "participant_name": "ТОВ \"Будівельно-виробнича фірма \"АІС Медесан\"",
+                "participant_edrpou": "19015346",
+                "decision": "Переможець",
+                "bid_amount": 499995.55,
+                "bid_currency": "UAH",
+                "publication_date": "22 листопада  2022 12:39"
+            }
+        ],
+        "dates": {},
+        "documents": [
+            {
+                "date": "22 листопада 202212:44",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/98bfed95d82545de9c8e1a20e363ecb2?Signature=VFhxfs254%2B6pwYeGR2aEdm5d%2BW%2F%2FyivYmZMDVGFj3h%2BmC0kw5YJ2r5r%2BLKb2RJ8hUvrQDl1IolVh7W7HHOk1DQ%3D%3D&KeyID=52462340"
+            }
+        ],
+        "location": {
+            "postal_code": "01032",
+            "region": "Київ"
+        },
+        "longitude": "50.439175056",
+        "latitude": "30.499927342",
+        "bellingcat_items": [
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [],
+                "sources": [
+                    "https://t.me/kiev_infoo/3528",
+                    "https://t.me/kievreal1/57157",
+                    "https://censor.net/en/news/3479796/consequences_of_the_missile_attack_on_kyiv_photos"
+                ],
+                "id": "3X5OQP",
+                "description": "Missile remnants found at a multi-story residential building.",
+                "date": "2024-03-21",
+                "location": "Kyiv",
+                "latitude": 50.48275,
+                "longitude": 30.397723,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential",
+                    "Commercial",
+                    "Religious"
+                ],
+                "weapon_system": [],
+                "sources": [
+                    "https://t.me/huyovy_kharkiv/143512",
+                    "https://t.me/huyovy_kharkiv/143521",
+                    "https://t.me/kievreal1/57158",
+                    "https://t.me/kievreal1/57168",
+                    "https://t.me/kievreal1/57177",
+                    "https://t.me/Bratchuk_Sergey/79903",
+                    "https://t.me/Bratchuk_Sergey/79912",
+                    "https://twitter.com/adrozd83/status/1771184082354888714",
+                    "https://t.me/kiev_infoo/3529"
+                ],
+                "id": "T444KZ",
+                "description": "A building and a church damaged in a reported missile attack.",
+                "date": "2024-03-21",
+                "location": "Kyiv",
+                "latitude": 50.474868,
+                "longitude": 30.47846,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Unknown"
+                ],
+                "sources": [
+                    "https://t.me/kievreal1/53875"
+                ],
+                "id": "EHIWGJ",
+                "description": "Residential buildings damaged by a reported shelling.",
+                "date": "2024-01-02",
+                "location": "Kyiv",
+                "latitude": 50.493056,
+                "longitude": 30.43545,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [],
+                "sources": [
+                    "https://t.me/pgo_gov_ua/14050",
+                    "https://www.reuters.com/world/europe/one-killed-russian-drone-strike-northern-ukrainian-city-kyiv-says-2023-07-03/",
+                    "https://www.ukrinform.net/rubric-ato/3731128-death-toll-from-russian-drone-attack-on-sumy-rises-to-three.html",
+                    "https://kyivindependent.com/ukraine-war-latest-july-3/",
+                    "https://t.me/hyevuy_dnepr/55681",
+                    "https://twitter.com/Nikka_Ye/status/1675974280327184388"
+                ],
+                "id": "CIV2270",
+                "description": "Multiple reported killed, injured in drone attack on residential area.",
+                "date": "2023-07-03",
+                "location": "Sumy, Sumy Oblast",
+                "latitude": 50.901762,
+                "longitude": 34.790854,
+                "graphic": false
+            }
+        ]
+    },
+    {
+        "title": "Експертиза кошторисної документації проєкту будівництва «Капітальний ремонт із заміни та аварійного ремонту віконних блоків, пошкоджених внаслідок ракетного обстрілу під час воєнної агресії рф в гуртожитку №5 НУХТ за адресою: пр-т Науки, 26, м. Київ»",
+        "tender_id": "UA-2023-08-10-009386-a",
+        "tender_hash": "d679fbfa0a574309938113743e0f48e6",
+        "status": "Завершена",
+        "expected_cost": {
+            "amount": 4272.0,
+            "currency": "UAH"
+        },
+        "customer": {},
+        "subject": {
+            "delivery_place": "01033, Україна, м. Київ, вул. Володимирська, 68",
+            "description": "Експертиза кошторисної документації проєкту будівництва «Капітальний ремонт із заміни та аварійного ремонту віконних блоків, пошкоджених внаслідок ракетного обстрілу під час воєнної агресії рф в гуртожитку №5 НУХТ за адресою: пр-т Науки, 26, м. Київ»",
+            "quantity": "1 роботи"
+        },
+        "awards": [
+            {
+                "participant_name": "Товариство з обмеженою відповідальністю «ЦЕНТР КОМПЛЕКСНИХ ЕКСПЕРТИЗ ПРОЕКТІВ»",
+                "participant_edrpou": "43598352",
+                "decision": "Переможець",
+                "bid_amount": 4272.0,
+                "bid_currency": "UAH",
+                "publication_date": "10 серпня  2023 15:31"
+            }
+        ],
+        "dates": {},
+        "documents": [
+            {
+                "date": "10 серпня 202315:32",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/1ff9627d174d40d5b099428f6dfaf653?Signature=mt0jNwlssmPy6pKkdf6MM5OwAMnjv8hIelyiC5gDO3%2BkjvXM97Zfl4bwjklZYcKrze%2B7F1BdWxcDYf1TO1iVCw%3D%3D&KeyID=52462340"
+            }
+        ],
+        "location": {
+            "postal_code": "01033",
+            "region": "м. Київ"
+        },
+        "longitude": "50.438515985368745",
+        "latitude": "30.510030865189904",
+        "bellingcat_items": [
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Ballistic missile"
+                ],
+                "sources": [
+                    "https://t.me/c/1687475640/32250",
+                    "https://t.me/c/1687475640/32253",
+                    "https://t.me/uniannet/107406",
+                    "https://t.me/ragnarockkyiv/55867",
+                    "https://t.me/V_Zelenskiy_official/7295",
+                    "https://t.me/c/1687475640/32257",
+                    "https://t.me/u_now/107900",
+                    "https://t.me/dsns_telegram/19880",
+                    "https://t.me/c/1449473117/66285",
+                    "https://t.me/u_now/107939"
+                ],
+                "id": "CIV2321",
+                "description": "Heavy damage to a hotel and nearby residential housing, as a result of a strike. At least 5 people reported as killed, and many as wounded.",
+                "date": "2023-08-07",
+                "location": "Pokrovsk",
+                "latitude": 48.282429,
+                "longitude": 37.176539,
+                "graphic": false
+            }
+        ]
+    },
+    {
+        "title": "Послуга з налаштування системи відеоспостереження  в адмінбудівлі  за адресою: бульвар Тараса Шевченка, 16, м. Київ (відновлення після ракетних обстрілів м. Києва, які сталися 10 жовтня 2022 року)",
+        "tender_id": "UA-2023-03-28-007365-a",
+        "tender_hash": "24caaa84d3ff408c979d75c6bb0cd2f1",
+        "status": "Завершена",
+        "expected_cost": {
+            "amount": 40156.0,
+            "currency": "UAH"
+        },
+        "customer": {},
+        "subject": {
+            "delivery_place": "01135, Україна, Київська область, Київ, проспект Перемоги, 10",
+            "description": "Послуга з налаштування системи відеоспостереження  в адмінбудівлі  за адресою: бульвар Тараса Шевченка, 16, м. Київ (відновлення після ракетних обстрілів м. Києва, які сталися 10 жовтня 2022 року)",
+            "quantity": "1 послуга"
+        },
+        "awards": [
+            {
+                "participant_name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"БІТРЕЙТ\"",
+                "participant_edrpou": "41026575",
+                "decision": "Переможець",
+                "bid_amount": 40156.0,
+                "bid_currency": "UAH",
+                "publication_date": "28 березня  2023 14:39"
+            }
+        ],
+        "dates": {},
+        "documents": [
+            {
+                "date": "28 березня 202314:41",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/8031d22a40e340fab393ed31ec2cef0b?Signature=kyZW5PE5SljAQu6KiqVtbwzlCrC1%2FXaekEOJ9KbfMlhiEw0wxVVO5V0zmlJ7ueRvIK7r1RcDoFRQuutTESJ7Dw%3D%3D&KeyID=52462340"
+            }
+        ],
+        "location": {
+            "postal_code": "01135",
+            "region": "Київ"
+        },
+        "longitude": "50.444017",
+        "latitude": "30.511943",
+        "bellingcat_items": []
+    },
+    {
+        "title": "Виконання робіт з проведення експертизи кошторисної документації «Капітальний ремонт блочного щита керування № 2 машинного відділення ТЕЦ-5, пошкодженого внаслідок ракетного обстрілу рф 09.03.2023р. СП «КИЇВСЬКІ ТЕЦ» КП «КИЇВТЕПЛОЕНЕРГО» за адресою м. Київ, вул. ###########»",
+        "tender_id": "UA-2024-07-04-010625-a",
+        "tender_hash": "ce26fdc38a2e4aa0ab26ea519cbc0151",
+        "status": "Українська Визвольна Війна",
+        "expected_cost": {
+            "amount": 10243.37,
+            "currency": "UAH"
+        },
+        "customer": {},
+        "subject": {
+            "delivery_place": "Україна, Відповідно до документації",
+            "description": "Виконання робіт з проведення експертизи кошторисної документації «Капітальний ремонт блочного щита керування № 2 машинного відділення ТЕЦ-5, пошкодженого внаслідок ракетного обстрілу рф 09.03.2023р. СП «КИЇВСЬКІ ТЕЦ» КП «КИЇВТЕПЛОЕНЕРГО» за адресою м. Київ, вул. ###########»",
+            "quantity": "1 робота"
+        },
+        "awards": [
+            {
+                "participant_name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ «ЦЕНТР КОМПЛЕКСНИХ ЕКСПЕРТИЗ ПРОЕКТІВ»",
+                "participant_edrpou": "43598352",
+                "decision": "Переможець",
+                "bid_amount": 10243.37,
+                "bid_currency": "UAH",
+                "publication_date": "04 липня  2024 19:39"
+            }
+        ],
+        "dates": {},
+        "documents": [
+            {
+                "date": "04 липня 202419:39",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/4f59c4456bd2403f931fa63236f411dd?Signature=fWaqa2g1ngAGFJcxLahDbAePrhMiV%2FvhDNYYUeulW1RasNzKWiRlt1K8K1hAWLu%2FdBZYZx%2FMtFw8vBenDKbKBA%3D%3D&KeyID=52462340"
+            }
+        ],
+        "longitude": "50.4501",
+        "latitude": "30.5234",
+        "bellingcat_items": [
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Unknown"
+                ],
+                "sources": [
+                    "https://t.me/huyovy_kharkiv/148179",
+                    "https://t.me/huyovy_kharkiv/148150",
+                    "https://t.me/news_sumy24/41226",
+                    "https://t.me/c/1006836030/117731",
+                    "https://t.me/c/1006836030/117723",
+                    "https://t.me/c/1006836030/117734",
+                    "https://t.me/itsdonetsk/159478",
+                    "https://t.me/c/1006836030/117755"
+                ],
+                "id": "UUGQEO",
+                "description": "Houses hit in Kyivsky district of Kharkiv",
+                "date": "2024-05-10",
+                "location": "Kharkiv",
+                "latitude": 50.049037,
+                "longitude": 36.321945,
+                "graphic": false
+            }
+        ]
+    },
+    {
+        "title": "Здійснення технічного нагляду за виконанням будівельних робіт за об’єктом: «Капітальний ремонт блочного щита керування № 2 машинного відділення ***, пошкодженого внаслідок ракетного обстрілу рф 09.03.2023р. СП «КИЇВСЬКІ ТЕЦ» КП «КИЇВТЕПЛОЕНЕРГО» за адресою м. Київ, ***»",
+        "tender_id": "UA-2025-02-03-013612-a",
+        "tender_hash": "56c3d98d910e4c62be8b5cee5d53abba",
+        "status": "Завершена",
+        "expected_cost": {
+            "amount": 85440.0,
+            "currency": "UAH"
+        },
+        "customer": {},
+        "subject": {
+            "delivery_place": "Україна, Відповідно до документації",
+            "description": "Здійснення технічного нагляду за виконанням будівельних робіт за об’єктом: «Капітальний ремонт блочного щита керування № 2 машинного відділення ***, пошкодженого внаслідок ракетного обстрілу рф 09.03.2023р. СП «КИЇВСЬКІ ТЕЦ» КП «КИЇВТЕПЛОЕНЕРГО» за адресою м. Київ, ***»",
+            "quantity": "1 робота"
+        },
+        "awards": [
+            {
+                "participant_name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ  ВІДПОВІДАЛЬНІСТЮ «ПРОЕКТ-СТУДІЯ»",
+                "participant_edrpou": "36047326",
+                "decision": "Переможець",
+                "bid_amount": 85440.0,
+                "bid_currency": "UAH",
+                "publication_date": "03 лютого  2025 16:04"
+            }
+        ],
+        "dates": {},
+        "documents": [
+            {
+                "date": "03 лютого 202516:05",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/f8ab8e2e1c7a4a25ad466291780fd7b0?Signature=FapAfACtubohdtplltuBuuRhF%2F7Tu7NO%2FnImhe8th3zYXqajpKn9R2nsU790VauNtewzTtE6XvQuhEUXVtH3Cw%3D%3D&KeyID=52462340"
+            }
+        ],
+        "longitude": "50.4501",
+        "latitude": "30.5234",
+        "bellingcat_items": [
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Unknown"
+                ],
+                "sources": [
+                    "https://twitter.com/Osinttechnical/status/1511365066666487815"
+                ],
+                "id": "CIV0695",
+                "description": "Buildings destroyed in Kyiv",
+                "date": "2022-04-05",
+                "location": null,
+                "latitude": 50.643781,
+                "longitude": 29.931894,
+                "graphic": false
+            }
+        ]
+    },
+    {
+        "title": "Капітальний ремонт з відновлення вікон у нежитловому будинку пошкодженому внаслідок ракетних обстрілів (бойових дій)",
+        "tender_id": "UA-2022-12-19-009783-a",
+        "tender_hash": "8665073ed8d14084af12ca5723006ed5",
+        "status": "Завершена",
+        "expected_cost": {
+            "amount": 1149796.6,
+            "currency": "UAH"
+        },
+        "customer": {},
+        "subject": {
+            "delivery_place": "01030, Україна, м. Київ, ВУЛИЦЯ ЛЕОНТОВИЧА, будинок 11",
+            "description": "Капітальний ремонт з відновлення вікон у нежитловому будинку пошкодженому внаслідок ракетних обстрілів (бойових дій)",
+            "quantity": "1 штуки"
+        },
+        "awards": [
+            {
+                "participant_name": "ТОВ ІНТЕРМЕТАЛПЛАСТ",
+                "participant_edrpou": "33583910",
+                "decision": "Переможець",
+                "bid_amount": 1149796.6,
+                "bid_currency": "UAH",
+                "publication_date": "19 грудня  2022 13:05"
+            }
+        ],
+        "dates": {},
+        "documents": [
+            {
+                "date": "19 грудня 202213:08",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/4f67835484794b60a009df0751617aba?Signature=Y2llMgl5oviSK6nGAceNRZ%2F41tA5DGVxp28Q5kyL%2F7TizNtrCifvKFhz7eqBrgrpE2Pot3S0WhrTsKe%2FLd6vBQ%3D%3D&KeyID=52462340"
+            }
+        ],
+        "location": {
+            "postal_code": "01030",
+            "region": "м. Київ"
+        },
+        "longitude": "50.4446501",
+        "latitude": "30.5099033",
+        "bellingcat_items": [
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Loitering munition"
+                ],
+                "sources": [
+                    "https://t.me/news_sumy24/62331",
+                    "https://t.me/kievreal1/77514",
+                    "https://t.me/kievreal1/77568",
+                    "https://t.me/kievreal1/77569",
+                    "https://t.me/kievreal1/77573",
+                    "https://t.me/kievreal1/77589"
+                ],
+                "id": "A4MRYG",
+                "description": "Report of a loitering munition impacting a residential block.",
+                "date": "2025-01-10",
+                "location": "Solomyanskyi District, Kyiv",
+                "latitude": 50.425625,
+                "longitude": 30.443642,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential",
+                    "Commercial"
+                ],
+                "weapon_system": [
+                    "Unknown"
+                ],
+                "sources": [
+                    "https://x.com/Mike_Eckel/status/1709919151014187109",
+                    "https://t.me/Donbas_Operativniy/57835?single",
+                    "https://t.me/Donbas_Operativniy/57824",
+                    "https://t.me/Donbas_Operativniy/57821",
+                    "https://x.com/99Dominik_/status/1709938725063700716",
+                    "https://t.me/c/1347456995/85769",
+                    "https://t.me/c/1347456995/85771",
+                    "https://t.me/c/1347456995/85775",
+                    "https://t.me/c/1347456995/85777",
+                    "https://t.me/c/1347456995/85808",
+                    "https://t.me/huyovy_kharkiv/126320",
+                    "https://t.me/huyovy_kharkiv/126326",
+                    "https://x.com/JayinKyiv/status/1709924876608283123",
+                    "https://incident.obozrevatel.com/crime/vojna-protiv-rossii/ni-odnogo-voennogo-ne-byilo-pominali-odnoselchanina-v-politsii-raskryili-detali-udara-rf-po-kafe-pod-kupyanskom.htm",
+                    "https://censor.net/en/news/3447684/russian_strike_on_hroza_village_in_kharkiv_region_hits_shop_and_cafe_where_wake_was_held_klymenko_video",
+                    "https://x.com/nexta_tv/status/1709917348725985294"
+                ],
+                "id": "J78P3R",
+                "description": "[Bodies visible.] A grocery store and a cafe were damaged as a result of strike. At least 50 people reported dead, including one child.",
+                "date": "2023-10-05",
+                "location": "Hroza (Kupyansk)",
+                "latitude": 49.671841,
+                "longitude": 37.207391,
+                "graphic": true
+            },
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [],
+                "sources": [
+                    "https://twitter.com/michaeldweiss/status/1498669909261398020"
+                ],
+                "id": "CIV0132",
+                "description": "Widespread and significant damage to residential area.",
+                "date": "2022-03-01",
+                "location": "Kyiv, Borodyanka",
+                "latitude": 50.639824,
+                "longitude": 29.919957,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Unknown"
+                ],
+                "sources": [
+                    "https://www.facebook.com/MNS.GOV.UA/posts/326078186226744",
+                    "https://apnews.com.ua/ua/news/viiska-rf-obstrilyali-selo-pid-kievom-troe-malenkikh-ditei-zaginuli/",
+                    "https://delo.ua/ru/incidents/v-sele-k-yugu-ot-kieva-iz-za-obstrela-pogibli-pyat-celovek-razruseny-doma-foto-393824/"
+                ],
+                "id": "CIV0202",
+                "description": "Residential buildings destroyed by shelling. Five civilians, including three children, reported dead.",
+                "date": "2022-03-04",
+                "location": "Markhalivka, Kyiv Region",
+                "latitude": 50.27242,
+                "longitude": 30.372484,
+                "graphic": true
+            }
+        ]
+    },
+    {
+        "title": "Виконання робіт з розробки проектної документації по об’єкту: «Капітальний ремонт будівлі КРУЕ-330 кВ ***, пошкодженого внаслідок ракетного обстрілу ***, за адресою: м.Київ, ***»",
+        "tender_id": "UA-2024-12-23-009884-a",
+        "tender_hash": "cbcfd70093794677b9a2c489d2987009",
+        "status": "Українська Визвольна Війна",
+        "expected_cost": {
+            "amount": 149385.01,
+            "currency": "UAH"
+        },
+        "customer": {},
+        "subject": {
+            "delivery_place": "Україна, Відповідно до документації",
+            "description": "Виконання робіт з розробки проектної документації по об’єкту: «Капітальний ремонт будівлі КРУЕ-330 кВ ***, пошкодженого внаслідок ракетного обстрілу ***, за адресою: м.Київ, ***»",
+            "quantity": "1 робота"
+        },
+        "awards": [
+            {
+                "participant_name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"УКРЕНЕРГОПРОМ-3\"",
+                "participant_edrpou": "31564943",
+                "decision": "Переможець",
+                "bid_amount": 149385.01,
+                "bid_currency": "UAH",
+                "publication_date": "23 грудня  2024 13:28"
+            }
+        ],
+        "dates": {},
+        "documents": [
+            {
+                "date": "23 грудня 202413:28",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/f7c36c5e05074c24a92a51937a65ddce?Signature=Eb5vTFrbW4MuGhVS0yrF%2FM2KszHIeluuO19lwIdVdQj39QtMbHN4WQIipSHYGM%2BpkEZ8RmWqkILkEHPxLbFCCg%3D%3D&KeyID=52462340"
+            },
+            {
+                "date": "23 грудня 202413:28",
+                "title": "Obgruntuvannya_prihovana_informaciya.pdf",
+                "url": "https://public-docs.prozorro.gov.ua/get/13578dca5c62433694c0ad6b5a977005?Signature=7P5tRQoC1Tg0HJkLXn8L8QxlSf88CTQSx6WYjt947FWuyM7rsT59DcTY%2F8hO0cu%2B8%2BnpxURDWlN0JedHtWeYDA%3D%3D&KeyID=52462340"
+            }
+        ],
+        "longitude": "50.4501",
+        "latitude": "30.5234",
+        "bellingcat_items": [
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Cruise missile"
+                ],
+                "sources": [
+                    "https://t.me/k_dvizh/47047"
+                ],
+                "id": "AS54HB",
+                "description": "Several cruise missiles hit a residential area in central Kyiv.",
+                "date": "2024-07-08",
+                "location": "Kyiv",
+                "latitude": 50.464405,
+                "longitude": 30.471518,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [],
+                "sources": [
+                    "https://t.me/KlymenkoTime/117237",
+                    "https://t.me/KlymenkoTime/117256",
+                    "https://t.me/donetsk_dn/30215",
+                    "https://t.me/donetsk_dn/30213"
+                ],
+                "id": "4BELB7",
+                "description": "A fire reported after shelling of what appears to be a residential area in Kyivskyi district, Donetsk",
+                "date": "2023-12-19",
+                "location": "Kyivskyi district, Donetsk",
+                "latitude": 48.036504,
+                "longitude": 37.781403,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential",
+                    "Roads/Highways/Transport"
+                ],
+                "weapon_system": [
+                    "Cruise missile",
+                    "Anti-air missile"
+                ],
+                "sources": [
+                    "https://t.me/c/1210003725/28970"
+                ],
+                "id": "CIV1768",
+                "description": "Civilian vehicle damaged by missile debris in a cruise missile attack on Kyiv.",
+                "date": "2022-12-29",
+                "location": "Kyiv",
+                "latitude": 50.377468,
+                "longitude": 30.379577,
+                "graphic": false
+            }
+        ]
+    },
+    {
+        "title": "Послуга з поточного ремонту службових приміщень адміністративної будівлі за адресою: бульвар Тараса Шевченка, 16, м. Київ, після ракетного обстрілу",
+        "tender_id": "UA-2023-09-01-010116-a",
+        "tender_hash": "74d3112feda24d07a261770fa40a9d79",
+        "status": "Завершена",
+        "expected_cost": {
+            "amount": 1870000.0,
+            "currency": "UAH"
+        },
+        "customer": {},
+        "subject": {},
+        "awards": [
+            {
+                "participant_name": "Надання послуг",
+                "decision": "Замовник проводить оплату вартості Послуги на підставі Акта приймання виконаних будівельних робіт (форма КБ-2в) та Довідки про вартість виконання будівельних робіт (форма КБ-3) протягом 15 (п’ятнадцяти) робочих днів з дати підписання Акта приймання виконаних будівельних робіт (форма КБ-2в) (далі – Акт) та Довідки про вартість виконання будівельних робіт (форма КБ-3) (далі - Довідка) за умови надходження фактичного бюджетного фінансування видатків на рахунок Замовника у поточному році. У випадку відсутності на розрахунковому рахунку Замовника бюджетного фінансування видатків, призначених на оплату Послуги, Замовник проводить оплату наданої Послуги протягом 10 (десяти) робочих днів з дня надходження відповідного бюджетного фінансування на рахунок Замовника.",
+                "publication_date": "15"
+            }
+        ],
+        "dates": {},
+        "documents": [
+            {
+                "date": "04 вересня 202312:33",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/968e0542f2924984b25666474349d1a5?Signature=46diWOlhsuqNyx63eKpv2rEAcmRr9r3Kcpa0JZ1crxx8RW5NUrPqf4Dkiifhd0wcQHLyE7uP6tbgPTpEXdYCBg%3D%3D&KeyID=52462340"
+            },
+            {
+                "date": "01 вересня 202318:32",
+                "title": "ОГОЛОШЕННЯ про проведення торгів.docx",
+                "url": "https://public-docs.prozorro.gov.ua/get/9a09857df3ce41c784b460b168a21e51?Signature=70f0ahXiiiEOgf6BbFd7bkNmU9tnPnaKv4zJul3AgG1A%2FI%2FazCyCro8E8%2BpWiCabDLh490O0tGDn3YoneFEiBw%3D%3D&KeyID=52462340"
+            },
+            {
+                "date": "01 вересня 202318:31",
+                "title": "ОГОЛОШЕННЯ про проведення торгів.docx",
+                "url": "https://public-docs.prozorro.gov.ua/get/11429c67a6b64f53817de95df31b369b?Signature=2HgcOo8nY9xmYPdDbynzwzmLlUoVIl110p57jG2GZ8VNUQ4X6Z0fDCSTLq0wPgj44SWfIebb2GqEHPn4stNaBA%3D%3D&KeyID=52462340"
+            },
+            {
+                "date": "01 вересня 202318:30",
+                "title": "ТД поточний ремонт_ б-р Т. Шевченка,01.09.docx",
+                "url": "https://public-docs.prozorro.gov.ua/get/04ab7063400841c4a7daf5cb95e2ecf5?Signature=wta%2FL5wOgu1DBZ8C9ygXwBdqdvjs1tMo0OFKaF%2FZfo7dO00YrTyP4eDyhq8h4dzoptbtcj30%2FJCQuRnud1l2BQ%3D%3D&KeyID=52462340"
+            },
+            {
+                "date": "04 вересня 202312:33",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/968e0542f2924984b25666474349d1a5?Signature=46diWOlhsuqNyx63eKpv2rEAcmRr9r3Kcpa0JZ1crxx8RW5NUrPqf4Dkiifhd0wcQHLyE7uP6tbgPTpEXdYCBg%3D%3D&KeyID=52462340"
+            },
+            {
+                "date": "01 вересня 202318:44",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/74876cce954d439da317971830f3aaa4?Signature=ApeIz4L%2FEqYPFiRnD2iAPVZEuETKbj6pfLkcvkDsjOPeMQWB21o3mALPyMMpVY0xjj9d8bEGp%2F8OemdcTchqDA%3D%3D&KeyID=52462340"
+            },
+            {
+                "date": "01 вересня 202318:32",
+                "title": "ОГОЛОШЕННЯ про проведення торгів.docx",
+                "url": "https://public-docs.prozorro.gov.ua/get/9a09857df3ce41c784b460b168a21e51?Signature=70f0ahXiiiEOgf6BbFd7bkNmU9tnPnaKv4zJul3AgG1A%2FI%2FazCyCro8E8%2BpWiCabDLh490O0tGDn3YoneFEiBw%3D%3D&KeyID=52462340"
+            },
+            {
+                "date": "01 вересня 202318:31",
+                "title": "ОГОЛОШЕННЯ про проведення торгів.docx",
+                "url": "https://public-docs.prozorro.gov.ua/get/11429c67a6b64f53817de95df31b369b?Signature=2HgcOo8nY9xmYPdDbynzwzmLlUoVIl110p57jG2GZ8VNUQ4X6Z0fDCSTLq0wPgj44SWfIebb2GqEHPn4stNaBA%3D%3D&KeyID=52462340"
+            },
+            {
+                "date": "01 вересня 202318:30",
+                "title": "ТД поточний ремонт_ б-р Т. Шевченка,01.09.docx",
+                "url": "https://public-docs.prozorro.gov.ua/get/04ab7063400841c4a7daf5cb95e2ecf5?Signature=wta%2FL5wOgu1DBZ8C9ygXwBdqdvjs1tMo0OFKaF%2FZfo7dO00YrTyP4eDyhq8h4dzoptbtcj30%2FJCQuRnud1l2BQ%3D%3D&KeyID=52462340"
+            },
+            {
+                "date": "01 вересня 202318:44",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/74876cce954d439da317971830f3aaa4?Signature=ApeIz4L%2FEqYPFiRnD2iAPVZEuETKbj6pfLkcvkDsjOPeMQWB21o3mALPyMMpVY0xjj9d8bEGp%2F8OemdcTchqDA%3D%3D&KeyID=52462340"
+            }
+        ],
+        "longitude": "50.444017",
+        "latitude": "30.511943",
+        "bellingcat_items": [
+            {
+                "impact": [
+                    "Residential",
+                    "Commercial",
+                    "Religious"
+                ],
+                "weapon_system": [],
+                "sources": [
+                    "https://t.me/huyovy_kharkiv/143512",
+                    "https://t.me/huyovy_kharkiv/143521",
+                    "https://t.me/kievreal1/57158",
+                    "https://t.me/kievreal1/57168",
+                    "https://t.me/kievreal1/57177",
+                    "https://t.me/Bratchuk_Sergey/79903",
+                    "https://t.me/Bratchuk_Sergey/79912",
+                    "https://twitter.com/adrozd83/status/1771184082354888714",
+                    "https://t.me/kiev_infoo/3529"
+                ],
+                "id": "T444KZ",
+                "description": "A building and a church damaged in a reported missile attack.",
+                "date": "2024-03-21",
+                "location": "Kyiv",
+                "latitude": 50.474868,
+                "longitude": 30.47846,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Unknown"
+                ],
+                "sources": [
+                    "srcHidden"
+                ],
+                "id": "CIV1824",
+                "description": "[Sensitive Media: Child's body pulled from rubble] Child killed following strikes on what appears to be a residential area.",
+                "date": "2022-03-19",
+                "location": "Novi Petrivtsi, Kyiv Oblast",
+                "latitude": 50.62107,
+                "longitude": 30.44378,
+                "graphic": true
+            }
+        ]
+    },
+    {
+        "title": "Експертиза кошторисної документації проєкту будівництва «Капітальний ремонт із заміни та аварійного ремонту віконних блоків, пошкоджених внаслідок ракетного обстрілу під час воєнної агресії рф в гуртожитку №1 НУХТ за адресою: вул. Велика Китаївська, 92/98, м. Київ»",
+        "tender_id": "UA-2023-08-10-008039-a",
+        "tender_hash": "1e1a5eed0dbe4cbc972381ea744e0acb",
+        "status": "Завершена",
+        "expected_cost": {
+            "amount": 4272.0,
+            "currency": "UAH"
+        },
+        "customer": {},
+        "subject": {
+            "delivery_place": "01033, Україна, м. Київ, вул. Володимирська, 68",
+            "description": "Експертиза кошторисної документації проєкту будівництва «Капітальний ремонт із заміни та аварійного ремонту віконних блоків, пошкоджених внаслідок ракетного обстрілу під час воєнної агресії рф в гуртожитку №1 НУХТ за адресою: вул. Велика Китаївська, 92/98, м. Київ»",
+            "quantity": "1 роботи"
+        },
+        "awards": [
+            {
+                "participant_name": "Товариство з обмеженою відповідальністю «ЦЕНТР КОМПЛЕКСНИХ ЕКСПЕРТИЗ ПРОЕКТІВ»",
+                "participant_edrpou": "43598352",
+                "decision": "Переможець",
+                "bid_amount": 4272.0,
+                "bid_currency": "UAH",
+                "publication_date": "10 серпня  2023 14:44"
+            }
+        ],
+        "dates": {},
+        "documents": [
+            {
+                "date": "10 серпня 202314:46",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/4809ef04fc6c48dca7f2a63e7f14415d?Signature=Tb4ZnwbOEfFNh8Vj%2BPCNvbhPMyOFEDEMedlVC9hOto%2FdDjAhMac3ZaioTTuxEZKvl%2FQUav0sIjcv5J8W7%2BTvCg%3D%3D&KeyID=52462340"
+            }
+        ],
+        "location": {
+            "postal_code": "01033",
+            "region": "м. Київ"
+        },
+        "longitude": "50.39914309848728",
+        "latitude": "30.531030781586765",
+        "bellingcat_items": [
+            {
+                "impact": [
+                    "Residential",
+                    "Administrative"
+                ],
+                "weapon_system": [
+                    "Loitering munition"
+                ],
+                "sources": [
+                    "https://t.me/c/1913768634/15013",
+                    "https://t.me/kiev_infoo/7371",
+                    "https://t.me/mvs_ukraine/43469"
+                ],
+                "id": "MTMKV8",
+                "description": "Multi-story residential buildings damaged in a drone strike.",
+                "date": "2024-10-31",
+                "location": "Kyiv",
+                "latitude": 50.490884,
+                "longitude": 30.409715,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [],
+                "sources": [
+                    "https://t.me/pgo_gov_ua/14050",
+                    "https://www.reuters.com/world/europe/one-killed-russian-drone-strike-northern-ukrainian-city-kyiv-says-2023-07-03/",
+                    "https://www.ukrinform.net/rubric-ato/3731128-death-toll-from-russian-drone-attack-on-sumy-rises-to-three.html",
+                    "https://kyivindependent.com/ukraine-war-latest-july-3/",
+                    "https://t.me/hyevuy_dnepr/55681",
+                    "https://twitter.com/Nikka_Ye/status/1675974280327184388"
+                ],
+                "id": "CIV2270",
+                "description": "Multiple reported killed, injured in drone attack on residential area.",
+                "date": "2023-07-03",
+                "location": "Sumy, Sumy Oblast",
+                "latitude": 50.901762,
+                "longitude": 34.790854,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential",
+                    "Roads/Highways/Transport"
+                ],
+                "weapon_system": [
+                    "Cruise missile"
+                ],
+                "sources": [
+                    "https://t.me/c/1210003725/28954",
+                    "https://t.me/c/1248149892/29510",
+                    "https://t.me/c/1210003725/28996"
+                ],
+                "id": "CIV1769",
+                "description": "Damage to residential buildings resulted from a cruise missile attack.",
+                "date": "2022-12-29",
+                "location": "Kyiv",
+                "latitude": 50.373287,
+                "longitude": 30.596336,
+                "graphic": false
+            }
+        ]
+    },
+    {
+        "title": "Експертиза кошторисної документації проєкту будівництва «Капітальний ремонт із заміни та аварійного ремонту віконних блоків, пошкоджених внаслідок ракетного обстрілу під час воєнної агресії рф в гуртожитку №3 НУХТ за адресою: пр-т Науки, 23, м. Київ»",
+        "tender_id": "UA-2023-08-10-009269-a",
+        "tender_hash": "2e3cbe3d50484e68a50c04a598b4a016",
+        "status": "Завершена",
+        "expected_cost": {
+            "amount": 4272.0,
+            "currency": "UAH"
+        },
+        "customer": {},
+        "subject": {
+            "delivery_place": "01033, Україна, м. Київ, вул. Володимирська, 68",
+            "description": "Експертиза кошторисної документації проєкту будівництва «Капітальний ремонт із заміни та аварійного ремонту віконних блоків, пошкоджених внаслідок ракетного обстрілу під час воєнної агресії рф в гуртожитку №3 НУХТ за адресою: пр-т Науки, 23, м. Київ»",
+            "quantity": "1 роботи"
+        },
+        "awards": [
+            {
+                "participant_name": "Товариство з обмеженою відповідальністю «ЦЕНТР КОМПЛЕКСНИХ ЕКСПЕРТИЗ ПРОЕКТІВ»",
+                "participant_edrpou": "43598352",
+                "decision": "Переможець",
+                "bid_amount": 4272.0,
+                "bid_currency": "UAH",
+                "publication_date": "10 серпня  2023 15:27"
+            }
+        ],
+        "dates": {},
+        "documents": [
+            {
+                "date": "10 серпня 202315:29",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/490fd95b75c84de5819271a89c18294d?Signature=%2FQ%2BULmasJz6Jhj%2BdM8d4p5VLpnEEPdXwvdG8o%2FZY7Yeta%2F35sXyXZJro6A0Q%2BwjotEejgS%2BpmNOOz697VWCaBQ%3D%3D&KeyID=52462340"
+            }
+        ],
+        "location": {
+            "postal_code": "01033",
+            "region": "м. Київ"
+        },
+        "longitude": "50.398379",
+        "latitude": "30.531392",
+        "bellingcat_items": [
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Loitering munition"
+                ],
+                "sources": [
+                    "https://t.me/truexanewsua/70749",
+                    "https://t.me/CodeAntipova/22941",
+                    "https://magnolia-tv.com/news/87718-u-rzhyshchevi-vnaslidok-nichnoyi-ataky-droniv-3-lyudyny-zahynuly-2-poraneni-ta-4-pid https://vechirniy.kyiv.ua/news/80319/",
+                    "https://t.me/c/1210003725/32869",
+                    "https://t.me/c/1210003725/32887",
+                    "https://t.me/c/1379461702/51370",
+                    "https://t.me/h_saltovka/74441",
+                    "https://t.me/c/1210003725/32883",
+                    "https://t.me/nexta_live/48878",
+                    "https://t.me/nexta_live/48875",
+                    "https://vechirniy.kyiv.ua/news/80319/",
+                    "https://t.me/c/1210003725/32898"
+                ],
+                "id": "CIV1949",
+                "description": "Damage to residential buildings reportedly caused by the attack using drones. At least 1 reported dead.",
+                "date": "2023-03-22",
+                "location": "Rzhyshchiv, Kyiv region",
+                "latitude": 49.965683,
+                "longitude": 31.023166,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential",
+                    "Roads/Highways/Transport"
+                ],
+                "weapon_system": [
+                    "Unknown"
+                ],
+                "sources": [
+                    "https://www.pravda.com.ua/news/2023/03/9/7392624/",
+                    "https://t.me/c/1210003725/32318",
+                    "https://t.me/c/1210003725/32316",
+                    "https://t.me/c/1210003725/32312",
+                    "https://t.me/c/1210003725/32307",
+                    "https://t.me/c/1210003725/32339"
+                ],
+                "id": "CIV1910",
+                "description": "Damage to a residential area, at least 3 people reported to be wounded and several vehicles destroyed. ",
+                "date": "2023-03-09",
+                "location": "Kyiv",
+                "latitude": 50.456134,
+                "longitude": 30.385103,
+                "graphic": false
+            }
+        ]
+    },
+    {
+        "title": "Ремонт системи пожежної сигналізації блока ст.№4 на ТЕЦ-5, пошкодженої внаслідок ракетного обстрілу рф, за адресою: м. Київ, вул. ############",
+        "tender_id": "UA-2024-05-22-008800-a",
+        "tender_hash": "4d8733d6d82f441a90ed9b4dd7076821",
+        "status": "Українська Визвольна Війна",
+        "expected_cost": {
+            "amount": 984673.08,
+            "currency": "UAH"
+        },
+        "customer": {},
+        "subject": {
+            "delivery_place": "Україна, Відповідно до документації",
+            "description": "Ремонт системи пожежної сигналізації блока ст.№4 на ТЕЦ-5, пошкодженої внаслідок ракетного обстрілу рф, за адресою: м. Київ, вул. ############",
+            "quantity": "1 послуга"
+        },
+        "awards": [
+            {
+                "participant_name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ «Охорона-системи безпеки»",
+                "participant_edrpou": "43193268",
+                "decision": "Переможець",
+                "bid_amount": 984673.08,
+                "bid_currency": "UAH",
+                "publication_date": "22 травня  2024 14:51"
+            }
+        ],
+        "dates": {},
+        "documents": [
+            {
+                "date": "22 травня 202414:51",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/82bda75eb5784a678fd09ed1b64b2faa?Signature=Ek8vz%2BrNn9mXTUDNA7%2FJKDD7q%2BzF35E6YjZPhQOw2NdhaKuXSSWD8KYb5j9zLclkDkrDevOABpOKNgKLDjFNAg%3D%3D&KeyID=52462340"
+            },
+            {
+                "date": "22 травня 202414:51",
+                "title": "Obgruntuvannya_pidpisane.pdf",
+                "url": "https://public-docs.prozorro.gov.ua/get/e0c7752904344dbfa7ac7e5307e96679?Signature=5EC9F6l%2BGr6qBqYpH5Jq1YuVIC%2Fwrw28DPqeaC5v3MfYhnhsTOqjVUtU94zB68mUL7Rg6NXWqk5yRrT9RMFYDg%3D%3D&KeyID=52462340"
+            }
+        ],
+        "longitude": "50.4501",
+        "latitude": "30.5234",
+        "bellingcat_items": [
+            {
+                "impact": [
+                    "Residential",
+                    "Healthcare"
+                ],
+                "weapon_system": [
+                    "Unknown"
+                ],
+                "sources": [
+                    "https://t.me/pavlokyrylenko_donoda/8056?single",
+                    "https://twitter.com/KyivIndependent/status/1659965503220187136",
+                    "https://www.facebook.com/cgb.dzer/posts/pfbid0qR4Fng4VHK2ze4DmzLwhADp1GHvjYnz1aZxYsokq7jiDTXZDPBY6JHMVf1wvV1P9l"
+                ],
+                "id": "CIV2079",
+                "description": "Damage to what appears to be residential area as a result of shelling. At least 5 people reported injured, including 1 child.",
+                "date": "2023-05-20",
+                "location": "Toretsk (Donetsk region)",
+                "latitude": 48.394614,
+                "longitude": 37.874011,
+                "graphic": false
+            }
+        ]
+    },
+    {
+        "title": "Капітальний ремонт із заміни та аварійного ремонту віконних блоків, пошкоджених внаслідок ракетного обстрілу під час воєнної   агресії рф в гуртожитку  №3 НУХТ за адресою: м. Київ, пр-т Науки, 23",
+        "tender_id": "UA-2023-08-23-003818-a",
+        "tender_hash": "4fef445e16974f07ad4cad82ebc1f407",
+        "status": "Завершена",
+        "expected_cost": {
+            "amount": 925998.17,
+            "currency": "UAH"
+        },
+        "customer": {},
+        "subject": {
+            "delivery_place": "03028, Україна, м. Київ, пр-т Науки, 23",
+            "description": "Капітальний ремонт із заміни та аварійного ремонту віконних блоків, пошкоджених внаслідок ракетного обстрілу під час воєнної   агресії рф в гуртожитку  №3 НУХТ за адресою: м. Київ, пр-т Науки, 23",
+            "quantity": "1 роботи"
+        },
+        "awards": [
+            {
+                "participant_name": "Товариство з обмеженою відповідальністю «ІНВЕСТБУД-8»",
+                "participant_edrpou": "21561205",
+                "decision": "Переможець",
+                "bid_amount": 925998.17,
+                "bid_currency": "UAH",
+                "publication_date": "23 серпня  2023 11:33"
+            }
+        ],
+        "dates": {},
+        "documents": [
+            {
+                "date": "23 серпня 202311:40",
+                "title": "Електронний підпис",
+                "url": "https://public-docs.prozorro.gov.ua/get/9f23fd4327ac45248afc5ee9749ff019?Signature=nwMIgabSX6WhF9DaQBNevwZLolOc1g4%2FBeXPO8yUvzsruUTdlXepS3cmJ%2BjUztzNpDAjqx7fUgJ4dsFpaNBJCQ%3D%3D&KeyID=52462340"
+            }
+        ],
+        "location": {
+            "postal_code": "03028",
+            "region": "м. Київ"
+        },
+        "longitude": "50.398379",
+        "latitude": "30.531392",
+        "bellingcat_items": [
+            {
+                "impact": [
+                    "Residential"
+                ],
+                "weapon_system": [
+                    "Air strike"
+                ],
+                "sources": [
+                    "https://t.me/kharkiv_xc/104379",
+                    "https://t.me/kharkiv_xc/104367",
+                    "https://t.me/truexakharkiv/46651",
+                    "https://t.me/kharkiv_xc/104382"
+                ],
+                "id": "ROCH0Y",
+                "description": "Kab hitting civilian street in kyivsky district of Kharkov",
+                "date": "2024-07-03",
+                "location": "Kharkiv (Kyivsky district)",
+                "latitude": 50.040124,
+                "longitude": 36.290004,
+                "graphic": false
+            },
+            {
+                "impact": [
+                    "Residential",
+                    "Roads/Highways/Transport"
+                ],
+                "weapon_system": [
+                    "Cruise missile",
+                    "Anti-air missile"
+                ],
+                "sources": [
+                    "https://t.me/c/1210003725/28970"
+                ],
+                "id": "CIV1768",
+                "description": "Civilian vehicle damaged by missile debris in a cruise missile attack on Kyiv.",
+                "date": "2022-12-29",
+                "location": "Kyiv",
+                "latitude": 50.377468,
+                "longitude": 30.379577,
+                "graphic": false
+            }
+        ]
+    }
+]
