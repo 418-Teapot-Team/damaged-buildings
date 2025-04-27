@@ -3,3 +3,4 @@
 output/
 parsed_data/
 analysis_results/
+.venv2

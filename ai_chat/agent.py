@@ -9,7 +9,7 @@ from langgraph.graph import MessagesState, START
 import os
 from langgraph.prebuilt import ToolNode
 from langgraph.types import interrupt
-from tools import search
+from tools import search_knowledge
 from pydantic import BaseModel
 from langgraph.graph import END, StateGraph
 from langgraph.checkpoint.memory import MemorySaver
