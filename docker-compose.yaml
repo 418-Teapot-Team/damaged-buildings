@@ -37,5 +37,4 @@ services:
       dockerfile: Dockerfile
     ports:
       - 8002:80
-    volumes:
-      - ./parsers/api:/app
+
