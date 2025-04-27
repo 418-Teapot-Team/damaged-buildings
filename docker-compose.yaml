@@ -12,6 +12,7 @@ services:
       dockerfile: Dockerfile
     ports:
       - 8001:8001
+
   ai_chat:
     image: ai_chat
     environment:
@@ -26,3 +27,15 @@ services:
       - 8000:8000
     volumes:
       - .:/app
+
+  parsers_api:
+    image: parsers_api
+    build:
+      context: parsers/api
+      args:
+        - DOCKER_BUILDKIT=1
+      dockerfile: Dockerfile
+    ports:
+      - 8002:80
+    volumes:
+      - ./parsers/api:/app
