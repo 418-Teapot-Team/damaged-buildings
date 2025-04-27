@@ -18,16 +18,16 @@ from typing_extensions import Annotated, TypedDict
 from typing import Sequence
 from langchain_core.messages import BaseMessage
 from langchain_openai import ChatOpenAI
-
+from langchain_core.messages.tool import ToolMessage
+from langchain_core.messages.human import HumanMessage
+from langchain_core.messages.ai import AIMessage
 
 class AgentState(TypedDict):
     messages: Annotated[Sequence[BaseMessage], add_messages]
 
-
 class AskHuman(BaseModel):
     """Ask the human a question"""
     question: str
-
 
 class SearchAgent:
     def __init__(self, config, model_name: str = "llama-3.1-8b-instant", tools: list = [{
@@ -68,7 +68,11 @@ class SearchAgent:
         tool_call_id = state["messages"][-1].tool_calls[0]["id"]
         ask = AskHuman.model_validate(state["messages"][-1].tool_calls[0]["args"])
         location = interrupt(ask.question)
+        
+        # Respond to the AskHuman tool with the answer (you may want to send more details)
         tool_message = [{"tool_call_id": tool_call_id, "type": "tool", "content": location}]
+        
+        # Now, wait for user to provide input or action
         return {"messages": tool_message}
 
     def _build_graph(self):
@@ -96,14 +100,27 @@ class SearchAgent:
     def get_chat_history(self):
         if "messages" not in self.graph.get_state(self.config).values:
             return [""]
-        # chat_history = [message.content for message in self.graph.get_state(self.config).values["messages"]]
-        return self.graph.get_state(self.config).values["messages"]
+        history = self.graph.get_state(self.config).values["messages"]
+        print(history)
+        for message in history[::-1]:
+            print(message.content)
+            print(type(message))
+            print(len(message.content) == 0)
+            if type(message) is ToolMessage:
+                return message.content
+            if type(message) is HumanMessage:
+                return message.content
+            if type(message) is AIMessage and len(message.content) == 0:
+                return message.additional_kwargs["tool_calls"]
+            else:
+                return message.content
 
 
 if __name__ == "__main__":
     config = {"configurable": {"thread_id": uuid.uuid4()}}
     agent = SearchAgent(config=config)
 
+    # Example of running the workflow with an initial message
     for event in agent.graph.stream(
         {
             "messages": [
@@ -119,8 +136,8 @@ if __name__ == "__main__":
         if "messages" in event:
             event["messages"][-1].pretty_print()
 
+    # Example of providing a response to a tool call (e.g., Command)
     for event in agent.graph.stream(
-        # highlight-next-line
         Command(resume="san francisco"),  
         config,
         stream_mode="values",
