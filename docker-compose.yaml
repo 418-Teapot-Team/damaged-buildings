@@ -1,5 +1,17 @@
 version: '3'
 services:
+  bot:
+    image: bot
+    environment:
+      - BOT_TOKEN=${BOT_TOKEN}
+      - API_URL=${API_URL}
+    build:
+      context: bot
+      args:
+        - DOCKER_BUILDKIT=1
+      dockerfile: Dockerfile
+    ports:
+      - 8001:8001
   ai_chat:
     image: ai_chat
     environment:
