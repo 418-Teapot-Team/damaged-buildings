@@ -15,6 +15,7 @@ from langchain_core.tools import Tool
 from agent import SearchAgent, AskHuman
 import os
 from dotenv import load_dotenv
+from tools import search_knowledge
 
 load_dotenv()
 
@@ -33,7 +34,7 @@ def create_agent(user_id):
         func=search.run,
     )
 
-    agent = SearchAgent(config=config, tools=[custom_tool, AskHuman])
+    agent = SearchAgent(config=config, tools=[custom_tool, AskHuman, search_knowledge])
     agents[user_id] = agent
     return agent.config
 
