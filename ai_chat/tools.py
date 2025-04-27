@@ -8,7 +8,7 @@ def search_knowledge(query: str):
         This tool is used to get approximate understanding how much money would repairment cost 
         comparing to real cases"""
 
-    client = QdrantClient(host="http://34.70.205.131", port=6333)
+    client = QdrantClient(host="34.70.205.131", port=6333)
     model = SentenceTransformer('all-MiniLM-L6-v2')
 
     query_text = query
