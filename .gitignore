@@ -1,2 +1,5 @@
-.venv
+.venv/
 .env
+output/
+parsed_data/
+analysis_results/
